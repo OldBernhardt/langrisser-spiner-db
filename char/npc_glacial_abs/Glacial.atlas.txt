@@ -1,0 +1,118 @@
+
+Glacial.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: true
+  xy: 1393, 926
+  size: 307, 537
+  orig: 307, 537
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: false
+  xy: 2, 142
+  size: 562, 912
+  orig: 562, 912
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 1931, 1822
+  size: 30, 139
+  orig: 30, 139
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1056
+  size: 759, 905
+  orig: 759, 905
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1393, 1252
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 1150, 412
+  size: 407, 330
+  orig: 407, 330
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 566, 1047
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 1775, 853
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 1136, 926
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: false
+  xy: 1136, 744
+  size: 637, 180
+  orig: 637, 180
+  offset: 0, 0
+  index: -1
+shui4
+  rotate: true
+  xy: 1451, 1235
+  size: 726, 478
+  orig: 726, 478
+  offset: 0, 0
+  index: -1
+shui5
+  rotate: false
+  xy: 763, 1292
+  size: 686, 669
+  orig: 686, 669
+  offset: 0, 0
+  index: -1
+shui6
+  rotate: false
+  xy: 566, 139
+  size: 582, 421
+  orig: 582, 421
+  offset: 0, 0
+  index: -1
+shui7
+  rotate: false
+  xy: 2, 22
+  size: 97, 118
+  orig: 97, 118
+  offset: 0, 0
+  index: -1
+shui8
+  rotate: true
+  xy: 763, 1028
+  size: 262, 628
+  orig: 262, 628
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 566, 562
+  size: 568, 464
+  orig: 568, 464
+  offset: 0, 0
+  index: -1

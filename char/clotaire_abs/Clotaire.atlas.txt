@@ -1,0 +1,20 @@
+
+Clotaire.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+shdow
+  rotate: false
+  xy: 2, 304
+  size: 1267, 1391
+  orig: 1267, 1391
+  offset: 0, 0
+  index: -1

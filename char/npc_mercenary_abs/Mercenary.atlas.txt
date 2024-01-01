@@ -1,0 +1,216 @@
+
+Mercenary.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminnerdown
+  rotate: true
+  xy: 2, 3
+  size: 141, 324
+  orig: 141, 324
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: true
+  xy: 1669, 114
+  size: 122, 283
+  orig: 122, 283
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: true
+  xy: 1311, 184
+  size: 172, 356
+  orig: 172, 356
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: true
+  xy: 1669, 238
+  size: 179, 317
+  orig: 179, 317
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1193, 663
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 976, 165
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 1045, 239
+  size: 385, 264
+  orig: 385, 264
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 1311, 358
+  size: 303, 341
+  orig: 303, 341
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Mighty
+  rotate: true
+  xy: 754, 577
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: true
+  xy: 1289, 167
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 430, 107
+  size: 356, 348
+  orig: 356, 348
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1045, 121
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 328, 23
+  size: 52, 121
+  orig: 52, 121
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 2000, 941
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+jianjiaout_1
+  rotate: false
+  xy: 1616, 419
+  size: 337, 305
+  orig: 337, 305
+  offset: 0, 0
+  index: -1
+jianjiaout_2
+  rotate: false
+  xy: 1175, 135
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+leginner
+  rotate: false
+  xy: 788, 179
+  size: 255, 445
+  orig: 255, 445
+  offset: 0, 0
+  index: -1
+legout
+  rotate: true
+  xy: 1193, 701
+  size: 321, 420
+  orig: 321, 420
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Injury
+  rotate: false
+  xy: 1955, 702
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: true
+  xy: 1289, 197
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 1954, 198
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 1616, 358
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 370, 2
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1616, 394
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Smile
+  rotate: false
+  xy: 328, 2
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: false
+  xy: 754, 626
+  size: 437, 396
+  orig: 437, 396
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: true
+  xy: 788, 83
+  size: 94, 186
+  orig: 94, 186
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 146
+  size: 426, 876
+  orig: 426, 876
+  offset: 0, 0
+  index: -1
+yaodai_1
+  rotate: false
+  xy: 1615, 726
+  size: 383, 296
+  orig: 383, 296
+  offset: 0, 0
+  index: -1
+yaodai_2
+  rotate: false
+  xy: 430, 457
+  size: 322, 565
+  orig: 322, 565
+  offset: 0, 0
+  index: -1

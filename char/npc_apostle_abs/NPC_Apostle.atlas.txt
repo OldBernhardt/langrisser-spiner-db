@@ -1,0 +1,251 @@
+
+NPC_Apostle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_1
+  rotate: true
+  xy: 566, 1423
+  size: 308, 609
+  orig: 308, 609
+  offset: 0, 0
+  index: -1
+arm_inner_2
+  rotate: false
+  xy: 1747, 1353
+  size: 214, 328
+  orig: 214, 328
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: false
+  xy: 2, 766
+  size: 335, 710
+  orig: 335, 710
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 339, 1425
+  size: 51, 117
+  orig: 51, 117
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 1177, 1700
+  size: 31, 95
+  orig: 31, 95
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 1478
+  size: 562, 568
+  orig: 562, 568
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 1567, 510
+  size: 393, 263
+  orig: 393, 263
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 1815, 286
+  size: 222, 155
+  orig: 222, 155
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1567, 798
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 1312, 20
+  size: 173, 184
+  orig: 173, 184
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 1177, 1392
+  size: 568, 289
+  orig: 568, 289
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 1287, 1683
+  size: 644, 363
+  orig: 644, 363
+  offset: 0, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 1109, 606
+  size: 456, 282
+  orig: 456, 282
+  offset: 0, 0
+  index: -1
+fx4
+  rotate: true
+  xy: 767, 909
+  size: 512, 344
+  orig: 512, 344
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: false
+  xy: 1487, 161
+  size: 166, 185
+  orig: 166, 185
+  offset: 0, 0
+  index: -1
+hand_inner_2
+  rotate: true
+  xy: 1680, 1098
+  size: 253, 338
+  orig: 253, 338
+  offset: 0, 0
+  index: -1
+hand_inner_3
+  rotate: false
+  xy: 779, 132
+  size: 185, 256
+  orig: 185, 256
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: true
+  xy: 1109, 358
+  size: 246, 392
+  orig: 246, 392
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: false
+  xy: 881, 586
+  size: 226, 321
+  orig: 226, 321
+  offset: 0, 0
+  index: -1
+hand_out_3
+  rotate: false
+  xy: 966, 168
+  size: 134, 220
+  orig: 134, 220
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 339, 69
+  size: 293, 438
+  orig: 293, 438
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 1487, 2
+  size: 157, 175
+  orig: 157, 175
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: false
+  xy: 339, 364
+  size: 372, 540
+  orig: 372, 540
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 339, 906
+  size: 426, 515
+  orig: 426, 515
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 1113, 1118
+  size: 272, 565
+  orig: 272, 565
+  offset: 0, 0
+  index: -1
+leg_inner_down_2
+  rotate: false
+  xy: 1933, 1938
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 713, 406
+  size: 166, 498
+  orig: 166, 498
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 2, 73
+  size: 335, 691
+  orig: 335, 691
+  offset: 0, 0
+  index: -1
+leg_out_down_2
+  rotate: false
+  xy: 881, 390
+  size: 224, 194
+  orig: 224, 194
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: true
+  xy: 1113, 890
+  size: 226, 558
+  orig: 226, 558
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 566, 1733
+  size: 313, 719
+  orig: 313, 719
+  offset: 0, 0
+  index: -1
+yao_2
+  rotate: true
+  xy: 1503, 348
+  size: 160, 310
+  orig: 160, 310
+  offset: 0, 0
+  index: -1
+yaojia_inner
+  rotate: true
+  xy: 1102, 206
+  size: 150, 267
+  orig: 150, 267
+  offset: 0, 0
+  index: -1
+yaojia_inner_2
+  rotate: true
+  xy: 1102, 37
+  size: 167, 208
+  orig: 167, 208
+  offset: 0, 0
+  index: -1
+yaojia_out
+  rotate: true
+  xy: 1673, 775
+  size: 321, 328
+  orig: 321, 328
+  offset: 0, 0
+  index: -1

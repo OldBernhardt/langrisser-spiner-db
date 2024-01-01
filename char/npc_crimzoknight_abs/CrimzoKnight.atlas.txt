@@ -1,0 +1,104 @@
+
+CrimzoKnight.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_1_Normal_1
+  rotate: false
+  xy: 1767, 2027
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1551, 1791
+  size: 214, 251
+  orig: 214, 251
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: false
+  xy: 657, 496
+  size: 239, 399
+  orig: 239, 399
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 1105, 1567
+  size: 444, 475
+  orig: 444, 475
+  offset: 0, 0
+  index: -1
+lingzi_inner
+  rotate: false
+  xy: 1105, 1167
+  size: 85, 179
+  orig: 85, 179
+  offset: 0, 0
+  index: -1
+lingzi_out
+  rotate: true
+  xy: 2, 2
+  size: 182, 242
+  orig: 182, 242
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 657, 293
+  size: 231, 201
+  orig: 231, 201
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 897
+  size: 1101, 1145
+  orig: 1101, 1145
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 657, 286
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: false
+  xy: 898, 711
+  size: 202, 184
+  orig: 202, 184
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: false
+  xy: 2, 186
+  size: 653, 709
+  orig: 653, 709
+  offset: 0, 0
+  index: -1
+weijinhou_1
+  rotate: false
+  xy: 1389, 1506
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+weijinhou_2
+  rotate: false
+  xy: 1551, 1729
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 1105, 1348
+  size: 282, 217
+  orig: 282, 217
+  offset: 0, 0
+  index: -1

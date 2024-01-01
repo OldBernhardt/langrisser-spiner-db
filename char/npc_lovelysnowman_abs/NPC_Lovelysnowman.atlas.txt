@@ -1,0 +1,97 @@
+
+NPC_Lovelysnowman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_up
+  rotate: true
+  xy: 2, 2
+  size: 106, 388
+  orig: 106, 388
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 397, 88
+  size: 125, 401
+  orig: 125, 401
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 524, 32
+  size: 145, 345
+  orig: 145, 345
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 491
+  size: 722, 520
+  orig: 722, 520
+  offset: 0, 0
+  index: -1
+body_2a
+  rotate: true
+  xy: 726, 334
+  size: 677, 199
+  orig: 677, 199
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 871, 7
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 392, 10
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+eye_1_Normal
+  rotate: false
+  xy: 717, 182
+  size: 155, 45
+  orig: 155, 45
+  offset: 0, 0
+  index: -1
+eye_Hurt
+  rotate: false
+  xy: 717, 229
+  size: 194, 103
+  orig: 194, 103
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 110
+  size: 393, 379
+  orig: 393, 379
+  offset: 0, 0
+  index: -1
+maozi_1
+  rotate: true
+  xy: 524, 179
+  size: 310, 191
+  orig: 310, 191
+  offset: 0, 0
+  index: -1
+maozi_2
+  rotate: false
+  xy: 913, 85
+  size: 97, 247
+  orig: 97, 247
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 927, 875
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1

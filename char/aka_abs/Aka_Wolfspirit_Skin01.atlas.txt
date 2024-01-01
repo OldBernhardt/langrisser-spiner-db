@@ -1,0 +1,97 @@
+
+Aka_Wolfspirit_Skin01.png
+size: 1030,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 700, 10
+  size: 184, 141
+  orig: 184, 141
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 531
+  size: 699, 497
+  orig: 699, 497
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 332, 14
+  size: 134, 112
+  orig: 134, 112
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: true
+  xy: 843, 64
+  size: 130, 136
+  orig: 130, 136
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 122, 19
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+eye_Battle_Mighty
+  rotate: true
+  xy: 931, 431
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 82
+  size: 447, 328
+  orig: 447, 328
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 2, 11
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: false
+  xy: 67, 15
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 703, 196
+  size: 352, 226
+  orig: 352, 226
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: false
+  xy: 332, 128
+  size: 366, 401
+  orig: 366, 401
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 703, 550
+  size: 478, 325
+  orig: 478, 325
+  offset: 0, 0
+  index: -1
+yanlei
+  rotate: false
+  xy: 176, 37
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1

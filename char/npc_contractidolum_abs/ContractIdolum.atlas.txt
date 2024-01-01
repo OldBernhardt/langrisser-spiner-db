@@ -1,0 +1,76 @@
+
+ContractIdolum.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 421, 245
+  size: 315, 721
+  orig: 315, 721
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 1144, 372
+  size: 303, 584
+  orig: 303, 584
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1110, 677
+  size: 337, 770
+  orig: 337, 770
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 2, 2
+  size: 226, 238
+  orig: 226, 238
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 1882, 837
+  size: 99, 177
+  orig: 99, 177
+  offset: 0, 0
+  index: -1
+body_down_1
+  rotate: false
+  xy: 2, 230
+  size: 417, 784
+  orig: 417, 784
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 421, 562
+  size: 687, 452
+  orig: 687, 452
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 1541, 13
+  size: 274, 357
+  orig: 274, 357
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1730, 624
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1144, 36
+  size: 334, 395
+  orig: 334, 395
+  offset: 0, 0
+  index: -1

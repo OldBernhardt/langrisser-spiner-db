@@ -1,0 +1,377 @@
+
+NPC_Iver.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+233
+  rotate: false
+  xy: 2, 527
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+arm_inner_down
+  rotate: true
+  xy: 1864, 1788
+  size: 258, 172
+  orig: 258, 172
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 1051, 1048
+  size: 131, 267
+  orig: 131, 267
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1672, 1143
+  size: 188, 250
+  orig: 188, 250
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 890, 369
+  size: 270, 303
+  orig: 270, 303
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 495, 2
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 1051, 1548
+  size: 487, 498
+  orig: 487, 498
+  offset: 0, 0
+  index: -1
+eye_2_Angry
+  rotate: true
+  xy: 1389, 1062
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+eye_2_Black
+  rotate: false
+  xy: 1507, 601
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: false
+  xy: 305, 3
+  size: 109, 48
+  orig: 109, 48
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: false
+  xy: 1507, 547
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: true
+  xy: 1622, 666
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: true
+  xy: 1947, 1552
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+eye_2_Smile
+  rotate: false
+  xy: 1864, 1663
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 1190, 53
+  size: 202, 243
+  orig: 202, 243
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: false
+  xy: 1446, 461
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: false
+  xy: 835, 413
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: false
+  xy: 423, 57
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 1478, 993
+  size: 181, 192
+  orig: 181, 192
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 1195, 257
+  size: 202, 254
+  orig: 202, 254
+  offset: 0, 0
+  index: -1
+houqunbai
+  rotate: true
+  xy: 924, 641
+  size: 386, 260
+  orig: 386, 260
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: false
+  xy: 1672, 995
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 835, 124
+  size: 243, 353
+  orig: 243, 353
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 504, 644
+  size: 418, 383
+  orig: 418, 383
+  offset: 0, 0
+  index: -1
+jianjiahou_inner
+  rotate: true
+  xy: 495, 60
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+jianjiahou_out
+  rotate: true
+  xy: 574, 60
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 1051, 1181
+  size: 346, 365
+  orig: 346, 365
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 1186, 748
+  size: 290, 298
+  orig: 290, 298
+  offset: 0, 0
+  index: -1
+lingzi_inner
+  rotate: true
+  xy: 305, 122
+  size: 403, 189
+  orig: 403, 189
+  offset: 0, 0
+  index: -1
+lingzi_out
+  rotate: false
+  xy: 1478, 777
+  size: 180, 214
+  orig: 180, 214
+  offset: 0, 0
+  index: -1
+mouth_2_Angry
+  rotate: true
+  xy: 1878, 1430
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+mouth_2_Black
+  rotate: false
+  xy: 305, 53
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: true
+  xy: 1446, 633
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_D
+  rotate: true
+  xy: 1446, 633
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+mouth_2_Normal
+  rotate: false
+  xy: 1540, 1592
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_happy_D
+  rotate: false
+  xy: 1540, 1592
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_Smile
+  rotate: false
+  xy: 1864, 1719
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_happy_A
+  rotate: true
+  xy: 1320, 1063
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_happy_B
+  rotate: true
+  xy: 1832, 1025
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_happy_C
+  rotate: true
+  xy: 1878, 1545
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_A
+  rotate: true
+  xy: 1446, 518
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_B
+  rotate: false
+  xy: 1507, 716
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_C
+  rotate: false
+  xy: 1507, 655
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1195, 461
+  size: 249, 285
+  orig: 249, 285
+  offset: 0, 0
+  index: -1
+nose_2
+  rotate: true
+  xy: 564, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 1029
+  size: 1047, 1017
+  orig: 1047, 1017
+  offset: 0, 0
+  index: -1
+qiandoupeng_inner
+  rotate: false
+  xy: 496, 114
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1
+qiandoupeng_out
+  rotate: true
+  xy: 2, 6
+  size: 519, 301
+  orig: 519, 301
+  offset: 0, 0
+  index: -1
+qunbai_inner
+  rotate: false
+  xy: 1399, 1176
+  size: 271, 370
+  orig: 271, 370
+  offset: 0, 0
+  index: -1
+qunbai_out
+  rotate: false
+  xy: 1540, 1661
+  size: 322, 385
+  orig: 322, 385
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 504, 453
+  size: 384, 189
+  orig: 384, 189
+  offset: 0, 0
+  index: -1
+yaodailianzi
+  rotate: true
+  xy: 1672, 1333
+  size: 326, 204
+  orig: 326, 204
+  offset: 0, 0
+  index: -1
+yaodailianzihou
+  rotate: false
+  xy: 1878, 1339
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1

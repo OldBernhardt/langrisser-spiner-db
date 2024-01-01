@@ -1,0 +1,62 @@
+
+Ghostincrystal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 284
+  size: 357, 732
+  orig: 357, 732
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 361, 419
+  size: 597, 603
+  orig: 597, 603
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 966, 907
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: true
+  xy: 966, 796
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 2, 2
+  size: 280, 310
+  orig: 280, 310
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 870, 287
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: true
+  xy: 573, 29
+  size: 388, 295
+  orig: 388, 295
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: true
+  xy: 361, 12
+  size: 405, 210
+  orig: 405, 210
+  offset: 0, 0
+  index: -1

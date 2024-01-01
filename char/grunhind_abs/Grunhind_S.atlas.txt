@@ -1,0 +1,20 @@
+
+Grunhind_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 460
+  size: 1251, 1362
+  orig: 1251, 1362
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 2
+  size: 420, 456
+  orig: 420, 456
+  offset: 0, 0
+  index: -1

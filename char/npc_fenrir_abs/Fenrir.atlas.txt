@@ -1,0 +1,90 @@
+
+Fenrir.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 685, 220
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 632, 570
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: true
+  xy: 632, 590
+  size: 63, 161
+  orig: 63, 161
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: false
+  xy: 850, 807
+  size: 129, 205
+  orig: 129, 205
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 850, 779
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+eyelid1
+  rotate: true
+  xy: 981, 927
+  size: 85, 24
+  orig: 85, 24
+  offset: 0, 0
+  index: -1
+eyelid2
+  rotate: false
+  xy: 529, 125
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 536
+  size: 628, 476
+  orig: 628, 476
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 632, 655
+  size: 216, 357
+  orig: 216, 357
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 2
+  size: 525, 532
+  orig: 525, 532
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 529, 264
+  size: 270, 257
+  orig: 270, 257
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 529, 148
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

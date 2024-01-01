@@ -1,0 +1,62 @@
+
+Aka_Wolf_Skin02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 308, 236
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 555
+  size: 853, 467
+  orig: 853, 467
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 2, 14
+  size: 77, 157
+  orig: 77, 157
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: false
+  xy: 857, 828
+  size: 135, 194
+  orig: 135, 194
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 994, 994
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 524, 501
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 173
+  size: 304, 380
+  orig: 304, 380
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 308, 366
+  size: 214, 187
+  orig: 214, 187
+  offset: 0, 0
+  index: -1

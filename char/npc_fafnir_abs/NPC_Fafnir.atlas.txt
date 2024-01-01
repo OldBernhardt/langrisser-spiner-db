@@ -1,0 +1,118 @@
+
+NPC_Fafnir.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon_eye
+  rotate: false
+  xy: 925, 98
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+Dragon_eyelid_1
+  rotate: true
+  xy: 833, 294
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Dragon_eyelid_2
+  rotate: false
+  xy: 288, 5
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Dragon_head
+  rotate: true
+  xy: 2, 9
+  size: 562, 284
+  orig: 562, 284
+  offset: 0, 0
+  index: -1
+Dragon_jawbone
+  rotate: false
+  xy: 487, 525
+  size: 451, 240
+  orig: 451, 240
+  offset: 0, 0
+  index: -1
+Dragon_jiao_3
+  rotate: false
+  xy: 433, 362
+  size: 465, 161
+  orig: 465, 161
+  offset: 0, 0
+  index: -1
+Dragon_jiao_in
+  rotate: false
+  xy: 433, 236
+  size: 398, 124
+  orig: 398, 124
+  offset: 0, 0
+  index: -1
+Dragon_jiao_out
+  rotate: true
+  xy: 288, 64
+  size: 507, 143
+  orig: 507, 143
+  offset: 0, 0
+  index: -1
+Dragon_neck_1
+  rotate: false
+  xy: 487, 767
+  size: 515, 255
+  orig: 515, 255
+  offset: 0, 0
+  index: -1
+Dragon_neck_2
+  rotate: false
+  xy: 433, 118
+  size: 380, 116
+  orig: 380, 116
+  offset: 0, 0
+  index: -1
+Dragon_neck_3
+  rotate: false
+  xy: 433, 12
+  size: 334, 104
+  orig: 334, 104
+  offset: 0, 0
+  index: -1
+Dragon_neck_4
+  rotate: true
+  xy: 940, 517
+  size: 248, 76
+  orig: 248, 76
+  offset: 0, 0
+  index: -1
+Dragon_toushi_in
+  rotate: false
+  xy: 900, 178
+  size: 120, 337
+  orig: 120, 337
+  offset: 0, 0
+  index: -1
+Dragon_toushi_out
+  rotate: false
+  xy: 2, 573
+  size: 483, 449
+  orig: 483, 449
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 769, 2
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1

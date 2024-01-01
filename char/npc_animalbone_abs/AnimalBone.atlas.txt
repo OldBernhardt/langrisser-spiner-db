@@ -1,0 +1,111 @@
+
+AnimalBone.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: false
+  xy: 1004, 272
+  size: 235, 192
+  orig: 235, 192
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: false
+  xy: 430, 114
+  size: 165, 142
+  orig: 165, 142
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 2, 39
+  size: 217, 426
+  orig: 217, 426
+  offset: 0, 0
+  index: -1
+arm_out_down_1
+  rotate: false
+  xy: 710, 231
+  size: 292, 233
+  orig: 292, 233
+  offset: 0, 0
+  index: -1
+arm_out_down_2
+  rotate: false
+  xy: 1640, 642
+  size: 109, 53
+  orig: 109, 53
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 1246, 585
+  size: 392, 437
+  orig: 392, 437
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 2, 2
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 1979, 942
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 1004, 246
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 258
+  size: 706, 764
+  orig: 706, 764
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1246, 498
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+eyelid_1
+  rotate: false
+  xy: 430, 52
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+eyelid_2
+  rotate: false
+  xy: 597, 202
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 710, 466
+  size: 534, 556
+  orig: 534, 556
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1640, 697
+  size: 337, 325
+  orig: 337, 325
+  offset: 0, 0
+  index: -1

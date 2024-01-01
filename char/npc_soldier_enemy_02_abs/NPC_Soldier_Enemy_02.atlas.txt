@@ -1,0 +1,202 @@
+
+NPC_Soldier_Enemy_02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 277, 55
+  size: 120, 316
+  orig: 120, 316
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 746, 257
+  size: 115, 228
+  orig: 115, 228
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 327, 592
+  size: 176, 333
+  orig: 176, 333
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 602, 332
+  size: 142, 258
+  orig: 142, 258
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 393, 29
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 277, 2
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 568
+  size: 323, 454
+  orig: 323, 454
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 662, 600
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 327, 770
+  size: 303, 252
+  orig: 303, 252
+  offset: 0, 0
+  index: -1
+face_inner
+  rotate: false
+  xy: 354, 177
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: true
+  xy: 632, 813
+  size: 209, 305
+  orig: 209, 305
+  offset: 0, 0
+  index: -1
+jianjia_inner1
+  rotate: true
+  xy: 652, 94
+  size: 161, 221
+  orig: 161, 221
+  offset: 0, 0
+  index: -1
+jianjia_inner2
+  rotate: false
+  xy: 875, 172
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 354, 323
+  size: 246, 267
+  orig: 246, 267
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 2, 6
+  size: 154, 273
+  orig: 154, 273
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 662, 621
+  size: 190, 270
+  orig: 190, 270
+  offset: 0, 0
+  index: -1
+lingzi_inner1
+  rotate: true
+  xy: 277, 16
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+lingzi_inner2
+  rotate: false
+  xy: 595, 109
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 875, 126
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 937, 207
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 875, 101
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 632, 772
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 595, 68
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 351, 21
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 746, 374
+  size: 208, 245
+  orig: 208, 245
+  offset: 0, 0
+  index: -1
+yaojia_inner1
+  rotate: false
+  xy: 242, 178
+  size: 110, 388
+  orig: 110, 388
+  offset: 0, 0
+  index: -1
+yaojia_inner2
+  rotate: false
+  xy: 939, 729
+  size: 80, 293
+  orig: 80, 293
+  offset: 0, 0
+  index: -1
+yaojia_out
+  rotate: false
+  xy: 2, 162
+  size: 238, 404
+  orig: 238, 404
+  offset: 0, 0
+  index: -1

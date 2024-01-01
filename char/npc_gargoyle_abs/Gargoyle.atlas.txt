@@ -1,0 +1,202 @@
+
+Gargoyle.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 671, 115
+  size: 213, 159
+  orig: 213, 159
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 2, 2
+  size: 95, 270
+  orig: 95, 270
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1584, 454
+  size: 249, 235
+  orig: 249, 235
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 1236, 193
+  size: 235, 283
+  orig: 235, 283
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 2022, 934
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 343, 100
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 389, 7
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 832, 86
+  size: 246, 277
+  orig: 246, 277
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 1584, 691
+  size: 330, 372
+  orig: 330, 372
+  offset: 0, 0
+  index: -1
+chibang_1
+  rotate: false
+  xy: 2, 330
+  size: 810, 691
+  orig: 810, 691
+  offset: 0, 0
+  index: -1
+chibang_2
+  rotate: false
+  xy: 814, 334
+  size: 420, 687
+  orig: 420, 687
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 274, 4
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 1958, 707
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 1521, 400
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+eyelid_1
+  rotate: true
+  xy: 2022, 955
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+eyelid_2
+  rotate: true
+  xy: 1202, 273
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+eyelid_3
+  rotate: false
+  xy: 1111, 90
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+eyelid_4
+  rotate: false
+  xy: 498, 96
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 2, 99
+  size: 339, 229
+  orig: 339, 229
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1835, 388
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 1835, 526
+  size: 163, 152
+  orig: 163, 152
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1202, 31
+  size: 247, 160
+  orig: 247, 160
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: false
+  xy: 1958, 779
+  size: 62, 242
+  orig: 62, 242
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 1111, 112
+  size: 89, 220
+  orig: 89, 220
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 1236, 430
+  size: 220, 330
+  orig: 220, 330
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 343, 118
+  size: 210, 326
+  orig: 210, 326
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1451, 37
+  size: 119, 154
+  orig: 119, 154
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 1236, 652
+  size: 346, 369
+  orig: 346, 369
+  offset: 0, 0
+  index: -1

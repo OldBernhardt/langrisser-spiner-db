@@ -1,0 +1,160 @@
+
+Troll.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: true
+  xy: 2, 79
+  size: 198, 470
+  orig: 198, 470
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: false
+  xy: 444, 338
+  size: 178, 410
+  orig: 178, 410
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: true
+  xy: 602, 1393
+  size: 302, 570
+  orig: 302, 570
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: true
+  xy: 1309, 1720
+  size: 316, 555
+  orig: 316, 555
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 169, 53
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1314, 1500
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 1309, 1700
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 1866, 1757
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+blood_5
+  rotate: true
+  xy: 444, 280
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 1320
+  size: 598, 716
+  orig: 598, 716
+  offset: 0, 0
+  index: -1
+erduo_1
+  rotate: false
+  xy: 1174, 1392
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+erduo_2
+  rotate: false
+  xy: 1077, 1264
+  size: 93, 127
+  orig: 93, 127
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 972, 876
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 2, 2
+  size: 165, 75
+  orig: 165, 75
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 624, 338
+  size: 287, 350
+  orig: 287, 350
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: false
+  xy: 2, 750
+  size: 581, 568
+  orig: 581, 568
+  offset: 0, 0
+  index: -1
+jianjiaout_1
+  rotate: false
+  xy: 2, 279
+  size: 440, 469
+  orig: 440, 469
+  offset: 0, 0
+  index: -1
+jianjiaout_2
+  rotate: false
+  xy: 1174, 1519
+  size: 170, 176
+  orig: 170, 176
+  offset: 0, 0
+  index: -1
+leginner
+  rotate: false
+  xy: 624, 627
+  size: 346, 401
+  orig: 346, 401
+  offset: 0, 0
+  index: -1
+legout
+  rotate: true
+  xy: 602, 1030
+  size: 361, 473
+  orig: 361, 473
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 602, 1697
+  size: 705, 339
+  orig: 705, 339
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 1866, 1789
+  size: 247, 174
+  orig: 247, 174
+  offset: 0, 0
+  index: -1

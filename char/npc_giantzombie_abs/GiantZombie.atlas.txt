@@ -1,0 +1,223 @@
+
+GiantZombie.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1444, 756
+  size: 259, 497
+  orig: 259, 497
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1245, 276
+  size: 238, 341
+  orig: 238, 341
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 2, 111
+  size: 304, 502
+  orig: 304, 502
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 506, 34
+  size: 256, 294
+  orig: 256, 294
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 875, 204
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1220, 251
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 1751, 605
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 417
+  size: 504, 598
+  orig: 504, 598
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1485, 371
+  size: 224, 261
+  orig: 224, 261
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1991, 770
+  size: 42, 130
+  orig: 42, 130
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1745, 649
+  size: 105, 222
+  orig: 105, 222
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1943, 902
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 422, 44
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 908, 243
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 802, 122
+  size: 71, 168
+  orig: 71, 168
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1943, 756
+  size: 46, 144
+  orig: 46, 144
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 291, 19
+  size: 90, 129
+  orig: 90, 129
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1711, 512
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 508, 292
+  size: 398, 341
+  orig: 398, 341
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 802, 25
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 508, 635
+  size: 528, 380
+  orig: 528, 380
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 1711, 430
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 1056, 260
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 1138, 260
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 974, 259
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: true
+  xy: 875, 122
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1485, 208
+  size: 230, 161
+  orig: 230, 161
+  offset: 0, 0
+  index: -1
+pidai
+  rotate: true
+  xy: 908, 291
+  size: 326, 335
+  orig: 326, 335
+  offset: 0, 0
+  index: -1
+yibai_ou_3
+  rotate: true
+  xy: 2, 2
+  size: 107, 287
+  orig: 107, 287
+  offset: 0, 0
+  index: -1
+yibai_out_1
+  rotate: true
+  xy: 1038, 619
+  size: 396, 404
+  orig: 396, 404
+  offset: 0, 0
+  index: -1
+yibai_out_2
+  rotate: true
+  xy: 1444, 634
+  size: 120, 299
+  orig: 120, 299
+  offset: 0, 0
+  index: -1

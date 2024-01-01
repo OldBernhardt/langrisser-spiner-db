@@ -1,0 +1,251 @@
+
+NightElf.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 255, 170
+  size: 143, 185
+  orig: 143, 185
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 757, 481
+  size: 80, 262
+  orig: 80, 262
+  offset: 0, 0
+  index: -1
+arm_out_down_1
+  rotate: true
+  xy: 1021, 404
+  size: 168, 125
+  orig: 168, 125
+  offset: 0, 0
+  index: -1
+arm_out_down_2
+  rotate: false
+  xy: 722, 475
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1696, 784
+  size: 173, 235
+  orig: 173, 235
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 2, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 1149, 764
+  size: 255, 285
+  orig: 255, 285
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1148, 480
+  size: 214, 135
+  orig: 214, 135
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: true
+  xy: 1410, 497
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: true
+  xy: 514, 47
+  size: 125, 41
+  orig: 125, 41
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: true
+  xy: 1996, 894
+  size: 125, 49
+  orig: 125, 49
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1519, 681
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 1364, 489
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 1519, 727
+  size: 126, 46
+  orig: 126, 46
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1436, 775
+  size: 258, 244
+  orig: 258, 244
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 439, 323
+  size: 138, 85
+  orig: 138, 85
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 447, 10
+  size: 65, 162
+  orig: 65, 162
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1148, 387
+  size: 91, 191
+  orig: 91, 191
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 221
+  size: 251, 798
+  orig: 251, 798
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 1450, 665
+  size: 67, 108
+  orig: 67, 108
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 442, 174
+  size: 147, 89
+  orig: 147, 89
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 27
+  size: 245, 192
+  orig: 245, 192
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 559, 492
+  size: 196, 444
+  orig: 196, 444
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 249, 29
+  size: 196, 139
+  orig: 196, 139
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: true
+  xy: 1397, 624
+  size: 138, 51
+  orig: 138, 51
+  offset: 0, 0
+  index: -1
+xiabai_1
+  rotate: false
+  xy: 255, 315
+  size: 182, 704
+  orig: 182, 704
+  offset: 0, 0
+  index: -1
+xiabai_2
+  rotate: true
+  xy: 559, 938
+  size: 81, 588
+  orig: 81, 588
+  offset: 0, 0
+  index: -1
+xiabai_3
+  rotate: false
+  xy: 439, 463
+  size: 118, 556
+  orig: 118, 556
+  offset: 0, 0
+  index: -1
+xiabai_4
+  rotate: false
+  xy: 757, 563
+  size: 260, 373
+  orig: 260, 373
+  offset: 0, 0
+  index: -1
+xiabai_5
+  rotate: false
+  xy: 1019, 574
+  size: 127, 362
+  orig: 127, 362
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: true
+  xy: 1871, 792
+  size: 227, 123
+  orig: 227, 123
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: true
+  xy: 1647, 681
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: false
+  xy: 559, 433
+  size: 161, 57
+  orig: 161, 57
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: true
+  xy: 1148, 617
+  size: 145, 247
+  orig: 145, 247
+  offset: 0, 0
+  index: -1
+yaojia_4
+  rotate: false
+  xy: 1341, 434
+  size: 9, 44
+  orig: 9, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+NPC_Stoneman.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angry
+  rotate: false
+  xy: 2, 842
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1
+Firm
+  rotate: false
+  xy: 624, 1615
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 2, 422
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1
+Normal
+  rotate: false
+  xy: 1015, 1615
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1
+Smile
+  rotate: false
+  xy: 2, 2
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 2, 1262
+  size: 620, 771
+  orig: 620, 771
+  offset: 0, 0
+  index: -1
+special
+  rotate: false
+  xy: 1406, 1615
+  size: 389, 418
+  orig: 389, 418
+  offset: 0, 0
+  index: -1

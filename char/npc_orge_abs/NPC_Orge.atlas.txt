@@ -1,0 +1,237 @@
+
+NPC_Orge.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1274, 1798
+  size: 220, 532
+  orig: 220, 532
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1007, 1511
+  size: 265, 507
+  orig: 265, 507
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 719, 1418
+  size: 286, 600
+  orig: 286, 600
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 1274, 1513
+  size: 283, 389
+  orig: 283, 389
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 1655, 1408
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 1259, 902
+  size: 166, 92
+  orig: 166, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1042
+  size: 715, 976
+  orig: 715, 976
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 1259, 806
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: false
+  xy: 935, 671
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+eye_2_Angry
+  rotate: false
+  xy: 1484, 1420
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 778, 3
+  size: 215, 100
+  orig: 215, 100
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 1159, 837
+  size: 208, 98
+  orig: 208, 98
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 1274, 1413
+  size: 208, 98
+  orig: 208, 98
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 1234, 1313
+  size: 208, 98
+  orig: 208, 98
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 621, 656
+  size: 312, 363
+  orig: 312, 363
+  offset: 0, 0
+  index: -1
+hair_inner
+  rotate: false
+  xy: 935, 788
+  size: 81, 231
+  orig: 81, 231
+  offset: 0, 0
+  index: -1
+hair_out
+  rotate: false
+  xy: 1665, 1486
+  size: 107, 310
+  orig: 107, 310
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 2, 2
+  size: 349, 502
+  orig: 349, 502
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 353
+  size: 617, 687
+  orig: 617, 687
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 621, 379
+  size: 358, 275
+  orig: 358, 275
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 719, 1021
+  size: 395, 277
+  orig: 395, 277
+  offset: 0, 0
+  index: -1
+mouth_2_Angry
+  rotate: false
+  xy: 1007, 1344
+  size: 225, 165
+  orig: 225, 165
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: true
+  xy: 1018, 840
+  size: 205, 139
+  orig: 205, 139
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 1808, 1723
+  size: 210, 127
+  orig: 210, 127
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 1774, 1481
+  size: 203, 113
+  orig: 203, 113
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 1202, 1194
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1194, 1070
+  size: 197, 122
+  orig: 197, 122
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: false
+  xy: 1774, 1596
+  size: 199, 125
+  orig: 199, 125
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: false
+  xy: 998, 1198
+  size: 202, 144
+  orig: 202, 144
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 998, 1047
+  size: 194, 149
+  orig: 194, 149
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 1808, 1852
+  size: 225, 166
+  orig: 225, 166
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 778, 105
+  size: 272, 211
+  orig: 272, 211
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 506, 16
+  size: 335, 270
+  orig: 335, 270
+  offset: 0, 0
+  index: -1

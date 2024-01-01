@@ -1,0 +1,188 @@
+
+VampireBat.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 1783, 391
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 476, 899
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 1939, 929
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 971, 34
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 476, 281
+  size: 484, 603
+  orig: 484, 603
+  offset: 0, 0
+  index: -1
+chibang_inner_1
+  rotate: true
+  xy: 615, 886
+  size: 468, 649
+  orig: 468, 649
+  offset: 0, 0
+  index: -1
+chibang_inner_2
+  rotate: false
+  xy: 2, 62
+  size: 472, 896
+  orig: 472, 896
+  offset: 0, 0
+  index: -1
+chibang_out_1
+  rotate: false
+  xy: 615, 1356
+  size: 661, 690
+  orig: 661, 690
+  offset: 0, 0
+  index: -1
+chibang_out_2
+  rotate: false
+  xy: 2, 960
+  size: 611, 1086
+  orig: 611, 1086
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 1783, 527
+  size: 154, 441
+  orig: 154, 441
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: true
+  xy: 476, 9
+  size: 270, 493
+  orig: 270, 493
+  offset: 0, 0
+  index: -1
+eye_inner
+  rotate: true
+  xy: 971, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+eye_out
+  rotate: false
+  xy: 1950, 2006
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+eyelid_1
+  rotate: false
+  xy: 1266, 932
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+eyelid_2
+  rotate: false
+  xy: 2, 24
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+eyelid_3
+  rotate: false
+  xy: 1583, 335
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+eyelid_4
+  rotate: false
+  xy: 1321, 141
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 1583, 364
+  size: 198, 604
+  orig: 198, 604
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 1278, 1185
+  size: 234, 712
+  orig: 234, 712
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 971, 74
+  size: 245, 348
+  orig: 245, 348
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 1321, 169
+  size: 128, 264
+  orig: 128, 264
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 1352, 299
+  size: 229, 669
+  orig: 229, 669
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 1266, 970
+  size: 213, 703
+  orig: 213, 703
+  offset: 0, 0
+  index: -1
+maofa_2
+  rotate: false
+  xy: 1278, 1421
+  size: 670, 625
+  orig: 670, 625
+  offset: 0, 0
+  index: -1
+mmaofa_1
+  rotate: true
+  xy: 962, 321
+  size: 563, 388
+  orig: 563, 388
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1971, 1177
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1

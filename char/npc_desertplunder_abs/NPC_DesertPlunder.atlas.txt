@@ -1,0 +1,230 @@
+
+NPC_DesertPlunder.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armdown
+  rotate: false
+  xy: 1366, 932
+  size: 275, 249
+  orig: 275, 249
+  offset: 0, 0
+  index: -1
+armup
+  rotate: true
+  xy: 1445, 1183
+  size: 266, 290
+  orig: 266, 290
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 368, 254
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 424, 189
+  size: 361, 404
+  orig: 361, 404
+  offset: 0, 0
+  index: -1
+bodydown_dangbu1
+  rotate: false
+  xy: 887, 1236
+  size: 556, 807
+  orig: 556, 807
+  offset: 0, 0
+  index: -1
+bodydown_dangbu2
+  rotate: false
+  xy: 1445, 1451
+  size: 489, 592
+  orig: 489, 592
+  offset: 0, 0
+  index: -1
+bodydown_dangbu3
+  rotate: false
+  xy: 2, 317
+  size: 420, 497
+  orig: 420, 497
+  offset: 0, 0
+  index: -1
+bodydown_dangbu4
+  rotate: false
+  xy: 424, 552
+  size: 428, 425
+  orig: 428, 425
+  offset: 0, 0
+  index: -1
+bodydown_yaodai
+  rotate: false
+  xy: 1737, 1260
+  size: 309, 189
+  orig: 309, 189
+  offset: 0, 0
+  index: -1
+eyeMighty
+  rotate: true
+  xy: 1603, 828
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+eyeangry
+  rotate: true
+  xy: 374, 875
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+eyehurt
+  rotate: false
+  xy: 1648, 894
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+eyenormal1
+  rotate: true
+  xy: 1603, 724
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+eyenormal2
+  rotate: false
+  xy: 1648, 848
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+eyenormal3
+  rotate: false
+  xy: 1285, 558
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1643, 946
+  size: 175, 235
+  orig: 175, 235
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1936, 1679
+  size: 80, 134
+  orig: 80, 134
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1936, 1815
+  size: 80, 228
+  orig: 80, 228
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1936, 1541
+  size: 61, 136
+  orig: 61, 136
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 1578, 586
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 1403, 680
+  size: 198, 250
+  orig: 198, 250
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1403, 553
+  size: 173, 125
+  orig: 173, 125
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 2, 2
+  size: 313, 364
+  orig: 313, 364
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 1285, 604
+  size: 116, 288
+  orig: 116, 288
+  offset: 0, 0
+  index: -1
+hatinner
+  rotate: true
+  xy: 368, 26
+  size: 161, 328
+  orig: 161, 328
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 1820, 870
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 374, 979
+  size: 511, 1064
+  orig: 511, 1064
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1820, 1054
+  size: 190, 204
+  orig: 190, 204
+  offset: 0, 0
+  index: -1
+wandao
+  rotate: true
+  xy: 887, 894
+  size: 340, 477
+  orig: 340, 477
+  offset: 0, 0
+  index: -1
+weijing2
+  rotate: false
+  xy: 2, 816
+  size: 370, 1227
+  orig: 370, 1227
+  offset: 0, 0
+  index: -1
+weijinginner
+  rotate: true
+  xy: 698, 24
+  size: 163, 217
+  orig: 163, 217
+  offset: 0, 0
+  index: -1
+weijng
+  rotate: false
+  xy: 854, 573
+  size: 429, 319
+  orig: 429, 319
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+NPC_Aniki_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 2, 13
+  size: 298, 213
+  orig: 298, 213
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1719, 1381
+  size: 255, 323
+  orig: 255, 323
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 567, 1141
+  size: 320, 225
+  orig: 320, 225
+  offset: 0, 0
+  index: -1
+arm_out_up_1
+  rotate: false
+  xy: 1719, 1706
+  size: 288, 334
+  orig: 288, 334
+  offset: 0, 0
+  index: -1
+arm_out_up_2
+  rotate: true
+  xy: 479, 740
+  size: 148, 213
+  orig: 148, 213
+  offset: 0, 0
+  index: -1
+arm_out_up_3
+  rotate: false
+  xy: 310, 147
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 2, 663
+  size: 415, 260
+  orig: 415, 260
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: true
+  xy: 264, 728
+  size: 430, 213
+  orig: 430, 213
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 567, 1368
+  size: 485, 672
+  orig: 485, 672
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: false
+  xy: 1366, 1154
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+eye_1_Normal
+  rotate: true
+  xy: 934, 961
+  size: 185, 91
+  orig: 185, 91
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: true
+  xy: 217, 126
+  size: 185, 91
+  orig: 185, 91
+  offset: 0, 0
+  index: -1
+eye_1_Suprise
+  rotate: false
+  xy: 1088, 1245
+  size: 271, 122
+  orig: 271, 122
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 2, 313
+  size: 262, 348
+  orig: 262, 348
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 832, 952
+  size: 100, 187
+  orig: 100, 187
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 266, 315
+  size: 132, 199
+  orig: 132, 199
+  offset: 0, 0
+  index: -1
+hongyun_1_Normal
+  rotate: false
+  xy: 1088, 1143
+  size: 276, 100
+  orig: 276, 100
+  offset: 0, 0
+  index: -1
+hongyun_1_Smile
+  rotate: true
+  xy: 724, 863
+  size: 276, 106
+  orig: 276, 106
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: false
+  xy: 264, 1160
+  size: 301, 880
+  orig: 301, 880
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: false
+  xy: 1054, 1369
+  size: 351, 671
+  orig: 351, 671
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 2, 1080
+  size: 260, 960
+  orig: 260, 960
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 1407, 1389
+  size: 310, 651
+  orig: 310, 651
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 694, 740
+  size: 140, 121
+  orig: 140, 121
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 217, 2
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 1389, 1013
+  size: 139, 125
+  orig: 139, 125
+  offset: 0, 0
+  index: -1
+mouth_1_smile_A
+  rotate: false
+  xy: 1361, 1246
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+mouth_1_smile_B
+  rotate: true
+  xy: 359, 5
+  size: 140, 126
+  orig: 140, 126
+  offset: 0, 0
+  index: -1
+mouth_1_smile_C
+  rotate: false
+  xy: 1502, 1261
+  size: 140, 126
+  orig: 140, 126
+  offset: 0, 0
+  index: -1
+mouth_1_smile_D
+  rotate: false
+  xy: 1644, 1258
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 266, 449
+  size: 209, 277
+  orig: 209, 277
+  offset: 0, 0
+  index: -1
+nose_1
+  rotate: false
+  xy: 832, 875
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+shouhuan_inner
+  rotate: true
+  xy: 1027, 962
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+shouhuan_out
+  rotate: false
+  xy: 1215, 960
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+tattoo_1
+  rotate: false
+  xy: 1785, 1341
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tattoo_2
+  rotate: false
+  xy: 1389, 961
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+xiongji_inner
+  rotate: false
+  xy: 889, 1148
+  size: 197, 218
+  orig: 197, 218
+  offset: 0, 0
+  index: -1
+xiongji_out
+  rotate: false
+  xy: 479, 890
+  size: 243, 249
+  orig: 243, 249
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+NPC_InjuredQueenCaconsis.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 634, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 936, 870
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 19
+  size: 630, 1003
+  orig: 630, 1003
+  offset: 0, 0
+  index: -1
+eye_1_Hurt_1
+  rotate: true
+  xy: 936, 897
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+eye_1_Hurt_2
+  rotate: false
+  xy: 634, 31
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+eye_1_Hurt_3
+  rotate: true
+  xy: 758, 541
+  size: 124, 64
+  orig: 124, 64
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 853, 687
+  size: 81, 335
+  orig: 81, 335
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 634, 97
+  size: 141, 259
+  orig: 141, 259
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 634, 358
+  size: 122, 307
+  orig: 122, 307
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_A
+  rotate: true
+  xy: 721, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_B
+  rotate: false
+  xy: 758, 518
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_C
+  rotate: true
+  xy: 695, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt_D
+  rotate: true
+  xy: 667, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+toujin
+  rotate: false
+  xy: 634, 667
+  size: 217, 355
+  orig: 217, 355
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+ForestPriestGeneral.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 572, 101
+  size: 112, 271
+  orig: 112, 271
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 268, 21
+  size: 99, 234
+  orig: 99, 234
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 686, 69
+  size: 112, 310
+  orig: 112, 310
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 800, 239
+  size: 91, 228
+  orig: 91, 228
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 800, 71
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 243, 154
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 334, 374
+  size: 319, 350
+  orig: 319, 350
+  offset: 0, 0
+  index: -1
+daizi_inner
+  rotate: false
+  xy: 971, 453
+  size: 49, 245
+  orig: 49, 245
+  offset: 0, 0
+  index: -1
+daizi_out
+  rotate: true
+  xy: 686, 381
+  size: 312, 86
+  orig: 312, 86
+  offset: 0, 0
+  index: -1
+daizi_out_1
+  rotate: false
+  xy: 885, 985
+  size: 134, 37
+  orig: 134, 37
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 633
+  size: 330, 389
+  orig: 330, 389
+  offset: 0, 0
+  index: -1
+hair_inner
+  rotate: false
+  xy: 893, 308
+  size: 71, 159
+  orig: 71, 159
+  offset: 0, 0
+  index: -1
+hair_inner_1
+  rotate: false
+  xy: 774, 469
+  size: 195, 229
+  orig: 195, 229
+  offset: 0, 0
+  index: -1
+hair_out
+  rotate: true
+  xy: 815, 700
+  size: 79, 203
+  orig: 79, 203
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 2, 38
+  size: 112, 264
+  orig: 112, 264
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 305, 122
+  size: 265, 250
+  orig: 265, 250
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 774, 423
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 2, 14
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 771, 720
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 305, 591
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 504, 91
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 800, 88
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+piaodai_inner
+  rotate: false
+  xy: 243, 198
+  size: 60, 433
+  orig: 60, 433
+  offset: 0, 0
+  index: -1
+piaodai_out
+  rotate: true
+  xy: 334, 895
+  size: 127, 549
+  orig: 127, 549
+  offset: 0, 0
+  index: -1
+xiabai_inner
+  rotate: true
+  xy: 334, 695
+  size: 47, 435
+  orig: 47, 435
+  offset: 0, 0
+  index: -1
+xiabai_inner_1
+  rotate: true
+  xy: 815, 781
+  size: 112, 207
+  orig: 112, 207
+  offset: 0, 0
+  index: -1
+xiabai_inner_2
+  rotate: false
+  xy: 2, 152
+  size: 239, 479
+  orig: 239, 479
+  offset: 0, 0
+  index: -1
+xiabai_out
+  rotate: true
+  xy: 334, 744
+  size: 149, 479
+  orig: 149, 479
+  offset: 0, 0
+  index: -1

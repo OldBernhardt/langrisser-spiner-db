@@ -1,0 +1,2904 @@
+{
+  "char": {
+    "Adankelmo": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Adankelmo/Adankelmo_Skin02.atlas.txt",
+        "png": "char/Adankelmo/Adankelmo_Skin02.png",
+        "skel": "char/Adankelmo/Adankelmo_Skin02.skel.bytes"
+      }
+    },
+    "Agnes": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Agnes/Agnes_Skin01.atlas.txt",
+        "png": "char/Agnes/Agnes_Skin01.png",
+        "skel": "char/Agnes/Agnes_Skin01.skel.bytes"
+      }
+    },
+    "Aimeeda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Aimeeda/Aimeeda_Skin06.atlas.txt",
+        "png": "char/Aimeeda/Aimeeda_Skin06.png",
+        "skel": "char/Aimeeda/Aimeeda_Skin06.skel.bytes"
+      }
+    },
+    "Ainsooalgown": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ainsooalgown/AinsOoalGown_Cutscene.skel.bytes"
+      }
+    },
+    "Aka": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Aka/Aka_wolf.atlas.txt",
+        "png": "char/Aka/Aka_wolf.png",
+        "skel": "char/Aka/Aka_wolf.skel.bytes"
+      }
+    },
+    "Alan": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Alan/Alan_Skin01.atlas.txt",
+        "png": "char/Alan/Alan_Skin01.png",
+        "skel": "char/Alan/Alan_Skin01.skel.bytes"
+      }
+    },
+    "Albedo": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Albedo/Albedo_Skin01.atlas.txt",
+        "png": "char/Albedo/Albedo_Skin01.png",
+        "skel": "char/Albedo/Albedo_Skin01.skel.bytes"
+      }
+    },
+    "Alfred": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Alfred/Alfred_Skin01.atlas.txt",
+        "png": "char/Alfred/Alfred_Skin01.png",
+        "skel": "char/Alfred/Alfred_Skin01.skel.bytes"
+      }
+    },
+    "Alice": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Alice/Alice_Skin01.atlas.txt",
+        "png": "char/Alice/Alice_Skin01.png",
+        "skel": "char/Alice/Alice_Skin01.skel.bytes"
+      }
+    },
+    "Alicia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Alicia/Alicia_Skin01.atlas.txt",
+        "png": "char/Alicia/Alicia_Skin01.png",
+        "skel": "char/Alicia/Alicia_Skin01.skel.bytes"
+      }
+    },
+    "Alpha": {
+      "complete": false,
+      "files": {
+        "skel": "char/Alpha/Alpha_Skin02_Range.skel.bytes"
+      }
+    },
+    "Altina": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Altina/Altina_Skin01.atlas.txt",
+        "png": "char/Altina/Altina_Skin01.png",
+        "skel": "char/Altina/Altina_Skin01.skel.bytes"
+      }
+    },
+    "Alustriel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Alustriel/Alustriel_Skin03.atlas.txt",
+        "png": "char/Alustriel/Alustriel_Skin03.png",
+        "skel": "char/Alustriel/Alustriel_Skin03.skel.bytes"
+      }
+    },
+    "Alutemurat": {
+      "complete": false,
+      "files": {
+        "skel": "char/Alutemurat/Alutemurat_Skin_Range.skel.bytes"
+      }
+    },
+    "Amadeus": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Amadeus/Amadeus_Skin01.atlas.txt",
+        "png": "char/Amadeus/Amadeus_Skin01.png",
+        "skel": "char/Amadeus/Amadeus_Skin01.skel.bytes"
+      }
+    },
+    "Andriole": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Andriole/Andriole_Skin01.atlas.txt",
+        "png": "char/Andriole/Andriole_Skin01.png",
+        "skel": "char/Andriole/Andriole_Skin01.skel.bytes"
+      }
+    },
+    "Angelina": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Angelina/Angelina_Skin05.atlas.txt",
+        "png": "char/Angelina/Angelina_Skin05.png",
+        "skel": "char/Angelina/Angelina_Skin05.skel.bytes"
+      }
+    },
+    "Anna": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Anna/Anna.atlas.txt",
+        "png": "char/Anna/Anna.png",
+        "skel": "char/Anna/Anna.skel.bytes"
+      }
+    },
+    "Apotheosis": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Apotheosis/Apotheosis_Skin01.atlas.txt",
+        "png": "char/Apotheosis/Apotheosis_Skin01.png",
+        "skel": "char/Apotheosis/Apotheosis_Skin01.skel.bytes"
+      }
+    },
+    "Arago": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Arago/Arago.atlas.txt",
+        "png": "char/Arago/Arago.png",
+        "skel": "char/Arago/Arago.skel.bytes"
+      }
+    },
+    "Ares": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ares/Ares_Skin02_Range.skel.bytes"
+      }
+    },
+    "Arianrhod": {
+      "complete": false,
+      "files": {
+        "skel": "char/Arianrhod/Arianrhod_Cutscene.skel.bytes"
+      }
+    },
+    "Ashram": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ashram/Ashram_Cutscene.skel.bytes"
+      }
+    },
+    "Ashumere": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Ashumere/Ashumere_Skin02.atlas.txt",
+        "png": "char/Ashumere/Ashumere_Skin02.png",
+        "skel": "char/Ashumere/Ashumere_Skin02.skel.bytes"
+      }
+    },
+    "Autokrato": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Autokrato/Autokrato_Skin02.atlas.txt",
+        "png": "char/Autokrato/Autokrato_Skin02.png",
+        "skel": "char/Autokrato/Autokrato_Skin02.skel.bytes"
+      }
+    },
+    "Autokratoiv": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Autokratoiv/AutokratoIV.atlas.txt",
+        "png": "char/Autokratoiv/AutokratoIV.png",
+        "skel": "char/Autokratoiv/AutokratoIV.skel.bytes"
+      }
+    },
+    "Awakener": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Awakener/Awakener_Skin01.atlas.txt",
+        "png": "char/Awakener/Awakener_Skin01.png",
+        "skel": "char/Awakener/Awakener_Skin01.skel.bytes"
+      }
+    },
+    "Azusa": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Azusa/Azusa_Skin03.atlas.txt",
+        "png": "char/Azusa/Azusa_Skin03.png",
+        "skel": "char/Azusa/Azusa_Skin03.skel.bytes"
+      }
+    },
+    "Bargas": {
+      "complete": false,
+      "files": {
+        "skel": "char/Bargas/Bargas_skin_Range.skel.bytes"
+      }
+    },
+    "Bernhardt": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Bernhardt/Bernhart_Skin03.atlas.txt",
+        "png": "char/Bernhardt/Bernhart_Skin03.png",
+        "skel": "char/Bernhardt/Bernhart_Skin03.skel.bytes"
+      }
+    },
+    "Betty": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Betty/Betty_Skin02.atlas.txt",
+        "png": "char/Betty/Betty_Skin02.png",
+        "skel": "char/Betty/Betty_Skin02.skel.bytes"
+      }
+    },
+    "Botan": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Botan/Botan.atlas.txt",
+        "png": "char/Botan/Botan.png",
+        "skel": "char/Botan/Botan.skel.bytes"
+      }
+    },
+    "Bozel": {
+      "complete": false,
+      "files": {
+        "skel": "char/Bozel/Bozel_Skin_Range.skel.bytes"
+      }
+    },
+    "Branche": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Branche/Branche_Skin01.atlas.txt",
+        "png": "char/Branche/Branche_Skin01.png",
+        "skel": "char/Branche/Branche_Skin01.skel.bytes"
+      }
+    },
+    "Brenda": {
+      "complete": false,
+      "files": {
+        "skel": "char/Brenda/Brenda_Skin03_Range.skel.bytes"
+      }
+    },
+    "Carolian": {
+      "complete": false,
+      "files": {
+        "skel": "char/Carolian/Carolian_Skin02_Range.skel.bytes"
+      }
+    },
+    "Chancellor": {
+      "complete": false,
+      "files": {
+        "skel": "char/Chancellor/Chancellor_Skin03_Range.skel.bytes"
+      }
+    },
+    "Chris": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Chris/Chris_Skin06.atlas.txt",
+        "png": "char/Chris/Chris_Skin06.png",
+        "skel": "char/Chris/Chris_Skin06.skel.bytes"
+      }
+    },
+    "Christiane": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Christiane/Christiane_Skin03.atlas.txt",
+        "png": "char/Christiane/Christiane_Skin03.png",
+        "skel": "char/Christiane/Christiane_Skin03.skel.bytes"
+      }
+    },
+    "Clarett": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Clarett/Clarett_Skin05.atlas.txt",
+        "png": "char/Clarett/Clarett_Skin05.png",
+        "skel": "char/Clarett/Clarett_Skin05.skel.bytes"
+      }
+    },
+    "Clotaire": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Clotaire/Clotaire_Skin03.atlas.txt",
+        "png": "char/Clotaire/Clotaire_Skin03.png",
+        "skel": "char/Clotaire/Clotaire_Skin03.skel.bytes"
+      }
+    },
+    "Consul": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Consul/Consul_Skin02.atlas.txt",
+        "png": "char/Consul/Consul_Skin02.png",
+        "skel": "char/Consul/Consul_Skin02.skel.bytes"
+      }
+    },
+    "Deedlit": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Deedlit/Deedlit_Skin01.atlas.txt",
+        "png": "char/Deedlit/Deedlit_Skin01.png",
+        "skel": "char/Deedlit/Deedlit_Skin01.skel.bytes"
+      }
+    },
+    "Dehault": {
+      "complete": false,
+      "files": {
+        "skel": "char/Dehault/Dehault_Skin_Range.skel.bytes"
+      }
+    },
+    "Demonmathaw": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Demonmathaw/DemonMathaw.atlas.txt",
+        "png": "char/Demonmathaw/DemonMathaw.png",
+        "skel": "char/Demonmathaw/DemonMathaw.skel.bytes"
+      }
+    },
+    "Diors": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Diors/Diors.atlas.txt",
+        "png": "char/Diors/Diors.png",
+        "skel": "char/Diors/Diors.skel.bytes"
+      }
+    },
+    "Doakuda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Doakuda/Doakuda.atlas.txt",
+        "png": "char/Doakuda/Doakuda.png",
+        "skel": "char/Doakuda/Doakuda.skel.bytes"
+      }
+    },
+    "Eggbert": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Eggbert/Eggbert_Skin02.atlas.txt",
+        "png": "char/Eggbert/Eggbert_Skin02.png",
+        "skel": "char/Eggbert/Eggbert_Skin02.skel.bytes"
+      }
+    },
+    "Elaine": {
+      "complete": false,
+      "files": {
+        "skel": "char/Elaine/Elaine_Cutscene.skel.bytes"
+      }
+    },
+    "Elucia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Elucia/Elucia_Skin03.atlas.txt",
+        "png": "char/Elucia/Elucia_Skin03.png",
+        "skel": "char/Elucia/Elucia_Skin03.skel.bytes"
+      }
+    },
+    "Elwin": {
+      "complete": false,
+      "files": {
+        "skel": "char/Elwin/Elwin_Skin_Range.skel.bytes"
+      }
+    },
+    "Emilia": {
+      "complete": false,
+      "files": {
+        "skel": "char/Emilia/Emilia_Skin02_Range.skel.bytes"
+      }
+    },
+    "Emmalink": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Emmalink/Emmalink_Skin01.atlas.txt",
+        "png": "char/Emmalink/Emmalink_Skin01.png",
+        "skel": "char/Emmalink/Emmalink_Skin01.skel.bytes"
+      }
+    },
+    "Epsilon": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Epsilon/Epsilon_Skin02.atlas.txt",
+        "png": "char/Epsilon/Epsilon_Skin02.png",
+        "skel": "char/Epsilon/Epsilon_Skin02.skel.bytes"
+      }
+    },
+    "Erma": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Erma/Erma_Skin02.atlas.txt",
+        "png": "char/Erma/Erma_Skin02.png",
+        "skel": "char/Erma/Erma_Skin02.skel.bytes"
+      }
+    },
+    "Eshean": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Eshean/Eshean.atlas.txt",
+        "png": "char/Eshean/Eshean.png",
+        "skel": "char/Eshean/Eshean.skel.bytes"
+      }
+    },
+    "Estelle": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Estelle/Estelle.atlas.txt",
+        "png": "char/Estelle/Estelle.png",
+        "skel": "char/Estelle/Estelle.skel.bytes"
+      }
+    },
+    "Excela": {
+      "complete": false,
+      "files": {
+        "skel": "char/Excela/Excela_Cutscene.skel.bytes"
+      }
+    },
+    "Fana": {
+      "complete": false,
+      "files": {
+        "skel": "char/Fana/Fana_Skin_Range.skel.bytes"
+      }
+    },
+    "Flakia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Flakia/Flakia_Skin02.atlas.txt",
+        "png": "char/Flakia/Flakia_Skin02.png",
+        "skel": "char/Flakia/Flakia_Skin02.skel.bytes"
+      }
+    },
+    "Florentia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Florentia/Florentia_Skin03.atlas.txt",
+        "png": "char/Florentia/Florentia_Skin03.png",
+        "skel": "char/Florentia/Florentia_Skin03.skel.bytes"
+      }
+    },
+    "Freya": {
+      "complete": false,
+      "files": {
+        "skel": "char/Freya/Freya_Skin_Range.skel.bytes"
+      }
+    },
+    "Gintoki": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Gintoki/Gintoki_Skin01.atlas.txt",
+        "png": "char/Gintoki/Gintoki_Skin01.png",
+        "skel": "char/Gintoki/Gintoki_Skin01.skel.bytes"
+      }
+    },
+    "Girlinshell": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Girlinshell/GirlInShell_Skin01.atlas.txt",
+        "png": "char/Girlinshell/GirlInShell_Skin01.png",
+        "skel": "char/Girlinshell/GirlInShell_Skin01.skel.bytes"
+      }
+    },
+    "Gizlof": {
+      "complete": false,
+      "files": {
+        "skel": "char/Gizlof/Gizlof_Skin02_Range.skel.bytes"
+      }
+    },
+    "Gourry": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Gourry/Gourry_Skin01.atlas.txt",
+        "png": "char/Gourry/Gourry_Skin01.png",
+        "skel": "char/Gourry/Gourry_Skin01.skel.bytes"
+      }
+    },
+    "Grenier": {
+      "complete": false,
+      "files": {
+        "skel": "char/Grenier/Grenier_Skin_Range.skel.bytes"
+      }
+    },
+    "Grunhind": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Grunhind/Grunhind_Skin01.atlas.txt",
+        "png": "char/Grunhind/Grunhind_Skin01.png",
+        "skel": "char/Grunhind/Grunhind_Skin01.skel.bytes"
+      }
+    },
+    "Gustav": {
+      "complete": false,
+      "files": {
+        "skel": "char/Gustav/Gustav_Skin02_Range.skel.bytes"
+      }
+    },
+    "Hein": {
+      "complete": false,
+      "files": {
+        "skel": "char/Hein/Hein_Skin_Range.skel.bytes"
+      }
+    },
+    "Helena": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Helena/Helena_Skin05.atlas.txt",
+        "png": "char/Helena/Helena_Skin05.png",
+        "skel": "char/Helena/Helena_Skin05.skel.bytes"
+      }
+    },
+    "Hiei": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Hiei/Hiei_Skin01.atlas.txt",
+        "png": "char/Hiei/Hiei_Skin01.png",
+        "skel": "char/Hiei/Hiei_Skin01.skel.bytes"
+      }
+    },
+    "Hilda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Hilda/Hilda_Skin04.atlas.txt",
+        "png": "char/Hilda/Hilda_Skin04.png",
+        "skel": "char/Hilda/Hilda_Skin04.skel.bytes"
+      }
+    },
+    "Himiko": {
+      "complete": false,
+      "files": {
+        "skel": "char/Himiko/Himiko_Cutscene.skel.bytes"
+      }
+    },
+    "Hofmann": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Hofmann/Hofmann.atlas.txt",
+        "png": "char/Hofmann/Hofmann.png",
+        "skel": "char/Hofmann/Hofmann.skel.bytes"
+      }
+    },
+    "Imelda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Imelda/Imelda_Skin03.atlas.txt",
+        "png": "char/Imelda/Imelda_Skin03.png",
+        "skel": "char/Imelda/Imelda_Skin03.skel.bytes"
+      }
+    },
+    "Iris": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Iris/Iris_Skin01.atlas.txt",
+        "png": "char/Iris/Iris_Skin01.png",
+        "skel": "char/Iris/Iris_Skin01.skel.bytes"
+      }
+    },
+    "Isara": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Isara/Isara.atlas.txt",
+        "png": "char/Isara/Isara.png",
+        "skel": "char/Isara/Isara.skel.bytes"
+      }
+    },
+    "Isolde": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Isolde/Isolde.atlas.txt",
+        "png": "char/Isolde/Isolde.png",
+        "skel": "char/Isolde/Isolde.skel.bytes"
+      }
+    },
+    "Jayce": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Jayce/Jayce_S.atlas.txt",
+        "png": "char/Jayce/Jayce_S.png",
+        "skel": "char/Jayce/Jayce_S.skel.bytes"
+      }
+    },
+    "Jellioru\u0026Lela": {
+      "complete": false,
+      "files": {
+        "skel": "char/Jellioru\u0026Lela/Lela_Skin01.skel.bytes"
+      }
+    },
+    "Jessica": {
+      "complete": false,
+      "files": {
+        "skel": "char/Jessica/Jessica_Skin01_Range.skel.bytes"
+      }
+    },
+    "Joshua": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Joshua/Joshua_Skin01.atlas.txt",
+        "png": "char/Joshua/Joshua_Skin01.png",
+        "skel": "char/Joshua/Joshua_Skin01.skel.bytes"
+      }
+    },
+    "Juda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Juda/Juda.atlas.txt",
+        "png": "char/Juda/Juda.png",
+        "skel": "char/Juda/Juda.skel.bytes"
+      }
+    },
+    "Judaadult": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Judaadult/JudaAdult.atlas.txt",
+        "png": "char/Judaadult/JudaAdult.png",
+        "skel": "char/Judaadult/JudaAdult.skel.bytes"
+      }
+    },
+    "Julian": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Julian/Julian_Skin02.atlas.txt",
+        "png": "char/Julian/Julian_Skin02.png",
+        "skel": "char/Julian/Julian_Skin02.skel.bytes"
+      }
+    },
+    "Kagura": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kagura/Kagura_Skin01.atlas.txt",
+        "png": "char/Kagura/Kagura_Skin01.png",
+        "skel": "char/Kagura/Kagura_Skin01.skel.bytes"
+      }
+    },
+    "Kaguya": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kaguya/Kaguya_Skin02.atlas.txt",
+        "png": "char/Kaguya/Kaguya_Skin02.png",
+        "skel": "char/Kaguya/Kaguya_Skin02.skel.bytes"
+      }
+    },
+    "Karla": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Karla/Karla.atlas.txt",
+        "png": "char/Karla/Karla.png",
+        "skel": "char/Karla/Karla.skel.bytes"
+      }
+    },
+    "Kayura": {
+      "complete": false,
+      "files": {
+        "skel": "char/Kayura/Kayura_Cutscene.skel.bytes"
+      }
+    },
+    "Kazuma": {
+      "complete": false,
+      "files": {
+        "skel": "char/Kazuma/Kazuma_Cutscene.skel.bytes"
+      }
+    },
+    "Keith": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Keith/Keith.atlas.txt",
+        "png": "char/Keith/Keith.png",
+        "skel": "char/Keith/Keith.skel.bytes"
+      }
+    },
+    "Kertesz": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kertesz/Kertesz_Skin02.atlas.txt",
+        "png": "char/Kertesz/Kertesz_Skin02.png",
+        "skel": "char/Kertesz/Kertesz_Skin02.skel.bytes"
+      }
+    },
+    "Kirika": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kirika/Kirika_Skin01.atlas.txt",
+        "png": "char/Kirika/Kirika_Skin01.png",
+        "skel": "char/Kirika/Kirika_Skin01.skel.bytes"
+      }
+    },
+    "Kirikaze": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kirikaze/Kirikaze_Skin01.atlas.txt",
+        "png": "char/Kirikaze/Kirikaze_Skin01.png",
+        "skel": "char/Kirikaze/Kirikaze_Skin01.skel.bytes"
+      }
+    },
+    "Klose": {
+      "complete": false,
+      "files": {
+        "skel": "char/Klose/Klose_Cutscene.skel.bytes"
+      }
+    },
+    "Kreugerthewicked": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kreugerthewicked/Kreuger_Skin02.atlas.txt",
+        "png": "char/Kreugerthewicked/Kreuger_Skin02.png",
+        "skel": "char/Kreugerthewicked/Kreuger_Skin02.skel.bytes"
+      }
+    },
+    "Kurama": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Kurama/Kurama_Skin01.atlas.txt",
+        "png": "char/Kurama/Kurama_Skin01.png",
+        "skel": "char/Kurama/Kurama_Skin01.skel.bytes"
+      }
+    },
+    "Lainforce": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lainforce/Lainforce_Skin02.atlas.txt",
+        "png": "char/Lainforce/Lainforce_Skin02.png",
+        "skel": "char/Lainforce/Lainforce_Skin02.skel.bytes"
+      }
+    },
+    "Lambda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lambda/Lambda_Skin04.atlas.txt",
+        "png": "char/Lambda/Lambda_Skin04.png",
+        "skel": "char/Lambda/Lambda_Skin04.skel.bytes"
+      }
+    },
+    "Lana": {
+      "complete": false,
+      "files": {
+        "skel": "char/Lana/Lana_Skin_Range.skel.bytes"
+      }
+    },
+    "Lance": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lance/Lance_Skin01.atlas.txt",
+        "png": "char/Lance/Lance_Skin01.png",
+        "skel": "char/Lance/Lance_Skin01.skel.bytes"
+      }
+    },
+    "Landius": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Landius/Landius_Skin04.atlas.txt",
+        "png": "char/Landius/Landius_Skin04.png",
+        "skel": "char/Landius/Landius_Skin04.skel.bytes"
+      }
+    },
+    "Leafani": {
+      "complete": false,
+      "files": {
+        "skel": "char/Leafani/Leafani_Skin02_Range.skel.bytes"
+      }
+    },
+    "Ledin": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ledin/Ledin_Skin_Range.skel.bytes"
+      }
+    },
+    "Leon": {
+      "complete": false,
+      "files": {
+        "skel": "char/Leon/Leon_Skin_Range.skel.bytes"
+      }
+    },
+    "Leonhardt": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Leonhardt/Leonhardt_Skin01.atlas.txt",
+        "png": "char/Leonhardt/Leonhardt_Skin01.png",
+        "skel": "char/Leonhardt/Leonhardt_Skin01.skel.bytes"
+      }
+    },
+    "Leticia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Leticia/Leticia_Skin01.atlas.txt",
+        "png": "char/Leticia/Leticia_Skin01.png",
+        "skel": "char/Leticia/Leticia_Skin01.skel.bytes"
+      }
+    },
+    "Licorice": {
+      "complete": false,
+      "files": {
+        "skel": "char/Licorice/Licorice_Skin03_Range.skel.bytes"
+      }
+    },
+    "Light\u0026Shadow": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Light\u0026Shadow/Light\u0026Shadow_Skin01.atlas.txt",
+        "png": "char/Light\u0026Shadow/Light\u0026Shadow_Skin01.png",
+        "skel": "char/Light\u0026Shadow/Light\u0026Shadow_Skin01.skel.bytes"
+      }
+    },
+    "Lightborn": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lightborn/Lightborn_Skin03.atlas.txt",
+        "png": "char/Lightborn/Lightborn_Skin03.png",
+        "skel": "char/Lightborn/Lightborn_Skin03.skel.bytes"
+      }
+    },
+    "Lightbringer": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lightbringer/Lightbringer_Skin02.atlas.txt",
+        "png": "char/Lightbringer/Lightbringer_Skin02.png",
+        "skel": "char/Lightbringer/Lightbringer_Skin02.skel.bytes"
+      }
+    },
+    "Lina": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lina/Lina_Skin01.atlas.txt",
+        "png": "char/Lina/Lina_Skin01.png",
+        "skel": "char/Lina/Lina_Skin01.skel.bytes"
+      }
+    },
+    "Lista": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lista/Lista_Skin01.atlas.txt",
+        "png": "char/Lista/Lista_Skin01.png",
+        "skel": "char/Lista/Lista_Skin01.skel.bytes"
+      }
+    },
+    "Listell": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Listell/Listell_Skin04.atlas.txt",
+        "png": "char/Listell/Listell_Skin04.png",
+        "skel": "char/Listell/Listell_Skin04.skel.bytes"
+      }
+    },
+    "Liza": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Liza/Liza_Skin01.atlas.txt",
+        "png": "char/Liza/Liza_Skin01.png",
+        "skel": "char/Liza/Liza_Skin01.skel.bytes"
+      }
+    },
+    "Lordofcrimson": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lordofcrimson/LordOfCrimson_Skin02.atlas.txt",
+        "png": "char/Lordofcrimson/LordOfCrimson_Skin02.png",
+        "skel": "char/Lordofcrimson/LordOfCrimson_Skin02.skel.bytes"
+      }
+    },
+    "Loviner": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Loviner/Loviner_Skin02.atlas.txt",
+        "png": "char/Loviner/Loviner_Skin02.png",
+        "skel": "char/Loviner/Loviner_Skin02.skel.bytes"
+      }
+    },
+    "Lucretia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lucretia/Lucretia_Skin03.atlas.txt",
+        "png": "char/Lucretia/Lucretia_Skin03.png",
+        "skel": "char/Lucretia/Lucretia_Skin03.skel.bytes"
+      }
+    },
+    "Lugner": {
+      "complete": false,
+      "files": {
+        "skel": "char/Lugner/Lugner_Skin01_Range.skel.bytes"
+      }
+    },
+    "Luna": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Luna/Luna_Skin06.atlas.txt",
+        "png": "char/Luna/Luna_Skin06.png",
+        "skel": "char/Luna/Luna_Skin06.skel.bytes"
+      }
+    },
+    "Luxilis": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Luxilis/Luxilis.atlas.txt",
+        "png": "char/Luxilis/Luxilis.png",
+        "skel": "char/Luxilis/Luxilis.skel.bytes"
+      }
+    },
+    "Lyatt": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Lyatt/Lyatt_Skin01.atlas.txt",
+        "png": "char/Lyatt/Lyatt_Skin01.png",
+        "skel": "char/Lyatt/Lyatt_Skin01.skel.bytes"
+      }
+    },
+    "Magusofthetree": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Magusofthetree/MagusOfTheTree.atlas.txt",
+        "png": "char/Magusofthetree/MagusOfTheTree.png",
+        "skel": "char/Magusofthetree/MagusOfTheTree.skel.bytes"
+      }
+    },
+    "Magusofthetree_hero": {
+      "complete": false,
+      "files": {
+        "skel": "char/Magusofthetree_hero/MagusOfTheTree_Skin02_Range.skel.bytes"
+      }
+    },
+    "Maiya": {
+      "complete": false,
+      "files": {
+        "skel": "char/Maiya/Maiya_Skin02_Range.skel.bytes"
+      }
+    },
+    "Mariandel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Mariandel/Mariandel_Skin02.atlas.txt",
+        "png": "char/Mariandel/Mariandel_Skin02.png",
+        "skel": "char/Mariandel/Mariandel_Skin02.skel.bytes"
+      }
+    },
+    "Mariel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Mariel/Mariel_Skin03.atlas.txt",
+        "png": "char/Mariel/Mariel_Skin03.png",
+        "skel": "char/Mariel/Mariel_Skin03.skel.bytes"
+      }
+    },
+    "Mathew": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Mathew/Mathew_Skin04.atlas.txt",
+        "png": "char/Mathew/Mathew_Skin04.png",
+        "skel": "char/Mathew/Mathew_Skin04.skel.bytes"
+      }
+    },
+    "Mcclaine": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Mcclaine/McClaine_Skin02.atlas.txt",
+        "png": "char/Mcclaine/McClaine_Skin02.png",
+        "skel": "char/Mcclaine/McClaine_Skin02.skel.bytes"
+      }
+    },
+    "Meropeni": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Meropeni/Meropeni.atlas.txt",
+        "png": "char/Meropeni/Meropeni.png",
+        "skel": "char/Meropeni/Meropeni.skel.bytes"
+      }
+    },
+    "Michelle": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Michelle/Michelle_Skin02.atlas.txt",
+        "png": "char/Michelle/Michelle_Skin02.png",
+        "skel": "char/Michelle/Michelle_Skin02.skel.bytes"
+      }
+    },
+    "Momon": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Momon/Momon.atlas.txt",
+        "png": "char/Momon/Momon.png",
+        "skel": "char/Momon/Momon.skel.bytes"
+      }
+    },
+    "Mu": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Mu/Mu_Skin03.atlas.txt",
+        "png": "char/Mu/Mu_Skin03.png",
+        "skel": "char/Mu/Mu_Skin03.skel.bytes"
+      }
+    },
+    "Mysteryknight": {
+      "complete": false,
+      "files": {
+        "skel": "char/Mysteryknight/MysteryKnight_Skin03_Range.skel.bytes"
+      }
+    },
+    "Nahm": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Nahm/Nahm_Skin03.atlas.txt",
+        "png": "char/Nahm/Nahm_Skin03.png",
+        "skel": "char/Nahm/Nahm_Skin03.skel.bytes"
+      }
+    },
+    "Nemia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Nemia/Nemia_Skin01.atlas.txt",
+        "png": "char/Nemia/Nemia_Skin01.png",
+        "skel": "char/Nemia/Nemia_Skin01.skel.bytes"
+      }
+    },
+    "Noemi": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Noemi/Noemi_Skin02.atlas.txt",
+        "png": "char/Noemi/Noemi_Skin02.png",
+        "skel": "char/Noemi/Noemi_Skin02.skel.bytes"
+      }
+    },
+    "Npc_aizel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_aizel/NPC_Aizel.atlas.txt",
+        "png": "char/Npc_aizel/NPC_Aizel.png",
+        "skel": "char/Npc_aizel/NPC_Aizel.skel.bytes"
+      }
+    },
+    "Npc_alhazard": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_alhazard/NPC_Alhazard.atlas.txt",
+        "png": "char/Npc_alhazard/NPC_Alhazard.png",
+        "skel": "char/Npc_alhazard/NPC_Alhazard.skel.bytes"
+      }
+    },
+    "Npc_alustriel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_alustriel/NPC_Alustriel.atlas.txt",
+        "png": "char/Npc_alustriel/NPC_Alustriel.png",
+        "skel": "char/Npc_alustriel/NPC_Alustriel.skel.bytes"
+      }
+    },
+    "Npc_alvince": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_alvince/NPC_Alvince.atlas.txt",
+        "png": "char/Npc_alvince/NPC_Alvince.png",
+        "skel": "char/Npc_alvince/NPC_Alvince.skel.bytes"
+      }
+    },
+    "Npc_ancestorspirit": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ancestorspirit/AncestorSpirit.atlas.txt",
+        "png": "char/Npc_ancestorspirit/AncestorSpirit.png",
+        "skel": "char/Npc_ancestorspirit/AncestorSpirit.skel.bytes"
+      }
+    },
+    "Npc_aniki": {
+      "complete": false,
+      "files": {
+        "skel": "char/Npc_aniki/npc_aniki_3.skel.bytes"
+      }
+    },
+    "Npc_animalbone": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_animalbone/AnimalBone.atlas.txt",
+        "png": "char/Npc_animalbone/AnimalBone.png",
+        "skel": "char/Npc_animalbone/AnimalBone.skel.bytes"
+      }
+    },
+    "Npc_anjelica": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_anjelica/NPC_Anjelica.atlas.txt",
+        "png": "char/Npc_anjelica/NPC_Anjelica.png",
+        "skel": "char/Npc_anjelica/NPC_Anjelica.skel.bytes"
+      }
+    },
+    "Npc_annie": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_annie/Annie.atlas.txt",
+        "png": "char/Npc_annie/Annie.png",
+        "skel": "char/Npc_annie/Annie.skel.bytes"
+      }
+    },
+    "Npc_apostle": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_apostle/NPC_Apostle.atlas.txt",
+        "png": "char/Npc_apostle/NPC_Apostle.png",
+        "skel": "char/Npc_apostle/NPC_Apostle.skel.bytes"
+      }
+    },
+    "Npc_assassin01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_assassin01/NPC_Assassin01.atlas.txt",
+        "png": "char/Npc_assassin01/NPC_Assassin01.png",
+        "skel": "char/Npc_assassin01/NPC_Assassin01.skel.bytes"
+      }
+    },
+    "Npc_azusachild": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_azusachild/AzusaChild.atlas.txt",
+        "png": "char/Npc_azusachild/AzusaChild.png",
+        "skel": "char/Npc_azusachild/AzusaChild.skel.bytes"
+      }
+    },
+    "Npc_batwingwarlock": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_batwingwarlock/BatwingWarlock.atlas.txt",
+        "png": "char/Npc_batwingwarlock/BatwingWarlock.png",
+        "skel": "char/Npc_batwingwarlock/BatwingWarlock.skel.bytes"
+      }
+    },
+    "Npc_beggarloviner": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_beggarloviner/BeggarLoviner.atlas.txt",
+        "png": "char/Npc_beggarloviner/BeggarLoviner.png",
+        "skel": "char/Npc_beggarloviner/BeggarLoviner.skel.bytes"
+      }
+    },
+    "Npc_bishop": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_bishop/NPC_Bishop.atlas.txt",
+        "png": "char/Npc_bishop/NPC_Bishop.png",
+        "skel": "char/Npc_bishop/NPC_Bishop.skel.bytes"
+      }
+    },
+    "Npc_bishopastol": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_bishopastol/BishopAstol.atlas.txt",
+        "png": "char/Npc_bishopastol/BishopAstol.png",
+        "skel": "char/Npc_bishopastol/BishopAstol.skel.bytes"
+      }
+    },
+    "Npc_bishopdaughter": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_bishopdaughter/BishopDaughter.atlas.txt",
+        "png": "char/Npc_bishopdaughter/BishopDaughter.png",
+        "skel": "char/Npc_bishopdaughter/BishopDaughter.skel.bytes"
+      }
+    },
+    "Npc_bodamicus": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_bodamicus/NPC_Bodamicus.atlas.txt",
+        "png": "char/Npc_bodamicus/NPC_Bodamicus.png",
+        "skel": "char/Npc_bodamicus/NPC_Bodamicus.skel.bytes"
+      }
+    },
+    "Npc_cebleaksoldier": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_cebleaksoldier/NPC_CebleakSoldier.atlas.txt",
+        "png": "char/Npc_cebleaksoldier/NPC_CebleakSoldier.png",
+        "skel": "char/Npc_cebleaksoldier/NPC_CebleakSoldier.skel.bytes"
+      }
+    },
+    "Npc_celicarosius": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_celicarosius/CelicaRosius.atlas.txt",
+        "png": "char/Npc_celicarosius/CelicaRosius.png",
+        "skel": "char/Npc_celicarosius/CelicaRosius.skel.bytes"
+      }
+    },
+    "Npc_clotaire": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_clotaire/NPC_Clotaire.atlas.txt",
+        "png": "char/Npc_clotaire/NPC_Clotaire.png",
+        "skel": "char/Npc_clotaire/NPC_Clotaire.skel.bytes"
+      }
+    },
+    "Npc_colonelsanders": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_colonelsanders/NPC_ColonelSanders.atlas.txt",
+        "png": "char/Npc_colonelsanders/NPC_ColonelSanders.png",
+        "skel": "char/Npc_colonelsanders/NPC_ColonelSanders.skel.bytes"
+      }
+    },
+    "Npc_commander": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_commander/NPC_Commander.atlas.txt",
+        "png": "char/Npc_commander/NPC_Commander.png",
+        "skel": "char/Npc_commander/NPC_Commander.skel.bytes"
+      }
+    },
+    "Npc_constanta": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_constanta/Constanta.atlas.txt",
+        "png": "char/Npc_constanta/Constanta.png",
+        "skel": "char/Npc_constanta/Constanta.skel.bytes"
+      }
+    },
+    "Npc_contractidolum": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_contractidolum/ContractIdolum.atlas.txt",
+        "png": "char/Npc_contractidolum/ContractIdolum.png",
+        "skel": "char/Npc_contractidolum/ContractIdolum.skel.bytes"
+      }
+    },
+    "Npc_crimzoknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_crimzoknight/CrimzoKnight.atlas.txt",
+        "png": "char/Npc_crimzoknight/CrimzoKnight.png",
+        "skel": "char/Npc_crimzoknight/CrimzoKnight.skel.bytes"
+      }
+    },
+    "Npc_deamonknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_deamonknight/NPC_DeamonKnight.atlas.txt",
+        "png": "char/Npc_deamonknight/NPC_DeamonKnight.png",
+        "skel": "char/Npc_deamonknight/NPC_DeamonKnight.skel.bytes"
+      }
+    },
+    "Npc_desertplunder": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_desertplunder/NPC_DesertPlunder.atlas.txt",
+        "png": "char/Npc_desertplunder/NPC_DesertPlunder.png",
+        "skel": "char/Npc_desertplunder/NPC_DesertPlunder.skel.bytes"
+      }
+    },
+    "Npc_elderman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_elderman/NPC_ElderMan.atlas.txt",
+        "png": "char/Npc_elderman/NPC_ElderMan.png",
+        "skel": "char/Npc_elderman/NPC_ElderMan.skel.bytes"
+      }
+    },
+    "Npc_elfmaid": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_elfmaid/NPC_Elfmaid.atlas.txt",
+        "png": "char/Npc_elfmaid/NPC_Elfmaid.png",
+        "skel": "char/Npc_elfmaid/NPC_Elfmaid.skel.bytes"
+      }
+    },
+    "Npc_elysium": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_elysium/Elysium.atlas.txt",
+        "png": "char/Npc_elysium/Elysium.png",
+        "skel": "char/Npc_elysium/Elysium.skel.bytes"
+      }
+    },
+    "Npc_elysiumofficerf": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_elysiumofficerf/ElysiumOfficerF.atlas.txt",
+        "png": "char/Npc_elysiumofficerf/ElysiumOfficerF.png",
+        "skel": "char/Npc_elysiumofficerf/ElysiumOfficerF.skel.bytes"
+      }
+    },
+    "Npc_emily": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_emily/NPC_Emily.atlas.txt",
+        "png": "char/Npc_emily/NPC_Emily.png",
+        "skel": "char/Npc_emily/NPC_Emily.skel.bytes"
+      }
+    },
+    "Npc_eric": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_eric/Eric.atlas.txt",
+        "png": "char/Npc_eric/Eric.png",
+        "skel": "char/Npc_eric/Eric.skel.bytes"
+      }
+    },
+    "Npc_fafnir": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_fafnir/NPC_Fafnir.atlas.txt",
+        "png": "char/Npc_fafnir/NPC_Fafnir.png",
+        "skel": "char/Npc_fafnir/NPC_Fafnir.skel.bytes"
+      }
+    },
+    "Npc_falseamadeus": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_falseamadeus/NPC_FalseAmadeus.atlas.txt",
+        "png": "char/Npc_falseamadeus/NPC_FalseAmadeus.png",
+        "skel": "char/Npc_falseamadeus/NPC_FalseAmadeus.skel.bytes"
+      }
+    },
+    "Npc_farmer_boy": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_farmer_boy/NPC_Farmer_Boy.atlas.txt",
+        "png": "char/Npc_farmer_boy/NPC_Farmer_Boy.png",
+        "skel": "char/Npc_farmer_boy/NPC_Farmer_Boy.skel.bytes"
+      }
+    },
+    "Npc_farmer_girl": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_farmer_girl/NPC_Farmer_Girl.atlas.txt",
+        "png": "char/Npc_farmer_girl/NPC_Farmer_Girl.png",
+        "skel": "char/Npc_farmer_girl/NPC_Farmer_Girl.skel.bytes"
+      }
+    },
+    "Npc_femalemercenary": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_femalemercenary/NPC_FemaleMercenary.atlas.txt",
+        "png": "char/Npc_femalemercenary/NPC_FemaleMercenary.png",
+        "skel": "char/Npc_femalemercenary/NPC_FemaleMercenary.skel.bytes"
+      }
+    },
+    "Npc_fenrir": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_fenrir/Fenrir.atlas.txt",
+        "png": "char/Npc_fenrir/Fenrir.png",
+        "skel": "char/Npc_fenrir/Fenrir.skel.bytes"
+      }
+    },
+    "Npc_ferdinand": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ferdinand/NPC_Ferdinand.atlas.txt",
+        "png": "char/Npc_ferdinand/NPC_Ferdinand.png",
+        "skel": "char/Npc_ferdinand/NPC_Ferdinand.skel.bytes"
+      }
+    },
+    "Npc_firecrossbow": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_firecrossbow/FireCrossbow.atlas.txt",
+        "png": "char/Npc_firecrossbow/FireCrossbow.png",
+        "skel": "char/Npc_firecrossbow/FireCrossbow.skel.bytes"
+      }
+    },
+    "Npc_forestpriestgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_forestpriestgeneral/ForestPriestGeneral.atlas.txt",
+        "png": "char/Npc_forestpriestgeneral/ForestPriestGeneral.png",
+        "skel": "char/Npc_forestpriestgeneral/ForestPriestGeneral.skel.bytes"
+      }
+    },
+    "Npc_fraxinus": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_fraxinus/Fraxinus.atlas.txt",
+        "png": "char/Npc_fraxinus/Fraxinus.png",
+        "skel": "char/Npc_fraxinus/Fraxinus.skel.bytes"
+      }
+    },
+    "Npc_gallantduelist": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_gallantduelist/NPC_GallantDuelist.atlas.txt",
+        "png": "char/Npc_gallantduelist/NPC_GallantDuelist.png",
+        "skel": "char/Npc_gallantduelist/NPC_GallantDuelist.skel.bytes"
+      }
+    },
+    "Npc_gargoyle": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_gargoyle/Gargoyle.atlas.txt",
+        "png": "char/Npc_gargoyle/Gargoyle.png",
+        "skel": "char/Npc_gargoyle/Gargoyle.skel.bytes"
+      }
+    },
+    "Npc_gendrasil": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_gendrasil/NPC_Gendrasil.atlas.txt",
+        "png": "char/Npc_gendrasil/NPC_Gendrasil.png",
+        "skel": "char/Npc_gendrasil/NPC_Gendrasil.skel.bytes"
+      }
+    },
+    "Npc_generalreap": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_generalreap/GeneralReap.atlas.txt",
+        "png": "char/Npc_generalreap/GeneralReap.png",
+        "skel": "char/Npc_generalreap/GeneralReap.skel.bytes"
+      }
+    },
+    "Npc_ghostincrystal": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ghostincrystal/Ghostincrystal.atlas.txt",
+        "png": "char/Npc_ghostincrystal/Ghostincrystal.png",
+        "skel": "char/Npc_ghostincrystal/Ghostincrystal.skel.bytes"
+      }
+    },
+    "Npc_giantzombie": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_giantzombie/GiantZombie.atlas.txt",
+        "png": "char/Npc_giantzombie/GiantZombie.png",
+        "skel": "char/Npc_giantzombie/GiantZombie.skel.bytes"
+      }
+    },
+    "Npc_gilmore": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_gilmore/Gilmore.atlas.txt",
+        "png": "char/Npc_gilmore/Gilmore.png",
+        "skel": "char/Npc_gilmore/Gilmore.skel.bytes"
+      }
+    },
+    "Npc_glacial": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_glacial/Glacial.atlas.txt",
+        "png": "char/Npc_glacial/Glacial.png",
+        "skel": "char/Npc_glacial/Glacial.skel.bytes"
+      }
+    },
+    "Npc_glob": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_glob/NPC_Glob.atlas.txt",
+        "png": "char/Npc_glob/NPC_Glob.png",
+        "skel": "char/Npc_glob/NPC_Glob.skel.bytes"
+      }
+    },
+    "Npc_goblinknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_goblinknight/GoblinKnight.atlas.txt",
+        "png": "char/Npc_goblinknight/GoblinKnight.png",
+        "skel": "char/Npc_goblinknight/GoblinKnight.skel.bytes"
+      }
+    },
+    "Npc_goldenknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_goldenknight/GoldenKnight.atlas.txt",
+        "png": "char/Npc_goldenknight/GoldenKnight.png",
+        "skel": "char/Npc_goldenknight/GoldenKnight.skel.bytes"
+      }
+    },
+    "Npc_goldry": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_goldry/NPC_Goldry.atlas.txt",
+        "png": "char/Npc_goldry/NPC_Goldry.png",
+        "skel": "char/Npc_goldry/NPC_Goldry.skel.bytes"
+      }
+    },
+    "Npc_grendel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_grendel/NPC_Grendel.atlas.txt",
+        "png": "char/Npc_grendel/NPC_Grendel.png",
+        "skel": "char/Npc_grendel/NPC_Grendel.skel.bytes"
+      }
+    },
+    "Npc_harpyqueen": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_harpyqueen/NPC_Harpyqueen.atlas.txt",
+        "png": "char/Npc_harpyqueen/NPC_Harpyqueen.png",
+        "skel": "char/Npc_harpyqueen/NPC_Harpyqueen.skel.bytes"
+      }
+    },
+    "Npc_hrimthurs": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_hrimthurs/Hrimthurs.atlas.txt",
+        "png": "char/Npc_hrimthurs/Hrimthurs.png",
+        "skel": "char/Npc_hrimthurs/Hrimthurs.skel.bytes"
+      }
+    },
+    "Npc_icepeaklancer": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_icepeaklancer/IcepeakLancer.atlas.txt",
+        "png": "char/Npc_icepeaklancer/IcepeakLancer.png",
+        "skel": "char/Npc_icepeaklancer/IcepeakLancer.skel.bytes"
+      }
+    },
+    "Npc_imp": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_imp/Imp.atlas.txt",
+        "png": "char/Npc_imp/Imp.png",
+        "skel": "char/Npc_imp/Imp.skel.bytes"
+      }
+    },
+    "Npc_imperialgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_imperialgeneral/NPC_ImperialGeneral.atlas.txt",
+        "png": "char/Npc_imperialgeneral/NPC_ImperialGeneral.png",
+        "skel": "char/Npc_imperialgeneral/NPC_ImperialGeneral.skel.bytes"
+      }
+    },
+    "Npc_imperialnobility": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_imperialnobility/NPC_Imperialnobility.atlas.txt",
+        "png": "char/Npc_imperialnobility/NPC_Imperialnobility.png",
+        "skel": "char/Npc_imperialnobility/NPC_Imperialnobility.skel.bytes"
+      }
+    },
+    "Npc_injuredqueencaconsis": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_injuredqueencaconsis/NPC_InjuredQueenCaconsis.atlas.txt",
+        "png": "char/Npc_injuredqueencaconsis/NPC_InjuredQueenCaconsis.png",
+        "skel": "char/Npc_injuredqueencaconsis/NPC_InjuredQueenCaconsis.skel.bytes"
+      }
+    },
+    "Npc_iroas": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_iroas/NPC_Iroas.atlas.txt",
+        "png": "char/Npc_iroas/NPC_Iroas.png",
+        "skel": "char/Npc_iroas/NPC_Iroas.skel.bytes"
+      }
+    },
+    "Npc_ironwingsgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ironwingsgeneral/NPC_IronWingsGeneral.atlas.txt",
+        "png": "char/Npc_ironwingsgeneral/NPC_IronWingsGeneral.png",
+        "skel": "char/Npc_ironwingsgeneral/NPC_IronWingsGeneral.skel.bytes"
+      }
+    },
+    "Npc_iver": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_iver/NPC_Iver.atlas.txt",
+        "png": "char/Npc_iver/NPC_Iver.png",
+        "skel": "char/Npc_iver/NPC_Iver.skel.bytes"
+      }
+    },
+    "Npc_jack": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_jack/NPC_Jack.atlas.txt",
+        "png": "char/Npc_jack/NPC_Jack.png",
+        "skel": "char/Npc_jack/NPC_Jack.skel.bytes"
+      }
+    },
+    "Npc_kaeru": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_kaeru/NPC_Kaeru.atlas.txt",
+        "png": "char/Npc_kaeru/NPC_Kaeru.png",
+        "skel": "char/Npc_kaeru/NPC_Kaeru.skel.bytes"
+      }
+    },
+    "Npc_kaguya": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_kaguya/NPC_Kaguya.atlas.txt",
+        "png": "char/Npc_kaguya/NPC_Kaguya.png",
+        "skel": "char/Npc_kaguya/NPC_Kaguya.skel.bytes"
+      }
+    },
+    "Npc_kayura": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_kayura/NPC_Kayura.atlas.txt",
+        "png": "char/Npc_kayura/NPC_Kayura.png",
+        "skel": "char/Npc_kayura/NPC_Kayura.skel.bytes"
+      }
+    },
+    "Npc_knight01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_knight01/NPC_Knight01.atlas.txt",
+        "png": "char/Npc_knight01/NPC_Knight01.png",
+        "skel": "char/Npc_knight01/NPC_Knight01.skel.bytes"
+      }
+    },
+    "Npc_knight02": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_knight02/NPC_Knight02.atlas.txt",
+        "png": "char/Npc_knight02/NPC_Knight02.png",
+        "skel": "char/Npc_knight02/NPC_Knight02.skel.bytes"
+      }
+    },
+    "Npc_kreuger": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_kreuger/NPC_Kreuger.atlas.txt",
+        "png": "char/Npc_kreuger/NPC_Kreuger.png",
+        "skel": "char/Npc_kreuger/NPC_Kreuger.skel.bytes"
+      }
+    },
+    "Npc_kunoichi": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_kunoichi/Kunoichi.atlas.txt",
+        "png": "char/Npc_kunoichi/Kunoichi.png",
+        "skel": "char/Npc_kunoichi/Kunoichi.skel.bytes"
+      }
+    },
+    "Npc_langrisser": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_langrisser/NPC_Langrisser.atlas.txt",
+        "png": "char/Npc_langrisser/NPC_Langrisser.png",
+        "skel": "char/Npc_langrisser/NPC_Langrisser.skel.bytes"
+      }
+    },
+    "Npc_lizardfighter": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_lizardfighter/LizardFighter.atlas.txt",
+        "png": "char/Npc_lizardfighter/LizardFighter.png",
+        "skel": "char/Npc_lizardfighter/LizardFighter.skel.bytes"
+      }
+    },
+    "Npc_lovelysnowman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_lovelysnowman/NPC_Lovelysnowman.atlas.txt",
+        "png": "char/Npc_lovelysnowman/NPC_Lovelysnowman.png",
+        "skel": "char/Npc_lovelysnowman/NPC_Lovelysnowman.skel.bytes"
+      }
+    },
+    "Npc_magician": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_magician/NPC_Magician.atlas.txt",
+        "png": "char/Npc_magician/NPC_Magician.png",
+        "skel": "char/Npc_magician/NPC_Magician.skel.bytes"
+      }
+    },
+    "Npc_maidgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_maidgeneral/NPC_MaidGeneral.atlas.txt",
+        "png": "char/Npc_maidgeneral/NPC_MaidGeneral.png",
+        "skel": "char/Npc_maidgeneral/NPC_MaidGeneral.skel.bytes"
+      }
+    },
+    "Npc_marine_01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_marine_01/NPC_Marine_01.atlas.txt",
+        "png": "char/Npc_marine_01/NPC_Marine_01.png",
+        "skel": "char/Npc_marine_01/NPC_Marine_01.skel.bytes"
+      }
+    },
+    "Npc_masterson": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_masterson/Masterson.atlas.txt",
+        "png": "char/Npc_masterson/Masterson.png",
+        "skel": "char/Npc_masterson/Masterson.skel.bytes"
+      }
+    },
+    "Npc_mayor": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mayor/NPC_Mayor.atlas.txt",
+        "png": "char/Npc_mayor/NPC_Mayor.png",
+        "skel": "char/Npc_mayor/NPC_Mayor.skel.bytes"
+      }
+    },
+    "Npc_mechanicalknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mechanicalknight/NPC_MechanicalKnight.atlas.txt",
+        "png": "char/Npc_mechanicalknight/NPC_MechanicalKnight.png",
+        "skel": "char/Npc_mechanicalknight/NPC_MechanicalKnight.skel.bytes"
+      }
+    },
+    "Npc_mercenary": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mercenary/Mercenary.atlas.txt",
+        "png": "char/Npc_mercenary/Mercenary.png",
+        "skel": "char/Npc_mercenary/Mercenary.skel.bytes"
+      }
+    },
+    "Npc_mermaidgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mermaidgeneral/MermaidGeneral.atlas.txt",
+        "png": "char/Npc_mermaidgeneral/MermaidGeneral.png",
+        "skel": "char/Npc_mermaidgeneral/MermaidGeneral.skel.bytes"
+      }
+    },
+    "Npc_miko": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_miko/Miko.atlas.txt",
+        "png": "char/Npc_miko/Miko.png",
+        "skel": "char/Npc_miko/Miko.skel.bytes"
+      }
+    },
+    "Npc_mistspirit": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mistspirit/MistSpirit.atlas.txt",
+        "png": "char/Npc_mistspirit/MistSpirit.png",
+        "skel": "char/Npc_mistspirit/MistSpirit.skel.bytes"
+      }
+    },
+    "Npc_monster": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_monster/NPC_Monster.atlas.txt",
+        "png": "char/Npc_monster/NPC_Monster.png",
+        "skel": "char/Npc_monster/NPC_Monster.skel.bytes"
+      }
+    },
+    "Npc_mother": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_mother/Mother.atlas.txt",
+        "png": "char/Npc_mother/Mother.png",
+        "skel": "char/Npc_mother/Mother.skel.bytes"
+      }
+    },
+    "Npc_necroknight": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_necroknight/NPC_NecroKnight.atlas.txt",
+        "png": "char/Npc_necroknight/NPC_NecroKnight.png",
+        "skel": "char/Npc_necroknight/NPC_NecroKnight.skel.bytes"
+      }
+    },
+    "Npc_nightelf": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_nightelf/NightElf.atlas.txt",
+        "png": "char/Npc_nightelf/NightElf.png",
+        "skel": "char/Npc_nightelf/NightElf.skel.bytes"
+      }
+    },
+    "Npc_nobleman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_nobleman/Nobleman.atlas.txt",
+        "png": "char/Npc_nobleman/Nobleman.png",
+        "skel": "char/Npc_nobleman/Nobleman.skel.bytes"
+      }
+    },
+    "Npc_noblewoman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_noblewoman/NPC_Noblewoman.atlas.txt",
+        "png": "char/Npc_noblewoman/NPC_Noblewoman.png",
+        "skel": "char/Npc_noblewoman/NPC_Noblewoman.skel.bytes"
+      }
+    },
+    "Npc_norlamofficer": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_norlamofficer/NorlamOfficer.atlas.txt",
+        "png": "char/Npc_norlamofficer/NorlamOfficer.png",
+        "skel": "char/Npc_norlamofficer/NorlamOfficer.skel.bytes"
+      }
+    },
+    "Npc_ogami": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ogami/NPC_Ogami.atlas.txt",
+        "png": "char/Npc_ogami/NPC_Ogami.png",
+        "skel": "char/Npc_ogami/NPC_Ogami.skel.bytes"
+      }
+    },
+    "Npc_oldmathew": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_oldmathew/NPC_OldMathew.atlas.txt",
+        "png": "char/Npc_oldmathew/NPC_OldMathew.png",
+        "skel": "char/Npc_oldmathew/NPC_OldMathew.skel.bytes"
+      }
+    },
+    "Npc_orge": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_orge/NPC_Orge.atlas.txt",
+        "png": "char/Npc_orge/NPC_Orge.png",
+        "skel": "char/Npc_orge/NPC_Orge.skel.bytes"
+      }
+    },
+    "Npc_ozgussoldier": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ozgussoldier/OzgusSoldier.atlas.txt",
+        "png": "char/Npc_ozgussoldier/OzgusSoldier.png",
+        "skel": "char/Npc_ozgussoldier/OzgusSoldier.skel.bytes"
+      }
+    },
+    "Npc_pipimi": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_pipimi/Pipimishadow.atlas.txt",
+        "png": "char/Npc_pipimi/Pipimishadow.png",
+        "skel": "char/Npc_pipimi/Pipimishadow.skel.bytes"
+      }
+    },
+    "Npc_pontiffofre": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_pontiffofre/PontiffOfRe.atlas.txt",
+        "png": "char/Npc_pontiffofre/PontiffOfRe.png",
+        "skel": "char/Npc_pontiffofre/PontiffOfRe.skel.bytes"
+      }
+    },
+    "Npc_popuko": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_popuko/Popukoshadow.atlas.txt",
+        "png": "char/Npc_popuko/Popukoshadow.png",
+        "skel": "char/Npc_popuko/Popukoshadow.skel.bytes"
+      }
+    },
+    "Npc_priest": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_priest/NPC_Priest.atlas.txt",
+        "png": "char/Npc_priest/NPC_Priest.png",
+        "skel": "char/Npc_priest/NPC_Priest.skel.bytes"
+      }
+    },
+    "Npc_quaid": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_quaid/Quaid.atlas.txt",
+        "png": "char/Npc_quaid/Quaid.png",
+        "skel": "char/Npc_quaid/Quaid.skel.bytes"
+      }
+    },
+    "Npc_ragu": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ragu/NPC_Ragu.atlas.txt",
+        "png": "char/Npc_ragu/NPC_Ragu.png",
+        "skel": "char/Npc_ragu/NPC_Ragu.skel.bytes"
+      }
+    },
+    "Npc_ranvelt": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ranvelt/NPC_Ranvelt.atlas.txt",
+        "png": "char/Npc_ranvelt/NPC_Ranvelt.png",
+        "skel": "char/Npc_ranvelt/NPC_Ranvelt.skel.bytes"
+      }
+    },
+    "Npc_raynard": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_raynard/Raynard.atlas.txt",
+        "png": "char/Npc_raynard/Raynard.png",
+        "skel": "char/Npc_raynard/Raynard.skel.bytes"
+      }
+    },
+    "Npc_reah": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_reah/NPC_Reah.atlas.txt",
+        "png": "char/Npc_reah/NPC_Reah.png",
+        "skel": "char/Npc_reah/NPC_Reah.skel.bytes"
+      }
+    },
+    "Npc_realautokrato": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_realautokrato/RealAutokrato.atlas.txt",
+        "png": "char/Npc_realautokrato/RealAutokrato.png",
+        "skel": "char/Npc_realautokrato/RealAutokrato.skel.bytes"
+      }
+    },
+    "Npc_rean": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_rean/NPC_Rean.atlas.txt",
+        "png": "char/Npc_rean/NPC_Rean.png",
+        "skel": "char/Npc_rean/NPC_Rean.skel.bytes"
+      }
+    },
+    "Npc_ricky": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_ricky/Ricky_Skin02.atlas.txt",
+        "png": "char/Npc_ricky/Ricky_Skin02.png",
+        "skel": "char/Npc_ricky/Ricky_Skin02.skel.bytes"
+      }
+    },
+    "Npc_rider01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_rider01/NPC_Rider01.atlas.txt",
+        "png": "char/Npc_rider01/NPC_Rider01.png",
+        "skel": "char/Npc_rider01/NPC_Rider01.skel.bytes"
+      }
+    },
+    "Npc_rockville": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_rockville/NPC_Rockville.atlas.txt",
+        "png": "char/Npc_rockville/NPC_Rockville.png",
+        "skel": "char/Npc_rockville/NPC_Rockville.skel.bytes"
+      }
+    },
+    "Npc_sagnybird": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_sagnybird/SagnyBird_Skin01.atlas.txt",
+        "png": "char/Npc_sagnybird/SagnyBird_Skin01.png",
+        "skel": "char/Npc_sagnybird/SagnyBird_Skin01.skel.bytes"
+      }
+    },
+    "Npc_samurai": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_samurai/Samurai.atlas.txt",
+        "png": "char/Npc_samurai/Samurai.png",
+        "skel": "char/Npc_samurai/Samurai.skel.bytes"
+      }
+    },
+    "Npc_seamonster": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_seamonster/SeaMonster.atlas.txt",
+        "png": "char/Npc_seamonster/SeaMonster.png",
+        "skel": "char/Npc_seamonster/SeaMonster.skel.bytes"
+      }
+    },
+    "Npc_shopkeeper": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_shopkeeper/NPC_Shopkeeper.atlas.txt",
+        "png": "char/Npc_shopkeeper/NPC_Shopkeeper.png",
+        "skel": "char/Npc_shopkeeper/NPC_Shopkeeper.skel.bytes"
+      }
+    },
+    "Npc_sireofcrimson": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_sireofcrimson/SireofCrimson.atlas.txt",
+        "png": "char/Npc_sireofcrimson/SireofCrimson.png",
+        "skel": "char/Npc_sireofcrimson/SireofCrimson.skel.bytes"
+      }
+    },
+    "Npc_sissiwhite": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_sissiwhite/NPC_SissiWhite.atlas.txt",
+        "png": "char/Npc_sissiwhite/NPC_SissiWhite.png",
+        "skel": "char/Npc_sissiwhite/NPC_SissiWhite.skel.bytes"
+      }
+    },
+    "Npc_skyarcher": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_skyarcher/SkyArcher.atlas.txt",
+        "png": "char/Npc_skyarcher/SkyArcher.png",
+        "skel": "char/Npc_skyarcher/SkyArcher.skel.bytes"
+      }
+    },
+    "Npc_soldier_01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_soldier_01/NPC_Soldier_01_02.atlas.txt",
+        "png": "char/Npc_soldier_01/NPC_Soldier_01_02.png",
+        "skel": "char/Npc_soldier_01/NPC_Soldier_01_02.skel.bytes"
+      }
+    },
+    "Npc_soldier_07": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_soldier_07/NPC_Soldier_07.atlas.txt",
+        "png": "char/Npc_soldier_07/NPC_Soldier_07.png",
+        "skel": "char/Npc_soldier_07/NPC_Soldier_07.skel.bytes"
+      }
+    },
+    "Npc_soldier_enemy_01": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_soldier_enemy_01/NPC_Soldier_Enemy_01.atlas.txt",
+        "png": "char/Npc_soldier_enemy_01/NPC_Soldier_Enemy_01.png",
+        "skel": "char/Npc_soldier_enemy_01/NPC_Soldier_Enemy_01.skel.bytes"
+      }
+    },
+    "Npc_soldier_enemy_02": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_soldier_enemy_02/NPC_Soldier_Enemy_02.atlas.txt",
+        "png": "char/Npc_soldier_enemy_02/NPC_Soldier_Enemy_02.png",
+        "skel": "char/Npc_soldier_enemy_02/NPC_Soldier_Enemy_02.skel.bytes"
+      }
+    },
+    "Npc_spiderelfgeneral": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_spiderelfgeneral/NPC_SpiderElfGeneral.atlas.txt",
+        "png": "char/Npc_spiderelfgeneral/NPC_SpiderElfGeneral.png",
+        "skel": "char/Npc_spiderelfgeneral/NPC_SpiderElfGeneral.skel.bytes"
+      }
+    },
+    "Npc_starguard": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_starguard/StarGuard.atlas.txt",
+        "png": "char/Npc_starguard/StarGuard.png",
+        "skel": "char/Npc_starguard/StarGuard.skel.bytes"
+      }
+    },
+    "Npc_starlieutenant": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_starlieutenant/StarLieutenant.atlas.txt",
+        "png": "char/Npc_starlieutenant/StarLieutenant.png",
+        "skel": "char/Npc_starlieutenant/StarLieutenant.skel.bytes"
+      }
+    },
+    "Npc_stein": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_stein/NPC_Stein.atlas.txt",
+        "png": "char/Npc_stein/NPC_Stein.png",
+        "skel": "char/Npc_stein/NPC_Stein.skel.bytes"
+      }
+    },
+    "Npc_stoneman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_stoneman/NPC_Stoneman.atlas.txt",
+        "png": "char/Npc_stoneman/NPC_Stoneman.png",
+        "skel": "char/Npc_stoneman/NPC_Stoneman.skel.bytes"
+      }
+    },
+    "Npc_theoutcast": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_theoutcast/TheOutcast.atlas.txt",
+        "png": "char/Npc_theoutcast/TheOutcast.png",
+        "skel": "char/Npc_theoutcast/TheOutcast.skel.bytes"
+      }
+    },
+    "Npc_thief03": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_thief03/Thief_03.atlas.txt",
+        "png": "char/Npc_thief03/Thief_03.png",
+        "skel": "char/Npc_thief03/Thief_03.skel.bytes"
+      }
+    },
+    "Npc_troll": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_troll/Troll.atlas.txt",
+        "png": "char/Npc_troll/Troll.png",
+        "skel": "char/Npc_troll/Troll.skel.bytes"
+      }
+    },
+    "Npc_tsuruyaboy": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_tsuruyaboy/Tsuruyaboy.atlas.txt",
+        "png": "char/Npc_tsuruyaboy/Tsuruyaboy.png",
+        "skel": "char/Npc_tsuruyaboy/Tsuruyaboy.skel.bytes"
+      }
+    },
+    "Npc_tsuruyaelder": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_tsuruyaelder/TsuruyaElder.atlas.txt",
+        "png": "char/Npc_tsuruyaelder/TsuruyaElder.png",
+        "skel": "char/Npc_tsuruyaelder/TsuruyaElder.skel.bytes"
+      }
+    },
+    "Npc_tsuruyaeldermale": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_tsuruyaeldermale/TsuruyaElderMale.atlas.txt",
+        "png": "char/Npc_tsuruyaeldermale/TsuruyaElderMale.png",
+        "skel": "char/Npc_tsuruyaeldermale/TsuruyaElderMale.skel.bytes"
+      }
+    },
+    "Npc_universalmaiden": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_universalmaiden/NPC_UniversalMaiden.atlas.txt",
+        "png": "char/Npc_universalmaiden/NPC_UniversalMaiden.png",
+        "skel": "char/Npc_universalmaiden/NPC_UniversalMaiden.skel.bytes"
+      }
+    },
+    "Npc_vampirebat": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_vampirebat/VampireBat.atlas.txt",
+        "png": "char/Npc_vampirebat/VampireBat.png",
+        "skel": "char/Npc_vampirebat/VampireBat.skel.bytes"
+      }
+    },
+    "Npc_villager_female": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_villager_female/NPC_Villager_Female.atlas.txt",
+        "png": "char/Npc_villager_female/NPC_Villager_Female.png",
+        "skel": "char/Npc_villager_female/NPC_Villager_Female.skel.bytes"
+      }
+    },
+    "Npc_villager_male": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_villager_male/NPC_Villager_Male02.atlas.txt",
+        "png": "char/Npc_villager_male/NPC_Villager_Male02.png",
+        "skel": "char/Npc_villager_male/NPC_Villager_Male02.skel.bytes"
+      }
+    },
+    "Npc_waymentor": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_waymentor/WayMentor.atlas.txt",
+        "png": "char/Npc_waymentor/WayMentor.png",
+        "skel": "char/Npc_waymentor/WayMentor.skel.bytes"
+      }
+    },
+    "Npc_weismann": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_weismann/NPC_Weismann.atlas.txt",
+        "png": "char/Npc_weismann/NPC_Weismann.png",
+        "skel": "char/Npc_weismann/NPC_Weismann.skel.bytes"
+      }
+    },
+    "Npc_witch_female": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_witch_female/NPC_Witch_Female.atlas.txt",
+        "png": "char/Npc_witch_female/NPC_Witch_Female.png",
+        "skel": "char/Npc_witch_female/NPC_Witch_Female.skel.bytes"
+      }
+    },
+    "Npc_woundedwoman": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_woundedwoman/WoundedWoman.atlas.txt",
+        "png": "char/Npc_woundedwoman/WoundedWoman.png",
+        "skel": "char/Npc_woundedwoman/WoundedWoman.skel.bytes"
+      }
+    },
+    "Npc_xygan": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_xygan/NPC_Xygan.atlas.txt",
+        "png": "char/Npc_xygan/NPC_Xygan.png",
+        "skel": "char/Npc_xygan/NPC_Xygan.skel.bytes"
+      }
+    },
+    "Npc_yoa": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_yoa/NPC_Yoa.atlas.txt",
+        "png": "char/Npc_yoa/NPC_Yoa.png",
+        "skel": "char/Npc_yoa/NPC_Yoa.skel.bytes"
+      }
+    },
+    "Npc_yulia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_yulia/NPC_Yulia.atlas.txt",
+        "png": "char/Npc_yulia/NPC_Yulia.png",
+        "skel": "char/Npc_yulia/NPC_Yulia.skel.bytes"
+      }
+    },
+    "Npc_yve": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_yve/NPC_Yve.atlas.txt",
+        "png": "char/Npc_yve/NPC_Yve.png",
+        "skel": "char/Npc_yve/NPC_Yve.skel.bytes"
+      }
+    },
+    "Npc_zero": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_zero/NPC_Zero.atlas.txt",
+        "png": "char/Npc_zero/NPC_Zero.png",
+        "skel": "char/Npc_zero/NPC_Zero.skel.bytes"
+      }
+    },
+    "Npc_zombierockville": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_zombierockville/ZombieRockville.atlas.txt",
+        "png": "char/Npc_zombierockville/ZombieRockville.png",
+        "skel": "char/Npc_zombierockville/ZombieRockville.skel.bytes"
+      }
+    },
+    "Npc_zombievalk": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Npc_zombievalk/ZombieValk.atlas.txt",
+        "png": "char/Npc_zombievalk/ZombieValk.png",
+        "skel": "char/Npc_zombievalk/ZombieValk.skel.bytes"
+      }
+    },
+    "Nymph": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Nymph/Nymph_Skin01.atlas.txt",
+        "png": "char/Nymph/Nymph_Skin01.png",
+        "skel": "char/Nymph/Nymph_Skin01.skel.bytes"
+      }
+    },
+    "Oboro": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Oboro/Oboro_Skin02.atlas.txt",
+        "png": "char/Oboro/Oboro_Skin02.png",
+        "skel": "char/Oboro/Oboro_Skin02.skel.bytes"
+      }
+    },
+    "Oborothedragon": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Oborothedragon/OboroTheDragon.atlas.txt",
+        "png": "char/Oborothedragon/OboroTheDragon.png",
+        "skel": "char/Oborothedragon/OboroTheDragon.skel.bytes"
+      }
+    },
+    "Olivier": {
+      "complete": false,
+      "files": {
+        "skel": "char/Olivier/Olivier_Cutscene.skel.bytes"
+      }
+    },
+    "Olivo": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Olivo/Olivo_Skin01.atlas.txt",
+        "png": "char/Olivo/Olivo_Skin01.png",
+        "skel": "char/Olivo/Olivo_Skin01.skel.bytes"
+      }
+    },
+    "Omega": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Omega/Omega_Skin03.atlas.txt",
+        "png": "char/Omega/Omega_Skin03.png",
+        "skel": "char/Omega/Omega_Skin03.skel.bytes"
+      }
+    },
+    "Parn": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Parn/Parn_Skin01.atlas.txt",
+        "png": "char/Parn/Parn_Skin01.png",
+        "skel": "char/Parn/Parn_Skin01.skel.bytes"
+      }
+    },
+    "Patricia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Patricia/Patricia.atlas.txt",
+        "png": "char/Patricia/Patricia.png",
+        "skel": "char/Patricia/Patricia.skel.bytes"
+      }
+    },
+    "Patsyr": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Patsyr/Patsyr_Skin03.atlas.txt",
+        "png": "char/Patsyr/Patsyr_Skin03.png",
+        "skel": "char/Patsyr/Patsyr_Skin03.skel.bytes"
+      }
+    },
+    "Peakjessica": {
+      "complete": false,
+      "files": {
+        "skel": "char/Peakjessica/PeekJessica_Skin02_Range.skel.bytes"
+      }
+    },
+    "Pieru": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Pieru/Pieru.atlas.txt",
+        "png": "char/Pieru/Pieru.png",
+        "skel": "char/Pieru/Pieru.skel.bytes"
+      }
+    },
+    "Pipimi-Popuko": {
+      "complete": false,
+      "files": {
+        "skel": "char/Pipimi-Popuko/Pipimi-Popuko.skel.bytes"
+      }
+    },
+    "Pirotess": {
+      "complete": false,
+      "files": {
+        "skel": "char/Pirotess/Pirotess_Cutscene.skel.bytes"
+      }
+    },
+    "Polyal": {
+      "complete": false,
+      "files": {
+        "skel": "char/Polyal/Polyal_Skin01_Range.skel.bytes"
+      }
+    },
+    "Precia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Precia/Precia_Skin01.atlas.txt",
+        "png": "char/Precia/Precia_Skin01.png",
+        "skel": "char/Precia/Precia_Skin01.skel.bytes"
+      }
+    },
+    "Rachel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rachel/Rachel_Skin04.atlas.txt",
+        "png": "char/Rachel/Rachel_Skin04.png",
+        "skel": "char/Rachel/Rachel_Skin04.skel.bytes"
+      }
+    },
+    "Ranford": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ranford/Ranford_Skin03_Range.skel.bytes"
+      }
+    },
+    "Rean": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rean/Rean_Skin01.atlas.txt",
+        "png": "char/Rean/Rean_Skin01.png",
+        "skel": "char/Rean/Rean_Skin01.skel.bytes"
+      }
+    },
+    "Renata": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Renata/Renata_Skin02.atlas.txt",
+        "png": "char/Renata/Renata_Skin02.png",
+        "skel": "char/Renata/Renata_Skin02.skel.bytes"
+      }
+    },
+    "Renne": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Renne/Renne.atlas.txt",
+        "png": "char/Renne/Renne.png",
+        "skel": "char/Renne/Renne.skel.bytes"
+      }
+    },
+    "Riana": {
+      "complete": false,
+      "files": {
+        "skel": "char/Riana/Riana_Skin_Range.skel.bytes"
+      }
+    },
+    "Riobec": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Riobec/RioBec_Skin02.atlas.txt",
+        "png": "char/Riobec/RioBec_Skin02.png",
+        "skel": "char/Riobec/RioBec_Skin02.skel.bytes"
+      }
+    },
+    "Roland": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Roland/Roland_Skin01.atlas.txt",
+        "png": "char/Roland/Roland_Skin01.png",
+        "skel": "char/Roland/Roland_Skin01.skel.bytes"
+      }
+    },
+    "Rostam": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rostam/Rostam_Skin02.atlas.txt",
+        "png": "char/Rostam/Rostam_Skin02.png",
+        "skel": "char/Rostam/Rostam_Skin02.skel.bytes"
+      }
+    },
+    "Rouga": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rouga/Rouga.atlas.txt",
+        "png": "char/Rouga/Rouga.png",
+        "skel": "char/Rouga/Rouga.skel.bytes"
+      }
+    },
+    "Rozalia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rozalia/Rozalia_Skin04.atlas.txt",
+        "png": "char/Rozalia/Rozalia_Skin04.png",
+        "skel": "char/Rozalia/Rozalia_Skin04.skel.bytes"
+      }
+    },
+    "Rozenciel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rozenciel/Rozenciel_Skin03.atlas.txt",
+        "png": "char/Rozenciel/Rozenciel_Skin03.png",
+        "skel": "char/Rozenciel/Rozenciel_Skin03.skel.bytes"
+      }
+    },
+    "Rune": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Rune/Rune_Skin01.atlas.txt",
+        "png": "char/Rune/Rune_Skin01.png",
+        "skel": "char/Rune/Rune_Skin01.skel.bytes"
+      }
+    },
+    "Ryou": {
+      "complete": false,
+      "files": {
+        "skel": "char/Ryou/Ryou_Skin01_Cutscene.skel.bytes"
+      }
+    },
+    "Ryou_tiger": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Ryou_tiger/Tiger.atlas.txt",
+        "png": "char/Ryou_tiger/Tiger.png",
+        "skel": "char/Ryou_tiger/Tiger.skel.bytes"
+      }
+    },
+    "Sagny": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sagny/Sagny_Skin01.atlas.txt",
+        "png": "char/Sagny/Sagny_Skin01.png",
+        "skel": "char/Sagny/Sagny_Skin01.skel.bytes"
+      }
+    },
+    "Saintark": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Saintark/SaintArk_Skin03.atlas.txt",
+        "png": "char/Saintark/SaintArk_Skin03.png",
+        "skel": "char/Saintark/SaintArk_Skin03.skel.bytes"
+      }
+    },
+    "Sakura": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sakura/Sakura_Skin01.atlas.txt",
+        "png": "char/Sakura/Sakura_Skin01.png",
+        "skel": "char/Sakura/Sakura_Skin01.skel.bytes"
+      }
+    },
+    "Schelfaniel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Schelfaniel/Schelfaniel_Skin06.atlas.txt",
+        "png": "char/Schelfaniel/Schelfaniel_Skin06.png",
+        "skel": "char/Schelfaniel/Schelfaniel_Skin06.skel.bytes"
+      }
+    },
+    "Selia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Selia/Selia.atlas.txt",
+        "png": "char/Selia/Selia.png",
+        "skel": "char/Selia/Selia.skel.bytes"
+      }
+    },
+    "Selvaria": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Selvaria/Selvaria_Skin01.atlas.txt",
+        "png": "char/Selvaria/Selvaria_Skin01.png",
+        "skel": "char/Selvaria/Selvaria_Skin01.skel.bytes"
+      }
+    },
+    "Sensui": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sensui/Sensui.atlas.txt",
+        "png": "char/Sensui/Sensui.png",
+        "skel": "char/Sensui/Sensui.skel.bytes"
+      }
+    },
+    "Serena": {
+      "complete": false,
+      "files": {
+        "skel": "char/Serena/Serena_Skin01_Range.skel.bytes"
+      }
+    },
+    "Shalltear": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Shalltear/Shalltear_Skin01.atlas.txt",
+        "png": "char/Shalltear/Shalltear_Skin01.png",
+        "skel": "char/Shalltear/Shalltear_Skin01.skel.bytes"
+      }
+    },
+    "Sherry": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sherry/Sherry_Skin09.atlas.txt",
+        "png": "char/Sherry/Sherry_Skin09.png",
+        "skel": "char/Sherry/Sherry_Skin09.skel.bytes"
+      }
+    },
+    "Shibaraku": {
+      "complete": false,
+      "files": {
+        "skel": "char/Shibaraku/Shibaraku_Cutscene.skel.bytes"
+      }
+    },
+    "Shinpachi": {
+      "complete": false,
+      "files": {
+        "skel": "char/Shinpachi/Shinpachi_Cutscene.skel.bytes"
+      }
+    },
+    "Sigma": {
+      "complete": false,
+      "files": {
+        "skel": "char/Sigma/Sigma_Skin02_Range.skel.bytes"
+      }
+    },
+    "Silverwolf": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Silverwolf/SilverWolf_Skin02.atlas.txt",
+        "png": "char/Silverwolf/SilverWolf_Skin02.png",
+        "skel": "char/Silverwolf/SilverWolf_Skin02.skel.bytes"
+      }
+    },
+    "Sirink": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sirink/Sirink_Skin02.atlas.txt",
+        "png": "char/Sirink/Sirink_Skin02.png",
+        "skel": "char/Sirink/Sirink_Skin02.skel.bytes"
+      }
+    },
+    "Skot": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Skot/Skot.atlas.txt",
+        "png": "char/Skot/Skot.png",
+        "skel": "char/Skot/Skot.skel.bytes"
+      }
+    },
+    "Sofia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sofia/Sofia_Skin03.atlas.txt",
+        "png": "char/Sofia/Sofia_Skin03.png",
+        "skel": "char/Sofia/Sofia_Skin03.skel.bytes"
+      }
+    },
+    "Sonia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sonia/Sonia_Skin02.atlas.txt",
+        "png": "char/Sonia/Sonia_Skin02.png",
+        "skel": "char/Sonia/Sonia_Skin02.skel.bytes"
+      }
+    },
+    "Sumire": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Sumire/Sumire_Skin01.atlas.txt",
+        "png": "char/Sumire/Sumire_Skin01.png",
+        "skel": "char/Sumire/Sumire_Skin01.skel.bytes"
+      }
+    },
+    "Suzette": {
+      "complete": false,
+      "files": {
+        "skel": "char/Suzette/Suzette_Skin02_Range.skel.bytes"
+      }
+    },
+    "Tatalia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Tatalia/Tatalia_Skin01.atlas.txt",
+        "png": "char/Tatalia/Tatalia_Skin01.png",
+        "skel": "char/Tatalia/Tatalia_Skin01.skel.bytes"
+      }
+    },
+    "Tialice": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Tialice/Tialice_Skin06.atlas.txt",
+        "png": "char/Tialice/Tialice_Skin06.png",
+        "skel": "char/Tialice/Tialice_Skin06.skel.bytes"
+      }
+    },
+    "Toguro": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Toguro/Toguro.atlas.txt",
+        "png": "char/Toguro/Toguro.png",
+        "skel": "char/Toguro/Toguro.skel.bytes"
+      }
+    },
+    "Touma": {
+      "complete": false,
+      "files": {
+        "skel": "char/Touma/Touma_Cutscene.skel.bytes"
+      }
+    },
+    "Tour-Milk": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Tour-Milk/Tour-milk_Skin01.atlas.txt",
+        "png": "char/Tour-Milk/Tour-milk_Skin01.png",
+        "skel": "char/Tour-Milk/Tour-milk_Skin01.skel.bytes"
+      }
+    },
+    "Towa": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Towa/Towa_Skin03.atlas.txt",
+        "png": "char/Towa/Towa_Skin03.png",
+        "skel": "char/Towa/Towa_Skin03.skel.bytes"
+      }
+    },
+    "Transcendent": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Transcendent/Transcendent_Skin02.atlas.txt",
+        "png": "char/Transcendent/Transcendent_Skin02.png",
+        "skel": "char/Transcendent/Transcendent_Skin02.skel.bytes"
+      }
+    },
+    "Tsubame": {
+      "complete": false,
+      "files": {
+        "skel": "char/Tsubame/Tsubame_Skin02_Range.skel.bytes"
+      }
+    },
+    "Tyrantel": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Tyrantel/Tyrantel.atlas.txt",
+        "png": "char/Tyrantel/Tyrantel.png",
+        "skel": "char/Tyrantel/Tyrantel.skel.bytes"
+      }
+    },
+    "Van": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Van/Van_Skin01.atlas.txt",
+        "png": "char/Van/Van_Skin01.png",
+        "skel": "char/Van/Van_Skin01.skel.bytes"
+      }
+    },
+    "Verner": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Verner/Verner_Skin03.atlas.txt",
+        "png": "char/Verner/Verner_Skin03.png",
+        "skel": "char/Verner/Verner_Skin03.skel.bytes"
+      }
+    },
+    "Viler": {
+      "complete": false,
+      "files": {
+        "skel": "char/Viler/Viler_Skin02_Range.skel.bytes"
+      }
+    },
+    "Vincent": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Vincent/Vincent_Skin02.atlas.txt",
+        "png": "char/Vincent/Vincent_Skin02.png",
+        "skel": "char/Vincent/Vincent_Skin02.skel.bytes"
+      }
+    },
+    "Virash": {
+      "complete": false,
+      "files": {
+        "skel": "char/Virash/Virash_Skin02_Range.skel.bytes"
+      }
+    },
+    "Wanderingduelist": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Wanderingduelist/Wandering_Skin02.atlas.txt",
+        "png": "char/Wanderingduelist/Wandering_Skin02.png",
+        "skel": "char/Wanderingduelist/Wandering_Skin02.skel.bytes"
+      }
+    },
+    "Wataru": {
+      "complete": false,
+      "files": {
+        "skel": "char/Wataru/Wataru_Cutscene.skel.bytes"
+      }
+    },
+    "Wehttam": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Wehttam/Wehttam_Skin02.atlas.txt",
+        "png": "char/Wehttam/Wehttam_Skin02.png",
+        "skel": "char/Wehttam/Wehttam_Skin02.skel.bytes"
+      }
+    },
+    "Werner": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Werner/Werner_Skin02.atlas.txt",
+        "png": "char/Werner/Werner_Skin02.png",
+        "skel": "char/Werner/Werner_Skin02.skel.bytes"
+      }
+    },
+    "Whitesissi": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Whitesissi/WhiteSissi_Skin03.atlas.txt",
+        "png": "char/Whitesissi/WhiteSissi_Skin03.png",
+        "skel": "char/Whitesissi/WhiteSissi_Skin03.skel.bytes"
+      }
+    },
+    "Yoa\u0026Constanta": {
+      "complete": false,
+      "files": {
+        "skel": "char/Yoa\u0026Constanta/Yoa_Skin01.skel.bytes"
+      }
+    },
+    "Yulia": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Yulia/Yulia_Skin06.atlas.txt",
+        "png": "char/Yulia/Yulia_Skin06.png",
+        "skel": "char/Yulia/Yulia_Skin06.skel.bytes"
+      }
+    },
+    "Yuusuke": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Yuusuke/Yuusuke_Skin01.atlas.txt",
+        "png": "char/Yuusuke/Yuusuke_Skin01.png",
+        "skel": "char/Yuusuke/Yuusuke_Skin01.skel.bytes"
+      }
+    },
+    "Zalrahda": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Zalrahda/Zalrahda_Skin07.atlas.txt",
+        "png": "char/Zalrahda/Zalrahda_Skin07.png",
+        "skel": "char/Zalrahda/Zalrahda_Skin07.skel.bytes"
+      }
+    },
+    "Zelgadiss": {
+      "complete": false,
+      "files": {
+        "skel": "char/Zelgadiss/Zelgadiss_Cutscene.skel.bytes"
+      }
+    },
+    "Zigodlla": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Zigodlla/Zigodlla_Skin04.atlas.txt",
+        "png": "char/Zigodlla/Zigodlla_Skin04.png",
+        "skel": "char/Zigodlla/Zigodlla_Skin04.skel.bytes"
+      }
+    },
+    "Zion": {
+      "complete": true,
+      "files": {
+        "atlas": "char/Zion/Zion_Skin01.atlas.txt",
+        "png": "char/Zion/Zion_Skin01.png",
+        "skel": "char/Zion/Zion_Skin01.skel.bytes"
+      }
+    }
+  },
+  "char01": {
+    "Aka": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Aka/Aka.atlas.txt",
+        "png": "char01/Aka/Aka.png",
+        "skel": "char01/Aka/Aka.skel.bytes"
+      }
+    },
+    "Brenda": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Brenda/Brenda.atlas.txt",
+        "png": "char01/Brenda/Brenda.png",
+        "skel": "char01/Brenda/Brenda.skel.bytes"
+      }
+    },
+    "Emilia": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Emilia/Emilia.atlas.txt",
+        "png": "char01/Emilia/Emilia.png",
+        "skel": "char01/Emilia/Emilia.skel.bytes"
+      }
+    },
+    "Flakia": {
+      "complete": false,
+      "files": {
+        "skel": "char01/Flakia/Flakia_Range.skel.bytes"
+      }
+    },
+    "Imelda": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Imelda/Imelda.atlas.txt",
+        "png": "char01/Imelda/Imelda.png",
+        "skel": "char01/Imelda/Imelda.skel.bytes"
+      }
+    },
+    "Lana": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Lana/Lana.atlas.txt",
+        "png": "char01/Lana/Lana.png",
+        "skel": "char01/Lana/Lana.skel.bytes"
+      }
+    },
+    "Listell": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Listell/Listell.atlas.txt",
+        "png": "char01/Listell/Listell.png",
+        "skel": "char01/Listell/Listell.skel.bytes"
+      }
+    },
+    "Maiya": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Maiya/Maiya.atlas.txt",
+        "png": "char01/Maiya/Maiya.png",
+        "skel": "char01/Maiya/Maiya.skel.bytes"
+      }
+    },
+    "Mariel": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Mariel/Mariel.atlas.txt",
+        "png": "char01/Mariel/Mariel.png",
+        "skel": "char01/Mariel/Mariel.skel.bytes"
+      }
+    },
+    "Pirotess": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Pirotess/Pirotess.atlas.txt",
+        "png": "char01/Pirotess/Pirotess.png",
+        "skel": "char01/Pirotess/Pirotess.skel.bytes"
+      }
+    },
+    "Sherry": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Sherry/Sherry.atlas.txt",
+        "png": "char01/Sherry/Sherry.png",
+        "skel": "char01/Sherry/Sherry.skel.bytes"
+      }
+    },
+    "Sirink": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Sirink/Sirink_Skin01.atlas.txt",
+        "png": "char01/Sirink/Sirink_Skin01.png",
+        "skel": "char01/Sirink/Sirink_Skin01.skel.bytes"
+      }
+    },
+    "Sonia": {
+      "complete": true,
+      "files": {
+        "atlas": "char01/Sonia/Sonia.atlas.txt",
+        "png": "char01/Sonia/Sonia.png",
+        "skel": "char01/Sonia/Sonia.skel.bytes"
+      }
+    }
+  }
+}

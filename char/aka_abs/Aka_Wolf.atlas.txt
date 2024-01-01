@@ -1,0 +1,167 @@
+
+Aka_Wolf.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ghost_body_1
+  rotate: false
+  xy: 2, 487
+  size: 654, 533
+  orig: 654, 533
+  offset: 0, 0
+  index: -1
+ghost_body_2
+  rotate: false
+  xy: 658, 490
+  size: 484, 258
+  orig: 484, 258
+  offset: 0, 0
+  index: -1
+ghost_body_3
+  rotate: false
+  xy: 2, 169
+  size: 614, 316
+  orig: 614, 316
+  offset: 0, 0
+  index: -1
+ghost_ear_inner
+  rotate: true
+  xy: 1495, 292
+  size: 100, 153
+  orig: 100, 153
+  offset: 0, 0
+  index: -1
+ghost_ear_out
+  rotate: false
+  xy: 1163, 312
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+ghost_eye_1_Battle_Injury
+  rotate: false
+  xy: 380, 45
+  size: 234, 122
+  orig: 234, 122
+  offset: 0, 0
+  index: -1
+ghost_eye_1_Battle_Mighty
+  rotate: false
+  xy: 1736, 484
+  size: 226, 115
+  orig: 226, 115
+  offset: 0, 0
+  index: -1
+ghost_eye_1_Battle_Weak
+  rotate: true
+  xy: 1378, 271
+  size: 233, 115
+  orig: 233, 115
+  offset: 0, 0
+  index: -1
+ghost_eye_1_Shy_1
+  rotate: false
+  xy: 1144, 506
+  size: 310, 87
+  orig: 310, 87
+  offset: 0, 0
+  index: -1
+ghost_eye_1_Shy_2
+  rotate: false
+  xy: 616, 12
+  size: 239, 115
+  orig: 239, 115
+  offset: 0, 0
+  index: -1
+ghost_eye_1_normal
+  rotate: false
+  xy: 1495, 394
+  size: 226, 115
+  orig: 226, 115
+  offset: 0, 0
+  index: -1
+ghost_head
+  rotate: false
+  xy: 1474, 601
+  size: 463, 419
+  orig: 463, 419
+  offset: 0, 0
+  index: -1
+ghost_jawbone
+  rotate: true
+  xy: 974, 142
+  size: 166, 196
+  orig: 166, 196
+  offset: 0, 0
+  index: -1
+ghost_leg_inner_down
+  rotate: true
+  xy: 1144, 595
+  size: 153, 306
+  orig: 153, 306
+  offset: 0, 0
+  index: -1
+ghost_leg_inner_up
+  rotate: true
+  xy: 618, 129
+  size: 179, 354
+  orig: 179, 354
+  offset: 0, 0
+  index: -1
+ghost_leg_out
+  rotate: true
+  xy: 658, 750
+  size: 270, 814
+  orig: 270, 814
+  offset: 0, 0
+  index: -1
+ghost_mao_10
+  rotate: true
+  xy: 1939, 674
+  size: 346, 84
+  orig: 346, 84
+  offset: 0, 0
+  index: -1
+ghost_mao_5
+  rotate: false
+  xy: 857, 2
+  size: 46, 125
+  orig: 46, 125
+  offset: 0, 0
+  index: -1
+ghost_mao_6
+  rotate: false
+  xy: 2, 11
+  size: 250, 60
+  orig: 250, 60
+  offset: 0, 0
+  index: -1
+ghost_mao_7
+  rotate: false
+  xy: 658, 310
+  size: 503, 178
+  orig: 503, 178
+  offset: 0, 0
+  index: -1
+ghost_mao_8
+  rotate: false
+  xy: 2, 73
+  size: 376, 94
+  orig: 376, 94
+  offset: 0, 0
+  index: -1
+ghost_mao_9
+  rotate: true
+  xy: 1456, 511
+  size: 88, 278
+  orig: 88, 278
+  offset: 0, 0
+  index: -1
+ghost_mouth
+  rotate: false
+  xy: 1172, 146
+  size: 172, 164
+  orig: 172, 164
+  offset: 0, 0
+  index: -1

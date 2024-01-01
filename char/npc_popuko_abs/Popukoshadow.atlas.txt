@@ -1,0 +1,20 @@
+
+Popukoshadow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PopukoS
+  rotate: false
+  xy: 2, 2
+  size: 707, 1478
+  orig: 707, 1478
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 711, 3
+  size: 708, 1477
+  orig: 708, 1477
+  offset: 0, 0
+  index: -1

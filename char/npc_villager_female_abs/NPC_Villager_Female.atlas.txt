@@ -1,0 +1,216 @@
+
+NPC_Villager_Female.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 247, 24
+  size: 65, 184
+  orig: 65, 184
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 545, 298
+  size: 89, 212
+  orig: 89, 212
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 290, 91
+  size: 209, 73
+  orig: 209, 73
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 2, 5
+  size: 103, 243
+  orig: 103, 243
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 794, 207
+  size: 124, 93
+  orig: 124, 93
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 110
+  size: 286, 400
+  orig: 286, 400
+  offset: 0, 0
+  index: -1
+eye_2_Fear
+  rotate: false
+  xy: 433, 17
+  size: 122, 72
+  orig: 122, 72
+  offset: 0, 0
+  index: -1
+eye_2_Fear_Tea2
+  rotate: false
+  xy: 247, 96
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+eye_2_Fear_Tear1
+  rotate: true
+  xy: 583, 282
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 539, 161
+  size: 112, 54
+  orig: 112, 54
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 595, 213
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 595, 155
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 290, 275
+  size: 253, 235
+  orig: 253, 235
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: true
+  xy: 779, 147
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: false
+  xy: 920, 185
+  size: 102, 115
+  orig: 102, 115
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: true
+  xy: 636, 272
+  size: 103, 156
+  orig: 103, 156
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 951, 389
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 795, 302
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 501, 127
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 545, 275
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 595, 272
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 882, 180
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_A
+  rotate: false
+  xy: 247, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_B
+  rotate: true
+  xy: 501, 97
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_C
+  rotate: true
+  xy: 931, 351
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_D
+  rotate: false
+  xy: 882, 151
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 707, 173
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 290, 166
+  size: 107, 247
+  orig: 107, 247
+  offset: 0, 0
+  index: -1
+yaojia_inner
+  rotate: true
+  xy: 795, 379
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+yaojia_out
+  rotate: false
+  xy: 636, 377
+  size: 157, 133
+  orig: 157, 133
+  offset: 0, 0
+  index: -1

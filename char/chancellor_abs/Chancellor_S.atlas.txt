@@ -1,0 +1,20 @@
+
+Chancellor_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA
+  rotate: false
+  xy: 2, 334
+  size: 1235, 1237
+  orig: 1235, 1237
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 2
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1

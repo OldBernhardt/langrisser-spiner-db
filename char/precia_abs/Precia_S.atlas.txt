@@ -1,0 +1,20 @@
+
+Precia_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1291, 1838
+  orig: 1291, 1838
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 1295, 1234
+  size: 674, 606
+  orig: 674, 606
+  offset: 0, 0
+  index: -1

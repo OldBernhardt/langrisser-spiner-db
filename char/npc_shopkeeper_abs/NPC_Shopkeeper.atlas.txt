@@ -1,0 +1,216 @@
+
+NPC_Shopkeeper.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: true
+  xy: 267, 23
+  size: 109, 200
+  orig: 109, 200
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: true
+  xy: 2002, 828
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1472, 522
+  size: 159, 220
+  orig: 159, 220
+  offset: 0, 0
+  index: -1
+arm_out_1
+  rotate: false
+  xy: 1320, 479
+  size: 150, 263
+  orig: 150, 263
+  offset: 0, 0
+  index: -1
+arm_out_2
+  rotate: false
+  xy: 1788, 682
+  size: 166, 100
+  orig: 166, 100
+  offset: 0, 0
+  index: -1
+bao_1
+  rotate: false
+  xy: 1093, 449
+  size: 225, 293
+  orig: 225, 293
+  offset: 0, 0
+  index: -1
+bao_2
+  rotate: false
+  xy: 1050, 159
+  size: 101, 115
+  orig: 101, 115
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 758, 154
+  size: 237, 290
+  orig: 237, 290
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 134
+  size: 754, 884
+  orig: 754, 884
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 681, 30
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 1788, 537
+  size: 120, 143
+  orig: 120, 143
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1472, 459
+  size: 128, 61
+  orig: 128, 61
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 469, 2
+  size: 128, 61
+  orig: 128, 61
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 1320, 417
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1735, 784
+  size: 265, 234
+  orig: 265, 234
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 769, 46
+  size: 73, 106
+  orig: 73, 106
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1050, 276
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 2002, 881
+  size: 44, 137
+  orig: 44, 137
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1910, 538
+  size: 50, 142
+  orig: 50, 142
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 469, 65
+  size: 67, 210
+  orig: 67, 210
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1093, 391
+  size: 56, 150
+  orig: 56, 150
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1093, 744
+  size: 274, 640
+  orig: 274, 640
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 758, 393
+  size: 333, 625
+  orig: 333, 625
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: false
+  xy: 1956, 751
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+hand_inner_2
+  rotate: false
+  xy: 1164, 279
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+leg_inner_1
+  rotate: false
+  xy: 1633, 523
+  size: 153, 219
+  orig: 153, 219
+  offset: 0, 0
+  index: -1
+leg_out_1
+  rotate: true
+  xy: 2, 22
+  size: 110, 263
+  orig: 110, 263
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1602, 504
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 844, 60
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1735, 752
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1

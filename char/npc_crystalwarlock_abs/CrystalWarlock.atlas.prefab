@@ -1,0 +1,174 @@
+
+CrystalWarlock.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: false
+  xy: 840, 258
+  size: 178, 522
+  orig: 178, 522
+  offset: 0, 0
+  index: -1
+arm_out_1
+  rotate: true
+  xy: 497, 782
+  size: 240, 524
+  orig: 240, 524
+  offset: 0, 0
+  index: -1
+arm_up_2
+  rotate: false
+  xy: 823, 24
+  size: 105, 232
+  orig: 105, 232
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 930, 30
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 706, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 558
+  size: 493, 464
+  orig: 493, 464
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 497, 484
+  size: 296, 341
+  orig: 296, 341
+  offset: 0, 0
+  index: -1
+book
+  rotate: true
+  xy: 2, 11
+  size: 245, 296
+  orig: 245, 296
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 258, 441
+  size: 115, 38
+  orig: 115, 38
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 258, 325
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 2, 278
+  size: 111, 38
+  orig: 111, 38
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 115, 278
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 318
+  size: 238, 254
+  orig: 238, 254
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 491, 236
+  size: 30, 104
+  orig: 30, 104
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 491, 268
+  size: 99, 214
+  orig: 99, 214
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 706, 30
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 930, 95
+  size: 73, 161
+  orig: 73, 161
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 592, 387
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 225, 277
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: false
+  xy: 300, 3
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 300, 189
+  size: 367, 189
+  orig: 367, 189
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: false
+  xy: 706, 195
+  size: 115, 287
+  orig: 115, 287
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: true
+  xy: 300, 27
+  size: 160, 404
+  orig: 160, 404
+  offset: 0, 0
+  index: -1
+yanjin
+  rotate: true
+  xy: 258, 275
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+NPC_ColonelSanders.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 281, 6
+  size: 238, 404
+  orig: 238, 404
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1892, 480
+  size: 151, 329
+  orig: 151, 329
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1015, 89
+  size: 184, 355
+  orig: 184, 355
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1201, 220
+  size: 177, 364
+  orig: 177, 364
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 760, 99
+  size: 345, 253
+  orig: 345, 253
+  offset: 0, 0
+  index: -1
+body_up01
+  rotate: false
+  xy: 2, 412
+  size: 456, 598
+  orig: 456, 598
+  offset: 0, 0
+  index: -1
+body_up02
+  rotate: false
+  xy: 2, 2
+  size: 277, 408
+  orig: 277, 408
+  offset: 0, 0
+  index: -1
+body_up03
+  rotate: false
+  xy: 521, 63
+  size: 237, 381
+  orig: 237, 381
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1380, 373
+  size: 217, 211
+  orig: 217, 211
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1748, 349
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1103, 507
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 1389, 96
+  size: 127, 170
+  orig: 127, 170
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1380, 225
+  size: 193, 146
+  orig: 193, 146
+  offset: 0, 0
+  index: -1
+leg_inner01
+  rotate: true
+  xy: 1599, 462
+  size: 122, 220
+  orig: 122, 220
+  offset: 0, 0
+  index: -1
+leg_inner02
+  rotate: true
+  xy: 1246, 586
+  size: 223, 644
+  orig: 223, 644
+  offset: 0, 0
+  index: -1
+leg_inner03
+  rotate: true
+  xy: 460, 446
+  size: 300, 641
+  orig: 300, 641
+  offset: 0, 0
+  index: -1
+leg_out01
+  rotate: true
+  xy: 460, 748
+  size: 262, 784
+  orig: 262, 784
+  offset: 0, 0
+  index: -1
+leg_out02
+  rotate: true
+  xy: 1246, 811
+  size: 199, 788
+  orig: 199, 788
+  offset: 0, 0
+  index: -1
+lingjie01
+  rotate: true
+  xy: 1103, 557
+  size: 189, 67
+  orig: 189, 67
+  offset: 0, 0
+  index: -1
+lingjie02
+  rotate: true
+  xy: 1599, 383
+  size: 77, 147
+  orig: 77, 147
+  offset: 0, 0
+  index: -1
+lingjie03
+  rotate: true
+  xy: 521, 12
+  size: 49, 158
+  orig: 49, 158
+  offset: 0, 0
+  index: -1
+mouth_normal_A
+  rotate: false
+  xy: 760, 34
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+mouth_normal_B
+  rotate: true
+  xy: 1172, 631
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+mouth_normal_C
+  rotate: false
+  xy: 877, 33
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+mouth_normal_D
+  rotate: true
+  xy: 1821, 469
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1201, 78
+  size: 140, 186
+  orig: 140, 186
+  offset: 0, 0
+  index: -1

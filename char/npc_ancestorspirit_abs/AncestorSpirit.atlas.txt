@@ -1,0 +1,118 @@
+
+AncestorSpirit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 1843, 651
+  size: 111, 178
+  orig: 111, 178
+  offset: 0, 0
+  index: -1
+bozi1
+  rotate: true
+  xy: 2, 94
+  size: 538, 726
+  orig: 538, 726
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 2, 634
+  size: 963, 387
+  orig: 963, 387
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 1538, 214
+  size: 266, 381
+  orig: 266, 381
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 1759, 92
+  size: 117, 120
+  orig: 117, 120
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 1504, 2
+  size: 112, 227
+  orig: 112, 227
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 1326, 72
+  size: 176, 188
+  orig: 176, 188
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: true
+  xy: 951, 41
+  size: 219, 373
+  orig: 219, 373
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 967, 757
+  size: 846, 264
+  orig: 846, 264
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 1815, 764
+  size: 162, 257
+  orig: 162, 257
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 1806, 229
+  size: 204, 366
+  orig: 204, 366
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 967, 597
+  size: 874, 158
+  orig: 874, 158
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 951, 262
+  size: 585, 333
+  orig: 585, 333
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 730, 106
+  size: 219, 526
+  orig: 219, 526
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 1504, 116
+  size: 96, 253
+  orig: 96, 253
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 2, 34
+  size: 58, 150
+  orig: 58, 150
+  offset: 0, 0
+  index: -1

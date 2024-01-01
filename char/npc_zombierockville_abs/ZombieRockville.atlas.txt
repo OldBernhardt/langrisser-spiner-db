@@ -1,0 +1,272 @@
+
+ZombieRockville.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 594, 193
+  size: 135, 324
+  orig: 135, 324
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 826, 546
+  size: 148, 277
+  orig: 148, 277
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 731, 211
+  size: 138, 306
+  orig: 138, 306
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 871, 309
+  size: 202, 235
+  orig: 202, 235
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1268, 519
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1075, 513
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 826, 522
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 513
+  size: 496, 509
+  orig: 496, 509
+  offset: 0, 0
+  index: -1
+eye_Normal_1
+  rotate: false
+  xy: 184, 3
+  size: 161, 68
+  orig: 161, 68
+  offset: 0, 0
+  index: -1
+eye_Normal_2
+  rotate: false
+  xy: 1105, 513
+  size: 161, 68
+  orig: 161, 68
+  offset: 0, 0
+  index: -1
+eye_Normal_3
+  rotate: false
+  xy: 1075, 443
+  size: 161, 68
+  orig: 161, 68
+  offset: 0, 0
+  index: -1
+eye_hurt
+  rotate: false
+  xy: 1075, 373
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 500, 674
+  size: 267, 348
+  orig: 267, 348
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1780, 624
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1349, 646
+  size: 139, 179
+  orig: 139, 179
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1947, 887
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+hand_inner_down
+  rotate: false
+  xy: 1663, 624
+  size: 115, 146
+  orig: 115, 146
+  offset: 0, 0
+  index: -1
+hand_out_down
+  rotate: false
+  xy: 1530, 617
+  size: 131, 168
+  orig: 131, 168
+  offset: 0, 0
+  index: -1
+huzi_1
+  rotate: false
+  xy: 473, 118
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+huzi_2
+  rotate: true
+  xy: 1036, 699
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 1294, 613
+  size: 37, 133
+  orig: 37, 133
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 1105, 583
+  size: 187, 163
+  orig: 187, 163
+  offset: 0, 0
+  index: -1
+jianjia_inner_3
+  rotate: true
+  xy: 1947, 756
+  size: 129, 98
+  orig: 129, 98
+  offset: 0, 0
+  index: -1
+jianjia_inner_4
+  rotate: true
+  xy: 1680, 772
+  size: 250, 265
+  orig: 250, 265
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 1036, 748
+  size: 311, 274
+  orig: 311, 274
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 1780, 666
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+jianjia_out_3
+  rotate: true
+  xy: 2, 10
+  size: 61, 180
+  orig: 61, 180
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 73
+  size: 469, 438
+  orig: 469, 438
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 871, 163
+  size: 198, 144
+  orig: 198, 144
+  offset: 0, 0
+  index: -1
+mouth_Normal_A
+  rotate: false
+  xy: 594, 172
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+mouth_Normal_B
+  rotate: true
+  xy: 347, 2
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+mouth_Normal_C
+  rotate: true
+  xy: 1908, 707
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+mouth_Normal_D
+  rotate: true
+  xy: 1238, 451
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+mouth_hurt
+  rotate: true
+  xy: 371, 2
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+xiongjia_1
+  rotate: true
+  xy: 473, 159
+  size: 352, 119
+  orig: 352, 119
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: false
+  xy: 769, 696
+  size: 265, 326
+  orig: 265, 326
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: true
+  xy: 1349, 787
+  size: 235, 329
+  orig: 235, 329
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: true
+  xy: 500, 519
+  size: 153, 324
+  orig: 153, 324
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+NPC_Langrisser.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_1
+  rotate: false
+  xy: 802, 204
+  size: 64, 261
+  orig: 64, 261
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 2, 64
+  size: 106, 697
+  orig: 106, 697
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 868, 232
+  size: 85, 233
+  orig: 85, 233
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 2, 2
+  size: 342, 60
+  orig: 342, 60
+  offset: 0, 0
+  index: -1
+weapon_5
+  rotate: true
+  xy: 2, 172
+  size: 293, 798
+  orig: 293, 798
+  offset: 0, 0
+  index: -1

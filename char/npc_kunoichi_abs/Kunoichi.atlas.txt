@@ -1,0 +1,237 @@
+
+Kunoichi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 250, 360
+  size: 158, 662
+  orig: 158, 662
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 590, 346
+  size: 106, 314
+  orig: 106, 314
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 410, 403
+  size: 178, 619
+  orig: 178, 619
+  offset: 0, 0
+  index: -1
+arm_out_up_1
+  rotate: false
+  xy: 242, 63
+  size: 146, 284
+  orig: 146, 284
+  offset: 0, 0
+  index: -1
+arm_out_up_2
+  rotate: true
+  xy: 743, 135
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+arm_out_up_3
+  rotate: true
+  xy: 895, 137
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+blood_2_1
+  rotate: false
+  xy: 997, 1003
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+blood_2_2
+  rotate: false
+  xy: 918, 753
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 590, 454
+  size: 303, 274
+  orig: 303, 274
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 590, 730
+  size: 326, 292
+  orig: 326, 292
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: true
+  xy: 990, 377
+  size: 111, 30
+  orig: 111, 30
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: false
+  xy: 410, 368
+  size: 110, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: true
+  xy: 946, 248
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: true
+  xy: 830, 25
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 2, 104
+  size: 238, 243
+  orig: 238, 243
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: true
+  xy: 2, 4
+  size: 98, 185
+  orig: 98, 185
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: true
+  xy: 743, 227
+  size: 117, 201
+  orig: 117, 201
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: true
+  xy: 528, 54
+  size: 86, 187
+  orig: 86, 187
+  offset: 0, 0
+  index: -1
+hair_inner
+  rotate: false
+  xy: 2, 349
+  size: 246, 673
+  orig: 246, 673
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 717, 52
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 390, 58
+  size: 136, 88
+  orig: 136, 88
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 918, 784
+  size: 77, 238
+  orig: 77, 238
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 538, 142
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: false
+  xy: 990, 363
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 522, 387
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 189, 85
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 946, 227
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 918, 730
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: false
+  xy: 906, 358
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 538, 226
+  size: 118, 203
+  orig: 118, 203
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 717, 135
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 390, 148
+  size: 146, 210
+  orig: 146, 210
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 895, 490
+  size: 238, 122
+  orig: 238, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+AutokratoIV.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 867, 1882
+  orig: 867, 1882
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 871, 1384
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: -1

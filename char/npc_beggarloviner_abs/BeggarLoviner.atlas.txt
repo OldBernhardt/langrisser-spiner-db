@@ -1,0 +1,244 @@
+
+BeggarLoviner.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: true
+  xy: 1686, 383
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+doupeng_1
+  rotate: true
+  xy: 605, 224
+  size: 319, 389
+  orig: 319, 389
+  offset: 0, 0
+  index: -1
+doupeng_3
+  rotate: false
+  xy: 2, 203
+  size: 601, 819
+  orig: 601, 819
+  offset: 0, 0
+  index: -1
+doupeng_4
+  rotate: false
+  xy: 1467, 671
+  size: 312, 351
+  orig: 312, 351
+  offset: 0, 0
+  index: -1
+doupeng_5
+  rotate: true
+  xy: 605, 545
+  size: 477, 860
+  orig: 477, 860
+  offset: 0, 0
+  index: -1
+doupeng_6
+  rotate: false
+  xy: 1689, 496
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+doupwng_2
+  rotate: false
+  xy: 996, 350
+  size: 444, 193
+  orig: 444, 193
+  offset: 0, 0
+  index: -1
+eye_2_Normal
+  rotate: false
+  xy: 1781, 696
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: true
+  xy: 1999, 967
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 534, 44
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+eye_2_Sad
+  rotate: true
+  xy: 1999, 905
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 2, 2
+  size: 199, 245
+  orig: 199, 245
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 249, 23
+  size: 53, 164
+  orig: 53, 164
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1254, 174
+  size: 174, 187
+  orig: 174, 187
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 415, 33
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1567, 371
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1467, 590
+  size: 79, 307
+  orig: 79, 307
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1867, 722
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1998, 660
+  size: 48, 126
+  orig: 48, 126
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 249, 78
+  size: 123, 337
+  orig: 123, 337
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1467, 498
+  size: 90, 220
+  orig: 90, 220
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1781, 730
+  size: 84, 292
+  orig: 84, 292
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 1442, 499
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 1999, 813
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 1999, 859
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1686, 463
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Sad_A
+  rotate: false
+  xy: 1999, 788
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Sad_B
+  rotate: false
+  xy: 1781, 669
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Sad_C
+  rotate: true
+  xy: 1732, 450
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Sad_D
+  rotate: false
+  xy: 1686, 430
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1442, 360
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 605, 217
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+weijin_1
+  rotate: false
+  xy: 996, 237
+  size: 256, 111
+  orig: 256, 111
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: true
+  xy: 1867, 788
+  size: 234, 130
+  orig: 234, 130
+  offset: 0, 0
+  index: -1

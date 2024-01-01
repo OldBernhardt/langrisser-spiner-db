@@ -1,0 +1,20 @@
+
+Sirink_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sirink_Shadow
+  rotate: false
+  xy: 2, 2
+  size: 1750, 1898
+  orig: 1750, 1898
+  offset: 0, 0
+  index: -1
+Sirink_Shadow_W
+  rotate: false
+  xy: 1754, 1589
+  size: 288, 311
+  orig: 288, 311
+  offset: 0, 0
+  index: -1

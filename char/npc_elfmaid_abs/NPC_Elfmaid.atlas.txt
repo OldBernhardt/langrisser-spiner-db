@@ -1,0 +1,244 @@
+
+NPC_Elfmaid.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down
+  rotate: true
+  xy: 263, 3
+  size: 71, 241
+  orig: 71, 241
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 655, 95
+  size: 146, 336
+  orig: 146, 336
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 76
+  size: 651, 946
+  orig: 651, 946
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 655, 717
+  size: 273, 305
+  orig: 273, 305
+  offset: 0, 0
+  index: -1
+ear_inner
+  rotate: false
+  xy: 898, 116
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+ear_out
+  rotate: false
+  xy: 1714, 830
+  size: 126, 57
+  orig: 126, 57
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1579, 832
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1579, 775
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 1714, 773
+  size: 124, 55
+  orig: 124, 55
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 655, 433
+  size: 223, 282
+  orig: 223, 282
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 983, 199
+  size: 100, 145
+  orig: 100, 145
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 897, 165
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1267, 742
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 983, 148
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 591, 3
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
+hair_inner_1
+  rotate: false
+  xy: 897, 346
+  size: 156, 126
+  orig: 156, 126
+  offset: 0, 0
+  index: -1
+hair_inner_2
+  rotate: true
+  xy: 803, 79
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+hair_inner_4
+  rotate: true
+  xy: 1467, 762
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 1226, 593
+  size: 61, 116
+  orig: 61, 116
+  offset: 0, 0
+  index: -1
+hand_inner_down
+  rotate: true
+  xy: 2, 13
+  size: 61, 259
+  orig: 61, 259
+  offset: 0, 0
+  index: -1
+hand_inner_up
+  rotate: true
+  xy: 1260, 885
+  size: 137, 304
+  orig: 137, 304
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1226, 488
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 1566, 889
+  size: 133, 280
+  orig: 133, 280
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 803, 128
+  size: 92, 303
+  orig: 92, 303
+  offset: 0, 0
+  index: -1
+lingjie_1
+  rotate: true
+  xy: 1201, 711
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+lingjie_2
+  rotate: true
+  xy: 506, 2
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+lingjie_3
+  rotate: false
+  xy: 686, 22
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1848, 889
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1363, 752
+  size: 102, 131
+  orig: 102, 131
+  offset: 0, 0
+  index: -1
+yaodai_1
+  rotate: false
+  xy: 1848, 907
+  size: 169, 115
+  orig: 169, 115
+  offset: 0, 0
+  index: -1
+yaodai_2
+  rotate: false
+  xy: 880, 474
+  size: 195, 231
+  orig: 195, 231
+  offset: 0, 0
+  index: -1
+yaodai_3
+  rotate: false
+  xy: 1077, 497
+  size: 147, 208
+  orig: 147, 208
+  offset: 0, 0
+  index: -1
+yaodai_4
+  rotate: true
+  xy: 930, 848
+  size: 174, 328
+  orig: 174, 328
+  offset: 0, 0
+  index: -1
+yaodai_5
+  rotate: true
+  xy: 930, 707
+  size: 139, 269
+  orig: 139, 269
+  offset: 0, 0
+  index: -1

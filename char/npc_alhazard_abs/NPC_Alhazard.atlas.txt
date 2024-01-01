@@ -1,0 +1,48 @@
+
+NPC_Alhazard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_1
+  rotate: false
+  xy: 2, 65
+  size: 452, 142
+  orig: 452, 142
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: true
+  xy: 456, 85
+  size: 122, 332
+  orig: 122, 332
+  offset: 0, 0
+  index: -1
+Light_3
+  rotate: true
+  xy: 2, 335
+  size: 168, 763
+  orig: 168, 763
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 790, 99
+  size: 404, 101
+  orig: 404, 101
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 456, 2
+  size: 81, 294
+  orig: 81, 294
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 2, 209
+  size: 124, 712
+  orig: 124, 712
+  offset: 0, 0
+  index: -1

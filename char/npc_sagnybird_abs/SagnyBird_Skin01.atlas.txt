@@ -1,0 +1,69 @@
+
+SagnyBird_Skin01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 2, 32
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+blood1
+  rotate: false
+  xy: 1835, 1698
+  size: 181, 318
+  orig: 181, 318
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 438, 780
+  size: 300, 413
+  orig: 300, 413
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 1576, 1199
+  size: 287, 186
+  orig: 287, 186
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 646
+  size: 434, 547
+  orig: 434, 547
+  offset: 0, 0
+  index: -1
+ring_inner
+  rotate: true
+  xy: 2, 121
+  size: 523, 239
+  orig: 523, 239
+  offset: 0, 0
+  index: -1
+ring_out
+  rotate: true
+  xy: 1576, 1488
+  size: 528, 257
+  orig: 528, 257
+  offset: 0, 0
+  index: -1
+ring_out_Battle_Weak
+  rotate: false
+  xy: 243, 546
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2, 1195
+  size: 1572, 821
+  orig: 1572, 821
+  offset: 0, 0
+  index: -1

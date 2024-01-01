@@ -1,0 +1,195 @@
+
+NPC_Assassin01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 325, 693
+  size: 264, 329
+  orig: 264, 329
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 872, 284
+  size: 98, 224
+  orig: 98, 224
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 591, 802
+  size: 220, 359
+  orig: 220, 359
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 2, 22
+  size: 144, 324
+  orig: 144, 324
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 952, 785
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 2, 5
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 586
+  size: 321, 436
+  orig: 321, 436
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: true
+  xy: 584, 381
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 320, 192
+  size: 262, 250
+  orig: 262, 250
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: true
+  xy: 2, 168
+  size: 416, 316
+  orig: 416, 316
+  offset: 0, 0
+  index: -1
+jianjia_inner1
+  rotate: true
+  xy: 584, 201
+  size: 160, 203
+  orig: 160, 203
+  offset: 0, 0
+  index: -1
+jianjia_inner2
+  rotate: true
+  xy: 952, 856
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 325, 444
+  size: 287, 247
+  orig: 287, 247
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 614, 363
+  size: 145, 256
+  orig: 145, 256
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 614, 510
+  size: 189, 297
+  orig: 189, 297
+  offset: 0, 0
+  index: -1
+lingzi_inner1
+  rotate: false
+  xy: 789, 308
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+lingzi_inner2
+  rotate: true
+  xy: 952, 955
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: true
+  xy: 906, 742
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 619, 49
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 906, 701
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 668, 51
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 835, 323
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 952, 823
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 619, 77
+  size: 172, 122
+  orig: 172, 122
+  offset: 0, 0
+  index: -1
+qunbai_inner
+  rotate: false
+  xy: 789, 206
+  size: 191, 76
+  orig: 191, 76
+  offset: 0, 0
+  index: -1
+weapon_inner
+  rotate: false
+  xy: 328, 34
+  size: 289, 156
+  orig: 289, 156
+  offset: 0, 0
+  index: -1
+weapon_out
+  rotate: false
+  xy: 591, 701
+  size: 313, 99
+  orig: 313, 99
+  offset: 0, 0
+  index: -1

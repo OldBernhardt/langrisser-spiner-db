@@ -1,0 +1,153 @@
+
+FireCrossbow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: false
+  xy: 900, 687
+  size: 122, 335
+  orig: 122, 335
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: false
+  xy: 353, 220
+  size: 134, 334
+  orig: 134, 334
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: true
+  xy: 489, 410
+  size: 129, 356
+  orig: 129, 356
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: true
+  xy: 489, 150
+  size: 123, 327
+  orig: 123, 327
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 396, 613
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 737, 134
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 615, 732
+  size: 283, 290
+  orig: 283, 290
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 556
+  size: 392, 466
+  orig: 392, 466
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 6
+  size: 262, 292
+  orig: 262, 292
+  offset: 0, 0
+  index: -1
+jianjiainner_1
+  rotate: true
+  xy: 615, 541
+  size: 189, 274
+  orig: 189, 274
+  offset: 0, 0
+  index: -1
+jianjiainner_2
+  rotate: false
+  xy: 891, 558
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 2, 270
+  size: 349, 284
+  orig: 349, 284
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 296, 245
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 818, 237
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 446, 2
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 446, 37
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 847, 514
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 296, 11
+  size: 207, 148
+  orig: 207, 148
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 446, 60
+  size: 289, 88
+  orig: 289, 88
+  offset: 0, 0
+  index: -1
+yaojiainner
+  rotate: true
+  xy: 489, 275
+  size: 133, 347
+  orig: 133, 347
+  offset: 0, 0
+  index: -1
+yaojiaout
+  rotate: false
+  xy: 396, 655
+  size: 217, 367
+  orig: 217, 367
+  offset: 0, 0
+  index: -1

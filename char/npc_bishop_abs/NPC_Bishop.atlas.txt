@@ -1,0 +1,125 @@
+
+NPC_Bishop.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: true
+  xy: 400, 328
+  size: 154, 516
+  orig: 154, 516
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: true
+  xy: 455, 484
+  size: 249, 486
+  orig: 249, 486
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 400, 485
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 918, 449
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 455, 735
+  size: 468, 280
+  orig: 468, 280
+  offset: 0, 0
+  index: -1
+body_inner
+  rotate: false
+  xy: 925, 947
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 503
+  size: 451, 512
+  orig: 451, 512
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 758, 78
+  size: 221, 248
+  orig: 221, 248
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 400, 143
+  size: 183, 356
+  orig: 183, 356
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 138
+  size: 396, 363
+  orig: 396, 363
+  offset: 0, 0
+  index: -1
+lingzi_inner
+  rotate: false
+  xy: 2, 10
+  size: 306, 126
+  orig: 306, 126
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 618, 110
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 618, 48
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 618, 78
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 925, 913
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 310, 102
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 400, 2
+  size: 216, 139
+  orig: 216, 139
+  offset: 0, 0
+  index: -1

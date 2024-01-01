@@ -1,0 +1,370 @@
+
+Aimeeda_Goddess.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down
+  rotate: false
+  xy: 1070, 1411
+  size: 94, 300
+  orig: 94, 300
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 2, 525
+  size: 186, 354
+  orig: 186, 354
+  offset: 0, 0
+  index: -1
+arn_inner_down
+  rotate: false
+  xy: 1520, 1589
+  size: 193, 173
+  orig: 193, 173
+  offset: 0, 0
+  index: -1
+arn_inner_up
+  rotate: true
+  xy: 190, 531
+  size: 140, 161
+  orig: 140, 161
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 1160, 1732
+  size: 307, 348
+  orig: 307, 348
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 633, 1341
+  size: 302, 370
+  orig: 302, 370
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 2, 21
+  size: 223, 152
+  orig: 223, 152
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 351, 710
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 926, 910
+  size: 114, 62
+  orig: 114, 62
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: true
+  xy: 1023, 1187
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1510, 1764
+  size: 265, 275
+  orig: 265, 275
+  offset: 0, 0
+  index: -1
+hair_2_1
+  rotate: true
+  xy: 1866, 1466
+  size: 113, 46
+  orig: 113, 46
+  offset: 0, 0
+  index: -1
+hair_2_10
+  rotate: false
+  xy: 202, 827
+  size: 186, 96
+  orig: 186, 96
+  offset: 0, 0
+  index: -1
+hair_2_11
+  rotate: false
+  xy: 1777, 1810
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+hair_2_12
+  rotate: false
+  xy: 1914, 1480
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+hair_2_13
+  rotate: false
+  xy: 1922, 1575
+  size: 93, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+hair_2_14
+  rotate: false
+  xy: 633, 1713
+  size: 525, 326
+  orig: 525, 326
+  offset: 0, 0
+  index: -1
+hair_2_15
+  rotate: true
+  xy: 937, 1390
+  size: 321, 131
+  orig: 321, 131
+  offset: 0, 0
+  index: -1
+hair_2_16
+  rotate: true
+  xy: 2, 246
+  size: 277, 170
+  orig: 277, 170
+  offset: 0, 0
+  index: -1
+hair_2_17
+  rotate: true
+  xy: 652, 935
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+hair_2_18
+  rotate: false
+  xy: 633, 1086
+  size: 273, 253
+  orig: 273, 253
+  offset: 0, 0
+  index: -1
+hair_2_19
+  rotate: true
+  xy: 1777, 1703
+  size: 105, 212
+  orig: 105, 212
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: false
+  xy: 908, 1092
+  size: 106, 82
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+hair_2_20
+  rotate: false
+  xy: 908, 1176
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+hair_2_3
+  rotate: false
+  xy: 1348, 1527
+  size: 170, 203
+  orig: 170, 203
+  offset: 0, 0
+  index: -1
+hair_2_4
+  rotate: true
+  xy: 834, 932
+  size: 152, 90
+  orig: 152, 90
+  offset: 0, 0
+  index: -1
+hair_2_5
+  rotate: false
+  xy: 1715, 1584
+  size: 51, 178
+  orig: 51, 178
+  offset: 0, 0
+  index: -1
+hair_2_6
+  rotate: false
+  xy: 1086, 1326
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+hair_2_7
+  rotate: false
+  xy: 1923, 1392
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+hair_2_8
+  rotate: false
+  xy: 1331, 1367
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+hair_2_9
+  rotate: true
+  xy: 1711, 1473
+  size: 106, 153
+  orig: 106, 153
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: false
+  xy: 1086, 1236
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+hand_inner_2
+  rotate: false
+  xy: 1819, 1378
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 1520, 1482
+  size: 105, 189
+  orig: 105, 189
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 418, 1080
+  size: 213, 959
+  orig: 213, 959
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 202, 925
+  size: 214, 1114
+  orig: 214, 1114
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 156, 222
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 1070, 1387
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 2, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1488, 1507
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1768, 1581
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+nose_2
+  rotate: false
+  xy: 174, 466
+  size: 12, 57
+  orig: 12, 57
+  offset: 0, 0
+  index: -1
+qunbai_1
+  rotate: true
+  xy: 937, 1305
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+qunbai_2
+  rotate: false
+  xy: 418, 938
+  size: 232, 140
+  orig: 232, 140
+  offset: 0, 0
+  index: -1
+qunbai_3
+  rotate: false
+  xy: 190, 673
+  size: 159, 152
+  orig: 159, 152
+  offset: 0, 0
+  index: -1
+qunbai_4
+  rotate: false
+  xy: 926, 974
+  size: 105, 116
+  orig: 105, 116
+  offset: 0, 0
+  index: -1
+qunbai_5
+  rotate: false
+  xy: 1166, 1367
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 1166, 1531
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 881
+  size: 198, 1158
+  orig: 198, 1158
+  offset: 0, 0
+  index: -1
+yaodai_1
+  rotate: false
+  xy: 1991, 1752
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+yaodai_2
+  rotate: false
+  xy: 1488, 1383
+  size: 188, 97
+  orig: 188, 97
+  offset: 0, 0
+  index: -1
+yaodai_3
+  rotate: false
+  xy: 1678, 1381
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1

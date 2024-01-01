@@ -1,0 +1,188 @@
+
+NPC_Zero.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 279
+  size: 733, 1136
+  orig: 733, 1136
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: true
+  xy: 1140, 308
+  size: 175, 300
+  orig: 175, 300
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: false
+  xy: 1753, 751
+  size: 237, 261
+  orig: 237, 261
+  offset: 0, 0
+  index: -1
+daizi_3
+  rotate: false
+  xy: 1173, 122
+  size: 258, 184
+  orig: 258, 184
+  offset: 0, 0
+  index: -1
+daizi_4
+  rotate: false
+  xy: 1878, 686
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1753, 686
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 2, 4
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 127, 4
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+eye_1_Sad
+  rotate: false
+  xy: 252, 4
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 913, 71
+  size: 206, 258
+  orig: 206, 258
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1442, 256
+  size: 96, 227
+  orig: 96, 227
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1173, 29
+  size: 91, 240
+  orig: 91, 240
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 1140, 485
+  size: 193, 409
+  orig: 193, 409
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 1992, 792
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 709, 9
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 1992, 866
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 783, 39
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 1992, 940
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+mouth_1_Sad
+  rotate: false
+  xy: 709, 38
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1551, 489
+  size: 189, 215
+  orig: 189, 215
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 1140, 680
+  size: 611, 332
+  orig: 611, 332
+  offset: 0, 0
+  index: -1
+weijin_2
+  rotate: true
+  xy: 499, 2
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+weijin_3
+  rotate: false
+  xy: 569, 4
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+weijin_4
+  rotate: true
+  xy: 2, 69
+  size: 208, 909
+  orig: 208, 909
+  offset: 0, 0
+  index: -1
+weijin_5
+  rotate: false
+  xy: 637, 10
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+xiongshi
+  rotate: true
+  xy: 377, 4
+  size: 63, 120
+  orig: 63, 120
+  offset: 0, 0
+  index: -1

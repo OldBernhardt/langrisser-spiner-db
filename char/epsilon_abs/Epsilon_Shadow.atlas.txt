@@ -1,0 +1,20 @@
+
+Epsilon_Shadow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 1436, 1492
+  size: 312, 406
+  orig: 312, 406
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 1432, 1896
+  orig: 1432, 1896
+  offset: 0, 0
+  index: -1

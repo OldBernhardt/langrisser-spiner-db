@@ -1,0 +1,384 @@
+
+NPC_Farmer_Girl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 212, 274
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 336, 454
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 466, 485
+  size: 82, 146
+  orig: 82, 146
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 377, 633
+  size: 115, 213
+  orig: 115, 213
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 762, 458
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 995, 803
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+body_down_1
+  rotate: false
+  xy: 2, 65
+  size: 113, 279
+  orig: 113, 279
+  offset: 0, 0
+  index: -1
+body_down_2
+  rotate: false
+  xy: 2, 346
+  size: 204, 296
+  orig: 204, 296
+  offset: 0, 0
+  index: -1
+body_down_3
+  rotate: false
+  xy: 2, 644
+  size: 373, 378
+  orig: 373, 378
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 377, 750
+  size: 214, 272
+  orig: 214, 272
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 2, 8
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 593, 717
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 212, 156
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 305, 280
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 711, 691
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+eye_1_Shy_1
+  rotate: true
+  xy: 557, 396
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+eye_1_Shy_2
+  rotate: false
+  xy: 592, 652
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: true
+  xy: 474, 370
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+eye_2_Fear
+  rotate: true
+  xy: 550, 514
+  size: 117, 77
+  orig: 117, 77
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 593, 782
+  size: 228, 240
+  orig: 228, 240
+  offset: 0, 0
+  index: -1
+fashi_1
+  rotate: false
+  xy: 185, 10
+  size: 22, 134
+  orig: 22, 134
+  offset: 0, 0
+  index: -1
+fashi_2
+  rotate: false
+  xy: 697, 452
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+fashi_3
+  rotate: true
+  xy: 632, 404
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+fashi_5
+  rotate: true
+  xy: 938, 786
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+fashi_6
+  rotate: false
+  xy: 473, 302
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 708, 639
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 336, 371
+  size: 81, 136
+  orig: 81, 136
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 632, 441
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 117, 2
+  size: 66, 142
+  orig: 66, 142
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 823, 786
+  size: 113, 236
+  orig: 113, 236
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 938, 830
+  size: 82, 192
+  orig: 82, 192
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 629, 548
+  size: 102, 70
+  orig: 102, 70
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 701, 546
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 117, 146
+  size: 93, 198
+  orig: 93, 198
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 208, 395
+  size: 126, 247
+  orig: 126, 247
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: true
+  xy: 610, 376
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 797, 548
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 554, 350
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal__A
+  rotate: false
+  xy: 554, 350
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Shy
+  rotate: true
+  xy: 420, 278
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: false
+  xy: 527, 339
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 527, 339
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Fear
+  rotate: false
+  xy: 797, 592
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: false
+  xy: 592, 633
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: true
+  xy: 797, 614
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: true
+  xy: 557, 370
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal__B
+  rotate: false
+  xy: 585, 375
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Normal__C
+  rotate: false
+  xy: 305, 372
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Normal__D
+  rotate: false
+  xy: 527, 311
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_A
+  rotate: true
+  xy: 615, 635
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_B
+  rotate: false
+  xy: 437, 278
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_C
+  rotate: true
+  xy: 995, 785
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+mouth_2_unhappy_D
+  rotate: false
+  xy: 797, 566
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 420, 294
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,307 @@
+
+MistSpirit.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood1
+  rotate: false
+  xy: 62, 14
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1649, 899
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 2, 289
+  size: 672, 787
+  orig: 672, 787
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2, 51
+  size: 236, 499
+  orig: 236, 499
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 2, 1078
+  size: 860, 968
+  orig: 860, 968
+  offset: 0, 0
+  index: -1
+body4
+  rotate: false
+  xy: 864, 1193
+  size: 368, 853
+  orig: 368, 853
+  offset: 0, 0
+  index: -1
+chain1
+  rotate: false
+  xy: 1649, 918
+  size: 203, 359
+  orig: 203, 359
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: false
+  xy: 1234, 1595
+  size: 555, 451
+  orig: 555, 451
+  offset: 0, 0
+  index: -1
+chain3
+  rotate: true
+  xy: 1327, 293
+  size: 144, 124
+  orig: 144, 124
+  offset: 0, 0
+  index: -1
+chain4
+  rotate: false
+  xy: 1212, 653
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+eye_Battle_Injury
+  rotate: true
+  xy: 1234, 1202
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+eye_Mighty
+  rotate: true
+  xy: 2008, 1970
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+eye_Normal
+  rotate: true
+  xy: 1741, 1517
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+eye_Smile
+  rotate: true
+  xy: 1580, 451
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+eye_Weak
+  rotate: true
+  xy: 640, 212
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+eye_fx
+  rotate: false
+  xy: 2, 2
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1280, 633
+  size: 260, 361
+  orig: 260, 361
+  offset: 0, 0
+  index: -1
+fx_1_1
+  rotate: false
+  xy: 1327, 439
+  size: 127, 192
+  orig: 127, 192
+  offset: 0, 0
+  index: -1
+fx_1_2
+  rotate: true
+  xy: 1028, 168
+  size: 119, 217
+  orig: 119, 217
+  offset: 0, 0
+  index: -1
+fx_1_3
+  rotate: true
+  xy: 987, 622
+  size: 130, 223
+  orig: 130, 223
+  offset: 0, 0
+  index: -1
+fx_1_4
+  rotate: false
+  xy: 503, 58
+  size: 135, 229
+  orig: 135, 229
+  offset: 0, 0
+  index: -1
+fx_3_1
+  rotate: false
+  xy: 1453, 355
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+fx_3_2
+  rotate: false
+  xy: 864, 1088
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+fx_3_3
+  rotate: false
+  xy: 1247, 191
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+fx_3_4
+  rotate: true
+  xy: 1456, 436
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+fx_8_1
+  rotate: false
+  xy: 676, 152
+  size: 350, 447
+  orig: 350, 447
+  offset: 0, 0
+  index: -1
+fx_8_2
+  rotate: false
+  xy: 987, 754
+  size: 291, 437
+  orig: 291, 437
+  offset: 0, 0
+  index: -1
+fx_8_3
+  rotate: false
+  xy: 676, 601
+  size: 309, 475
+  orig: 309, 475
+  offset: 0, 0
+  index: -1
+fx_8_4
+  rotate: true
+  xy: 1234, 1279
+  size: 314, 505
+  orig: 314, 505
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1456, 529
+  size: 183, 102
+  orig: 183, 102
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 1280, 895
+  size: 367, 382
+  orig: 367, 382
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 1028, 289
+  size: 297, 331
+  orig: 297, 331
+  offset: 0, 0
+  index: -1
+mouth_Battle_Injury
+  rotate: false
+  xy: 1528, 420
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+mouth_Mighty
+  rotate: false
+  xy: 948, 1174
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+mouth_Normal_A
+  rotate: false
+  xy: 62, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+mouth_Normal_B
+  rotate: false
+  xy: 1028, 152
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mouth_Normal_C
+  rotate: false
+  xy: 1247, 173
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+mouth_Normal_D
+  rotate: false
+  xy: 1453, 330
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+mouth_Smile
+  rotate: false
+  xy: 987, 601
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+mouth_Weak
+  rotate: true
+  xy: 1267, 726
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+necklace1
+  rotate: true
+  xy: 1791, 1598
+  size: 448, 215
+  orig: 448, 215
+  offset: 0, 0
+  index: -1
+necklace2
+  rotate: false
+  xy: 1212, 668
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2008, 1953
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1

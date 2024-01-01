@@ -1,0 +1,230 @@
+
+NPC_DeamonKnight.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: true
+  xy: 1533, 746
+  size: 70, 387
+  orig: 70, 387
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: true
+  xy: 2, 32
+  size: 149, 373
+  orig: 149, 373
+  offset: 0, 0
+  index: -1
+arm_inner_down_3
+  rotate: true
+  xy: 1955, 690
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+arm_inner_down_4
+  rotate: true
+  xy: 1714, 555
+  size: 67, 279
+  orig: 67, 279
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 1714, 624
+  size: 120, 239
+  orig: 120, 239
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 478, 439
+  size: 297, 583
+  orig: 297, 583
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 377, 32
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 1491, 360
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 1493, 444
+  size: 102, 133
+  orig: 102, 133
+  offset: 0, 0
+  index: -1
+eye_Angry
+  rotate: true
+  xy: 1951, 865
+  size: 157, 84
+  orig: 157, 84
+  offset: 0, 0
+  index: -1
+eye_Battle_Weak_1
+  rotate: false
+  xy: 682, 113
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+eye_Battle_Weak_2
+  rotate: false
+  xy: 1079, 293
+  size: 33, 119
+  orig: 33, 119
+  offset: 0, 0
+  index: -1
+eye_Battle_Weak_3
+  rotate: false
+  xy: 746, 114
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+eye_Battle_Weak_4
+  rotate: true
+  xy: 483, 2
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+eye_Battle_Weak_5
+  rotate: false
+  xy: 581, 63
+  size: 99, 163
+  orig: 99, 163
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1320, 498
+  size: 171, 265
+  orig: 171, 265
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 183
+  size: 474, 839
+  orig: 474, 839
+  offset: 0, 0
+  index: -1
+jingshi_1
+  rotate: true
+  xy: 1628, 446
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+jingshi_2
+  rotate: false
+  xy: 777, 696
+  size: 346, 326
+  orig: 346, 326
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 1815, 478
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 1715, 457
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: true
+  xy: 1533, 818
+  size: 204, 416
+  orig: 204, 416
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 1125, 765
+  size: 257, 406
+  orig: 257, 406
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 777, 414
+  size: 280, 357
+  orig: 280, 357
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: true
+  xy: 1955, 749
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: true
+  xy: 478, 228
+  size: 209, 274
+  orig: 209, 274
+  offset: 0, 0
+  index: -1
+toushi_3
+  rotate: false
+  xy: 483, 53
+  size: 96, 173
+  orig: 96, 173
+  offset: 0, 0
+  index: -1
+toushi_4
+  rotate: false
+  xy: 1493, 548
+  size: 219, 196
+  orig: 219, 196
+  offset: 0, 0
+  index: -1
+weapon_1_1
+  rotate: false
+  xy: 1136, 489
+  size: 182, 274
+  orig: 182, 274
+  offset: 0, 0
+  index: -1
+weapon_1_2
+  rotate: true
+  xy: 1136, 385
+  size: 102, 192
+  orig: 102, 192
+  offset: 0, 0
+  index: -1
+weapon_2_1
+  rotate: true
+  xy: 754, 189
+  size: 223, 323
+  orig: 223, 323
+  offset: 0, 0
+  index: -1
+weapon_2_2
+  rotate: false
+  xy: 1330, 383
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1

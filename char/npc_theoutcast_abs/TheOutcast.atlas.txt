@@ -1,0 +1,237 @@
+
+TheOutcast.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood_1
+  rotate: false
+  xy: 1014, 65
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+arm_inner_down
+  rotate: false
+  xy: 2, 66
+  size: 294, 471
+  orig: 294, 471
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1387, 513
+  size: 168, 296
+  orig: 168, 296
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1082, 811
+  size: 210, 476
+  orig: 210, 476
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 1284, 360
+  size: 151, 208
+  orig: 151, 208
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1560, 707
+  size: 314, 332
+  orig: 314, 332
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 539
+  size: 520, 482
+  orig: 520, 482
+  offset: 0, 0
+  index: -1
+body_down_inner_1
+  rotate: false
+  xy: 1894, 707
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+body_down_inner_2
+  rotate: true
+  xy: 1962, 600
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+dao_1
+  rotate: true
+  xy: 1557, 493
+  size: 212, 296
+  orig: 212, 296
+  offset: 0, 0
+  index: -1
+dao_2
+  rotate: false
+  xy: 1683, 376
+  size: 192, 115
+  orig: 192, 115
+  offset: 0, 0
+  index: -1
+eye_2_Angry
+  rotate: true
+  xy: 1015, 563
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: false
+  xy: 1222, 321
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: false
+  xy: 1855, 518
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 1153, 318
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 1014, 111
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 562, 50
+  size: 264, 297
+  orig: 264, 297
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 925, 333
+  size: 88, 296
+  orig: 88, 296
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 861, 46
+  size: 77, 268
+  orig: 77, 268
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 2
+  size: 62, 327
+  orig: 62, 327
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1894, 756
+  size: 123, 265
+  orig: 123, 265
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1015, 275
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 298, 170
+  size: 262, 367
+  orig: 262, 367
+  offset: 0, 0
+  index: -1
+jingshi
+  rotate: false
+  xy: 524, 631
+  size: 556, 390
+  orig: 556, 390
+  offset: 0, 0
+  index: -1
+jingshi_2
+  rotate: false
+  xy: 562, 316
+  size: 361, 313
+  orig: 361, 313
+  offset: 0, 0
+  index: -1
+jinsghi_inner
+  rotate: false
+  xy: 298, 76
+  size: 221, 92
+  orig: 221, 92
+  offset: 0, 0
+  index: -1
+liandao_1
+  rotate: false
+  xy: 1082, 543
+  size: 303, 266
+  orig: 303, 266
+  offset: 0, 0
+  index: -1
+liandao_2
+  rotate: true
+  xy: 1015, 365
+  size: 176, 267
+  orig: 176, 267
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 1855, 565
+  size: 140, 105
+  orig: 140, 105
+  offset: 0, 0
+  index: -1
+mask_hurt
+  rotate: false
+  xy: 1962, 666
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1014, 158
+  size: 109, 115
+  orig: 109, 115
+  offset: 0, 0
+  index: -1
+piaodai_1
+  rotate: false
+  xy: 940, 60
+  size: 72, 271
+  orig: 72, 271
+  offset: 0, 0
+  index: -1
+piaodai_2
+  rotate: true
+  xy: 1494, 368
+  size: 123, 187
+  orig: 123, 187
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+NPC_Priest.png
+size: 1051,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC/NPC_Priest/arm_inner_down
+  rotate: false
+  xy: 822, 490
+  size: 190, 225
+  orig: 190, 225
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/arm_inner_up
+  rotate: true
+  xy: 658, 347
+  size: 96, 190
+  orig: 96, 190
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/arm_out_down
+  rotate: false
+  xy: 557, 362
+  size: 99, 317
+  orig: 99, 317
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/arm_out_up
+  rotate: false
+  xy: 897, 240
+  size: 107, 207
+  orig: 107, 207
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/blood_1
+  rotate: true
+  xy: 1037, 1008
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/blood_2
+  rotate: false
+  xy: 507, 18
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/body_down
+  rotate: false
+  xy: 2, 272
+  size: 467, 407
+  orig: 467, 407
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/body_up
+  rotate: true
+  xy: 658, 445
+  size: 282, 162
+  orig: 282, 162
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/eye_1_Battle_Weak
+  rotate: false
+  xy: 557, 341
+  size: 73, 19
+  orig: 73, 19
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/face
+  rotate: false
+  xy: 634, 78
+  size: 261, 267
+  orig: 261, 267
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/jianjia_inner_1
+  rotate: true
+  xy: 2, 11
+  size: 51, 293
+  orig: 51, 293
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/jianjia_inner_2
+  rotate: true
+  xy: 1014, 567
+  size: 148, 33
+  orig: 148, 33
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/jianjia_out_1
+  rotate: false
+  xy: 471, 316
+  size: 84, 363
+  orig: 84, 363
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/jianjia_out_2
+  rotate: true
+  xy: 297, 6
+  size: 56, 208
+  orig: 56, 208
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/mouth_1_Battle_Weak
+  rotate: false
+  xy: 588, 702
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/mouth_2_Normal_A
+  rotate: false
+  xy: 557, 322
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/mouth_2_Normal_B
+  rotate: false
+  xy: 500, 292
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/mouth_2_Normal_C
+  rotate: true
+  xy: 471, 272
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/mouth_2_Normal_D
+  rotate: true
+  xy: 1014, 525
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/neck
+  rotate: false
+  xy: 897, 131
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/toushi_1
+  rotate: false
+  xy: 588, 729
+  size: 298, 320
+  orig: 298, 320
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/toushi_2
+  rotate: true
+  xy: 897, 57
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/weapon_1
+  rotate: true
+  xy: 2, 64
+  size: 206, 630
+  orig: 206, 630
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/weapon_2
+  rotate: true
+  xy: 822, 449
+  size: 39, 200
+  orig: 39, 200
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/xiongjia_1
+  rotate: true
+  xy: 888, 717
+  size: 332, 147
+  orig: 332, 147
+  offset: 0, 0
+  index: -1
+NPC/NPC_Priest/xiongjia_2
+  rotate: false
+  xy: 2, 681
+  size: 584, 368
+  orig: 584, 368
+  offset: 0, 0
+  index: -1

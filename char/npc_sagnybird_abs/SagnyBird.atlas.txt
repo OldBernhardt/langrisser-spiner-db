@@ -1,0 +1,146 @@
+
+SagnyBird.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 1761, 735
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+blood1
+  rotate: false
+  xy: 793, 27
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1062, 203
+  size: 92, 107
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 450, 461
+  size: 481, 561
+  orig: 481, 561
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 1761, 752
+  size: 265, 270
+  orig: 265, 270
+  offset: 0, 0
+  index: -1
+eyes_1_1
+  rotate: true
+  xy: 362, 62
+  size: 320, 187
+  orig: 320, 187
+  offset: 0, 0
+  index: -1
+eyes_1_2
+  rotate: true
+  xy: 1062, 312
+  size: 218, 99
+  orig: 218, 99
+  offset: 0, 0
+  index: -1
+eyes_1_3
+  rotate: false
+  xy: 551, 2
+  size: 240, 79
+  orig: 240, 79
+  offset: 0, 0
+  index: -1
+eyes_2_1
+  rotate: false
+  xy: 551, 272
+  size: 320, 187
+  orig: 320, 187
+  offset: 0, 0
+  index: -1
+eyes_2_2
+  rotate: false
+  xy: 551, 83
+  size: 320, 187
+  orig: 320, 187
+  offset: 0, 0
+  index: -1
+eyes_2_3
+  rotate: false
+  xy: 1222, 444
+  size: 320, 187
+  orig: 320, 187
+  offset: 0, 0
+  index: -1
+eyes_Battle_Weak
+  rotate: true
+  xy: 873, 139
+  size: 320, 187
+  orig: 320, 187
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 43
+  size: 358, 339
+  orig: 358, 339
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 1512, 723
+  size: 247, 299
+  orig: 247, 299
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 1222, 633
+  size: 288, 389
+  orig: 288, 389
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1512, 676
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 450, 413
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 873, 97
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+wing_inner
+  rotate: false
+  xy: 933, 532
+  size: 287, 490
+  orig: 287, 490
+  offset: 0, 0
+  index: -1
+wing_out
+  rotate: false
+  xy: 2, 384
+  size: 446, 638
+  orig: 446, 638
+  offset: 0, 0
+  index: -1

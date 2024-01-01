@@ -1,0 +1,251 @@
+
+ZombieValk.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_2
+  rotate: false
+  xy: 1048, 735
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 1153, 1297
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 446, 79
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1035
+  size: 611, 1002
+  orig: 611, 1002
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 154, 44
+  size: 150, 73
+  orig: 150, 73
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1499, 1213
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 2, 41
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 896, 707
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 615, 1041
+  size: 313, 289
+  orig: 313, 289
+  offset: 0, 0
+  index: -1
+jianjia_1
+  rotate: false
+  xy: 1663, 1698
+  size: 354, 339
+  orig: 354, 339
+  offset: 0, 0
+  index: -1
+jianjia_2
+  rotate: true
+  xy: 930, 1051
+  size: 279, 221
+  orig: 279, 221
+  offset: 0, 0
+  index: -1
+jianjia_3
+  rotate: true
+  xy: 306, 47
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+ling_1
+  rotate: false
+  xy: 1499, 1046
+  size: 153, 165
+  orig: 153, 165
+  offset: 0, 0
+  index: -1
+ling_2
+  rotate: false
+  xy: 1651, 1228
+  size: 315, 286
+  orig: 315, 286
+  offset: 0, 0
+  index: -1
+ling_3
+  rotate: true
+  xy: 1663, 1516
+  size: 180, 350
+  orig: 180, 350
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: true
+  xy: 2015, 1619
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 667, 643
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 1153, 1051
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 2019, 1984
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 666, 609
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 2, 2
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 615, 1332
+  size: 566, 299
+  orig: 566, 299
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: false
+  xy: 459, 97
+  size: 207, 152
+  orig: 207, 152
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 615, 1633
+  size: 404, 1046
+  orig: 404, 1046
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: false
+  xy: 2, 119
+  size: 455, 914
+  orig: 455, 914
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1968, 1450
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: true
+  xy: 1729, 1179
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: true
+  xy: 1153, 1078
+  size: 211, 344
+  orig: 211, 344
+  offset: 0, 0
+  index: -1
+pifeng_8
+  rotate: false
+  xy: 667, 677
+  size: 227, 362
+  orig: 227, 362
+  offset: 0, 0
+  index: -1
+pifeng_9
+  rotate: false
+  xy: 896, 785
+  size: 195, 254
+  orig: 195, 254
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: false
+  xy: 459, 643
+  size: 206, 390
+  orig: 206, 390
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: true
+  xy: 1183, 1291
+  size: 340, 466
+  orig: 340, 466
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: false
+  xy: 459, 251
+  size: 205, 390
+  orig: 205, 390
+  offset: 0, 0
+  index: -1
+yaojia_4
+  rotate: false
+  xy: 1654, 1153
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+yaojia_5
+  rotate: false
+  xy: 1654, 1078
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1

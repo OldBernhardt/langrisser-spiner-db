@@ -1,0 +1,202 @@
+
+NPC_Magician.png
+size: 1106,1106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC/NPC_Magician/arm_inner_down
+  rotate: false
+  xy: 549, 80
+  size: 183, 219
+  orig: 183, 219
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/arm_inner_up
+  rotate: true
+  xy: 916, 353
+  size: 93, 188
+  orig: 93, 188
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/arm_out_down
+  rotate: false
+  xy: 692, 309
+  size: 122, 309
+  orig: 122, 309
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/arm_out_up
+  rotate: false
+  xy: 734, 63
+  size: 122, 244
+  orig: 122, 244
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/bag
+  rotate: true
+  xy: 916, 448
+  size: 161, 156
+  orig: 161, 156
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/blood_1
+  rotate: true
+  xy: 829, 792
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/blood_2
+  rotate: false
+  xy: 788, 628
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/body_down
+  rotate: false
+  xy: 2, 762
+  size: 447, 342
+  orig: 447, 342
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/body_up
+  rotate: true
+  xy: 370, 301
+  size: 317, 320
+  orig: 317, 320
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/eye_1_Battle_Weak
+  rotate: true
+  xy: 829, 810
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/face
+  rotate: true
+  xy: 451, 620
+  size: 251, 335
+  orig: 251, 335
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/jianjia_inner_1
+  rotate: false
+  xy: 878, 761
+  size: 222, 343
+  orig: 222, 343
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/jianjia_out_1
+  rotate: false
+  xy: 2, 419
+  size: 366, 341
+  orig: 366, 341
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/mouth_1_Battle_Weak
+  rotate: true
+  xy: 850, 823
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/mouth_2_Normal_A
+  rotate: false
+  xy: 549, 63
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/mouth_2_Normal_B
+  rotate: true
+  xy: 519, 22
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/mouth_2_Normal_C
+  rotate: true
+  xy: 850, 784
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/mouth_2_Normal_D
+  rotate: false
+  xy: 413, 732
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/neck
+  rotate: false
+  xy: 265, 307
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/pidai_inner
+  rotate: false
+  xy: 370, 692
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/pidai_out
+  rotate: false
+  xy: 829, 611
+  size: 215, 148
+  orig: 215, 148
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/toushi_1
+  rotate: false
+  xy: 265, 62
+  size: 282, 237
+  orig: 282, 237
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/toushi_2
+  rotate: false
+  xy: 816, 385
+  size: 98, 224
+  orig: 98, 224
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/weapon
+  rotate: false
+  xy: 2, 34
+  size: 261, 383
+  orig: 261, 383
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/weapon_1
+  rotate: true
+  xy: 265, 16
+  size: 44, 252
+  orig: 44, 252
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/weapon_2
+  rotate: false
+  xy: 788, 652
+  size: 39, 219
+  orig: 39, 219
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/xiongjia_1
+  rotate: false
+  xy: 451, 873
+  size: 425, 231
+  orig: 425, 231
+  offset: 0, 0
+  index: -1
+NPC/NPC_Magician/xiongjia_2
+  rotate: false
+  xy: 2, 3
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1

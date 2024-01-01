@@ -1,0 +1,244 @@
+
+BishopDaughter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down1
+  rotate: false
+  xy: 863, 232
+  size: 71, 196
+  orig: 71, 196
+  offset: 0, 0
+  index: -1
+arm_out_up1
+  rotate: true
+  xy: 331, 52
+  size: 68, 237
+  orig: 68, 237
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 998, 724
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 331, 140
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 388, 745
+  size: 392, 271
+  orig: 392, 271
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 388, 508
+  size: 235, 383
+  orig: 235, 383
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 2, 2
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: false
+  xy: 139, 2
+  size: 116, 47
+  orig: 116, 47
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 257, 2
+  size: 116, 47
+  orig: 116, 47
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 375, 7
+  size: 116, 43
+  orig: 116, 43
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 368, 256
+  size: 226, 250
+  orig: 226, 250
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 773, 560
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 33
+  size: 135, 150
+  orig: 135, 150
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 737, 101
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1
+hair_inner_1
+  rotate: true
+  xy: 782, 752
+  size: 264, 229
+  orig: 264, 229
+  offset: 0, 0
+  index: -1
+hair_inner_2
+  rotate: false
+  xy: 174, 167
+  size: 192, 360
+  orig: 192, 360
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 874, 135
+  size: 92, 95
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 571, 124
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 139, 51
+  size: 190, 114
+  orig: 190, 114
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 596, 244
+  size: 262, 142
+  orig: 262, 142
+  offset: 0, 0
+  index: -1
+jianjiai_out_2
+  rotate: false
+  xy: 571, 52
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 740, 171
+  size: 121, 335
+  orig: 121, 335
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 863, 430
+  size: 133, 320
+  orig: 133, 320
+  offset: 0, 0
+  index: -1
+mouth_2_Battle_Weak
+  rotate: false
+  xy: 139, 167
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 998, 682
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 119, 7
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 998, 701
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+mouth_Normal_A
+  rotate: false
+  xy: 493, 39
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 782, 624
+  size: 79, 126
+  orig: 79, 126
+  offset: 0, 0
+  index: -1
+pifeng_inner_1a
+  rotate: false
+  xy: 936, 254
+  size: 63, 174
+  orig: 63, 174
+  offset: 0, 0
+  index: -1
+pifeng_inner_2
+  rotate: false
+  xy: 174, 529
+  size: 212, 487
+  orig: 212, 487
+  offset: 0, 0
+  index: -1
+pifeng_out
+  rotate: false
+  xy: 2, 185
+  size: 170, 831
+  orig: 170, 831
+  offset: 0, 0
+  index: -1
+shipin
+  rotate: false
+  xy: 773, 530
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 368, 122
+  size: 201, 132
+  orig: 201, 132
+  offset: 0, 0
+  index: -1

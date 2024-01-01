@@ -1,0 +1,132 @@
+
+GoldenKnight.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1778, 624
+  size: 134, 341
+  orig: 134, 341
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 1914, 700
+  size: 125, 265
+  orig: 125, 265
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 835, 582
+  size: 218, 383
+  orig: 218, 383
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 493, 83
+  size: 176, 253
+  orig: 176, 253
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 2, 2
+  size: 23, 127
+  orig: 23, 127
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 493, 51
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 421, 440
+  size: 412, 525
+  orig: 412, 525
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 333
+  size: 417, 632
+  orig: 417, 632
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 671, 289
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1317, 637
+  size: 233, 328
+  orig: 233, 328
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: false
+  xy: 1552, 651
+  size: 224, 314
+  orig: 224, 314
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 332, 48
+  size: 159, 283
+  orig: 159, 283
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 1914, 641
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 2, 27
+  size: 328, 304
+  orig: 328, 304
+  offset: 0, 0
+  index: -1
+jingshi_inner_1
+  rotate: false
+  xy: 835, 423
+  size: 210, 157
+  orig: 210, 157
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1055, 441
+  size: 204, 192
+  orig: 204, 192
+  offset: 0, 0
+  index: -1
+yaojia_inner_1
+  rotate: true
+  xy: 421, 338
+  size: 100, 294
+  orig: 100, 294
+  offset: 0, 0
+  index: -1
+yaojia_out_1
+  rotate: false
+  xy: 1055, 635
+  size: 260, 330
+  orig: 260, 330
+  offset: 0, 0
+  index: -1

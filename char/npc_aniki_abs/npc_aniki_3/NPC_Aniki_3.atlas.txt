@@ -1,0 +1,258 @@
+
+NPC_Aniki_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 356, 66
+  size: 248, 187
+  orig: 248, 187
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 1715, 1760
+  size: 286, 320
+  orig: 286, 320
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1538, 1389
+  size: 351, 212
+  orig: 351, 212
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 2, 77
+  size: 352, 439
+  orig: 352, 439
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 682, 601
+  size: 412, 267
+  orig: 412, 267
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 416, 1462
+  size: 624, 584
+  orig: 624, 584
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 1042, 1489
+  size: 494, 251
+  orig: 494, 251
+  offset: 0, 0
+  index: -1
+body_up_3
+  rotate: true
+  xy: 682, 870
+  size: 590, 345
+  orig: 590, 345
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: true
+  xy: 1202, 1058
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+eye_1_Normal
+  rotate: false
+  xy: 1029, 976
+  size: 167, 91
+  orig: 167, 91
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: false
+  xy: 1029, 889
+  size: 170, 85
+  orig: 170, 85
+  offset: 0, 0
+  index: -1
+eye_1_Suprise
+  rotate: true
+  xy: 861, 116
+  size: 217, 116
+  orig: 217, 116
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1752, 1412
+  size: 249, 346
+  orig: 249, 346
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 1029, 1069
+  size: 171, 196
+  orig: 171, 196
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 979, 111
+  size: 209, 195
+  orig: 209, 195
+  offset: 0, 0
+  index: -1
+hongyun_1_Normal
+  rotate: false
+  xy: 2, 6
+  size: 219, 69
+  orig: 219, 69
+  offset: 0, 0
+  index: -1
+hongyun_1_Smile
+  rotate: true
+  xy: 997, 322
+  size: 277, 102
+  orig: 277, 102
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 693, 14
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: false
+  xy: 416, 530
+  size: 264, 930
+  orig: 264, 930
+  offset: 0, 0
+  index: -1
+leg_inner_out
+  rotate: true
+  xy: 1042, 1742
+  size: 304, 671
+  orig: 304, 671
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 2, 518
+  size: 412, 1528
+  orig: 412, 1528
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 1101, 486
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 1096, 754
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 558, 396
+  size: 132, 121
+  orig: 132, 121
+  offset: 0, 0
+  index: -1
+mouth_1_Smile_A
+  rotate: true
+  xy: 1096, 620
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1
+mouth_1_Smile_B
+  rotate: false
+  xy: 1314, 1176
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1
+mouth_1_Smile_C
+  rotate: true
+  xy: 1202, 1134
+  size: 131, 110
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+mouth_1_Smile_D
+  rotate: true
+  xy: 1101, 352
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 356, 255
+  size: 200, 261
+  orig: 200, 261
+  offset: 0, 0
+  index: -1
+nose_1
+  rotate: true
+  xy: 606, 2
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+shouhuan_inner
+  rotate: false
+  xy: 606, 88
+  size: 253, 245
+  orig: 253, 245
+  offset: 0, 0
+  index: -1
+shouhuan_out
+  rotate: true
+  xy: 1283, 1288
+  size: 199, 223
+  orig: 199, 223
+  offset: 0, 0
+  index: -1
+tattoo_1
+  rotate: false
+  xy: 223, 37
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tattoo_4
+  rotate: false
+  xy: 1508, 1444
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+xiongji_inner
+  rotate: true
+  xy: 1042, 1267
+  size: 220, 239
+  orig: 220, 239
+  offset: 0, 0
+  index: -1
+xiongji_out
+  rotate: false
+  xy: 682, 335
+  size: 313, 264
+  orig: 313, 264
+  offset: 0, 0
+  index: -1

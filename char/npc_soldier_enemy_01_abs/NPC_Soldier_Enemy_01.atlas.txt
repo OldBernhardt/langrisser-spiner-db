@@ -1,0 +1,188 @@
+
+NPC_Soldier_Enemy_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 639, 599
+  size: 123, 289
+  orig: 123, 289
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 311, 85
+  size: 117, 215
+  orig: 117, 215
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 2, 2
+  size: 178, 307
+  orig: 178, 307
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 627, 459
+  size: 138, 235
+  orig: 138, 235
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 393, 651
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 958, 729
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 601
+  size: 350, 420
+  orig: 350, 420
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 801, 202
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+eye_2_Surprise
+  rotate: false
+  xy: 243, 244
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 354, 719
+  size: 283, 302
+  orig: 283, 302
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: false
+  xy: 243, 302
+  size: 188, 297
+  orig: 188, 297
+  offset: 0, 0
+  index: -1
+jianjia_inner1
+  rotate: false
+  xy: 874, 371
+  size: 132, 226
+  orig: 132, 226
+  offset: 0, 0
+  index: -1
+jianjia_inner2
+  rotate: false
+  xy: 958, 749
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 433, 208
+  size: 210, 236
+  orig: 210, 236
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 645, 182
+  size: 154, 275
+  orig: 154, 275
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 433, 446
+  size: 192, 271
+  orig: 192, 271
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 354, 673
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 243, 275
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 930, 684
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 354, 646
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 874, 340
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 311, 50
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+toujin_out1
+  rotate: false
+  xy: 639, 724
+  size: 317, 166
+  orig: 317, 166
+  offset: 0, 0
+  index: -1
+yaojia_inner1
+  rotate: true
+  xy: 639, 892
+  size: 129, 381
+  orig: 129, 381
+  offset: 0, 0
+  index: -1
+yaojia_inner2
+  rotate: false
+  xy: 801, 216
+  size: 71, 241
+  orig: 71, 241
+  offset: 0, 0
+  index: -1
+yaojia_out
+  rotate: false
+  xy: 2, 182
+  size: 239, 417
+  orig: 239, 417
+  offset: 0, 0
+  index: -1

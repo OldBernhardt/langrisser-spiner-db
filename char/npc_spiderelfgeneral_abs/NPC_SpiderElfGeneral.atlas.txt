@@ -1,0 +1,272 @@
+
+NPC_SpiderElfGeneral.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 896, 803
+  size: 78, 219
+  orig: 78, 219
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 253, 122
+  size: 95, 321
+  orig: 95, 321
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 828, 776
+  size: 66, 246
+  orig: 66, 246
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 350, 171
+  size: 96, 272
+  orig: 96, 272
+  offset: 0, 0
+  index: -1
+baoshi
+  rotate: true
+  xy: 350, 124
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 569, 136
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 522, 77
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 445
+  size: 450, 577
+  orig: 450, 577
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 17
+  size: 249, 426
+  orig: 249, 426
+  offset: 0, 0
+  index: -1
+chest_1
+  rotate: true
+  xy: 448, 162
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+chest_2
+  rotate: false
+  xy: 602, 292
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 411, 47
+  size: 109, 57
+  orig: 109, 57
+  offset: 0, 0
+  index: -1
+eye_2_Hurt
+  rotate: false
+  xy: 411, 7
+  size: 116, 38
+  orig: 116, 38
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 976, 904
+  size: 118, 42
+  orig: 118, 42
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: true
+  xy: 690, 173
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: true
+  xy: 704, 329
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 454, 591
+  size: 249, 245
+  orig: 249, 245
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 805, 478
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 355, 7
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 976, 816
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 442, 106
+  size: 54, 125
+  orig: 54, 125
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 726, 480
+  size: 77, 138
+  orig: 77, 138
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 253, 2
+  size: 100, 118
+  orig: 100, 118
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 454, 438
+  size: 151, 206
+  orig: 151, 206
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 828, 571
+  size: 78, 203
+  orig: 78, 203
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 908, 667
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: true
+  xy: 705, 620
+  size: 216, 121
+  orig: 216, 121
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 805, 517
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 454, 838
+  size: 372, 184
+  orig: 372, 184
+  offset: 0, 0
+  index: -1
+jiao_inner
+  rotate: false
+  xy: 662, 448
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+jiao_out
+  rotate: false
+  xy: 448, 294
+  size: 152, 142
+  orig: 152, 142
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: true
+  xy: 594, 169
+  size: 121, 94
+  orig: 121, 94
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: false
+  xy: 411, 106
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 976, 803
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 704, 313
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 705, 594
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 594, 144
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 908, 535
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1

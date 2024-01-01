@@ -1,0 +1,272 @@
+
+NPC_ElderMan.png
+size: 1064,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 454, 226
+  size: 147, 295
+  orig: 147, 295
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 484, 473
+  size: 179, 339
+  orig: 179, 339
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 825, 442
+  size: 224, 171
+  orig: 224, 171
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 484, 654
+  size: 227, 408
+  orig: 227, 408
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 998, 495
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 454, 474
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 492
+  size: 480, 570
+  orig: 480, 570
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Injury
+  rotate: false
+  xy: 2, 17
+  size: 114, 35
+  orig: 114, 35
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Mighty
+  rotate: false
+  xy: 872, 668
+  size: 114, 36
+  orig: 114, 36
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 233, 14
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+eye_2_Fear_1
+  rotate: true
+  xy: 751, 239
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+eye_2_Fear_2
+  rotate: true
+  xy: 972, 14
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: true
+  xy: 972, 121
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 118, 19
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: true
+  xy: 1007, 121
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 713, 779
+  size: 236, 283
+  orig: 236, 283
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 713, 668
+  size: 109, 157
+  orig: 109, 157
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 640, 35
+  size: 189, 142
+  orig: 189, 142
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 751, 257
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1
+huzi_2
+  rotate: false
+  xy: 951, 706
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 872, 735
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+mouth_2_Fear
+  rotate: false
+  xy: 364, 228
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 364, 228
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 998, 543
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 998, 559
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 998, 649
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 872, 706
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: false
+  xy: 2, 2
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: true
+  xy: 1043, 990
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 988, 676
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 813, 236
+  size: 235, 204
+  orig: 235, 204
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 998, 582
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+pijian_inner_1
+  rotate: true
+  xy: 364, 49
+  size: 175, 274
+  orig: 175, 274
+  offset: 0, 0
+  index: -1
+pijian_inner_2
+  rotate: false
+  xy: 454, 375
+  size: 357, 96
+  orig: 357, 96
+  offset: 0, 0
+  index: -1
+pijian_out_1
+  rotate: false
+  xy: 951, 797
+  size: 90, 265
+  orig: 90, 265
+  offset: 0, 0
+  index: -1
+pijian_out_2
+  rotate: false
+  xy: 2, 265
+  size: 450, 225
+  orig: 450, 225
+  offset: 0, 0
+  index: -1
+xiabai_inner
+  rotate: false
+  xy: 784, 35
+  size: 186, 199
+  orig: 186, 199
+  offset: 0, 0
+  index: -1
+xiabai_out
+  rotate: false
+  xy: 2, 54
+  size: 360, 209
+  orig: 360, 209
+  offset: 0, 0
+  index: -1

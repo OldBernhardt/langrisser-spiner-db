@@ -1,0 +1,216 @@
+
+Tiger.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 2, 2
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 156, 111
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 502, 303
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 712, 344
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 1736, 1768
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+blood_5
+  rotate: true
+  xy: 1551, 1327
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 1245
+  size: 688, 789
+  orig: 688, 789
+  offset: 0, 0
+  index: -1
+erduo_1
+  rotate: false
+  xy: 1364, 576
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+erduo_2
+  rotate: false
+  xy: 1686, 1666
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: false
+  xy: 217, 124
+  size: 273, 111
+  orig: 273, 111
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 1074, 572
+  size: 288, 94
+  orig: 288, 94
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1736, 1795
+  size: 283, 107
+  orig: 283, 107
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 217, 237
+  size: 283, 107
+  orig: 283, 107
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 1442, 1325
+  size: 283, 107
+  orig: 283, 107
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1074, 668
+  size: 645, 399
+  orig: 645, 399
+  offset: 0, 0
+  index: -1
+huzi_1
+  rotate: false
+  xy: 2, 99
+  size: 152, 53
+  orig: 152, 53
+  offset: 0, 0
+  index: -1
+huzi_2
+  rotate: false
+  xy: 2, 154
+  size: 213, 190
+  orig: 213, 190
+  offset: 0, 0
+  index: -1
+huzi_3
+  rotate: false
+  xy: 1442, 1610
+  size: 242, 156
+  orig: 242, 156
+  offset: 0, 0
+  index: -1
+huzi_4
+  rotate: false
+  xy: 712, 369
+  size: 567, 192
+  orig: 567, 192
+  offset: 0, 0
+  index: -1
+leg_inner_up
+  rotate: true
+  xy: 692, 1315
+  size: 451, 748
+  orig: 451, 748
+  offset: 0, 0
+  index: -1
+leg_inner_up_2
+  rotate: false
+  xy: 712, 563
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+leg_out_up
+  rotate: false
+  xy: 2, 346
+  size: 550, 897
+  orig: 550, 897
+  offset: 0, 0
+  index: -1
+leg_out_up_2
+  rotate: true
+  xy: 692, 1768
+  size: 266, 1042
+  orig: 266, 1042
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: true
+  xy: 1736, 1904
+  size: 130, 292
+  orig: 130, 292
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 1475, 1068
+  size: 131, 255
+  orig: 131, 255
+  offset: 0, 0
+  index: -1
+mouth_1_Normal2
+  rotate: false
+  xy: 1551, 1352
+  size: 131, 256
+  orig: 131, 256
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 1475, 875
+  size: 173, 191
+  orig: 173, 191
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 1281, 388
+  size: 173, 182
+  orig: 173, 182
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: false
+  xy: 1475, 682
+  size: 173, 191
+  orig: 173, 191
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 554, 335
+  size: 156, 908
+  orig: 156, 908
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Rozenciel.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 252, 261
+  orig: 252, 261
+  offset: 0, 0
+  index: -1
+shdow
+  rotate: false
+  xy: 2, 265
+  size: 1275, 1240
+  orig: 1275, 1240
+  offset: 0, 0
+  index: -1

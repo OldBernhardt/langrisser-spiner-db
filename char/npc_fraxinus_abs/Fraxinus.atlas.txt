@@ -1,0 +1,265 @@
+
+Fraxinus.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood_1
+  rotate: false
+  xy: 209, 56
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+Blood_2
+  rotate: false
+  xy: 1856, 735
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+changpao_inner
+  rotate: false
+  xy: 866, 546
+  size: 453, 1500
+  orig: 453, 1500
+  offset: 0, 0
+  index: -1
+changpao_out
+  rotate: false
+  xy: 2, 373
+  size: 862, 1673
+  orig: 862, 1673
+  offset: 0, 0
+  index: -1
+doumao_inner_1
+  rotate: true
+  xy: 1965, 1935
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+doumao_inner_2
+  rotate: false
+  xy: 1722, 1756
+  size: 241, 290
+  orig: 241, 290
+  offset: 0, 0
+  index: -1
+doumao_out_1
+  rotate: false
+  xy: 1712, 943
+  size: 334, 365
+  orig: 334, 365
+  offset: 0, 0
+  index: -1
+doumao_out_2
+  rotate: false
+  xy: 1722, 1310
+  size: 174, 119
+  orig: 174, 119
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 246, 150
+  size: 130, 35
+  orig: 130, 35
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: true
+  xy: 1898, 1623
+  size: 131, 35
+  orig: 131, 35
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 1712, 731
+  size: 142, 30
+  orig: 142, 30
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 1965, 1805
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 499, 219
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 499, 253
+  size: 128, 33
+  orig: 128, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 124
+  size: 242, 247
+  orig: 242, 247
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 1321, 698
+  size: 389, 610
+  orig: 389, 610
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 246, 187
+  size: 139, 184
+  orig: 139, 184
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 387, 211
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 686, 281
+  size: 90, 169
+  orig: 90, 169
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1610, 581
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1999, 1849
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 1610, 557
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1999, 1824
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 1876, 1549
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: false
+  xy: 2, 2
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 49, 2
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 1712, 709
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 387, 187
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 1680, 658
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1722, 1431
+  size: 152, 156
+  orig: 152, 156
+  offset: 0, 0
+  index: -1
+pijian_inner_1
+  rotate: true
+  xy: 866, 162
+  size: 382, 511
+  orig: 382, 511
+  offset: 0, 0
+  index: -1
+pijian_inner_2
+  rotate: true
+  xy: 1321, 555
+  size: 141, 287
+  orig: 141, 287
+  offset: 0, 0
+  index: -1
+pijian_out_1
+  rotate: false
+  xy: 1321, 1310
+  size: 399, 736
+  orig: 399, 736
+  offset: 0, 0
+  index: -1
+pijian_out_2
+  rotate: true
+  xy: 1712, 763
+  size: 178, 317
+  orig: 178, 317
+  offset: 0, 0
+  index: -1
+xiongzhen
+  rotate: false
+  xy: 1722, 1589
+  size: 174, 165
+  orig: 174, 165
+  offset: 0, 0
+  index: -1
+yiling_inner
+  rotate: false
+  xy: 499, 288
+  size: 185, 83
+  orig: 185, 83
+  offset: 0, 0
+  index: -1
+yiling_out
+  rotate: false
+  xy: 2, 21
+  size: 205, 101
+  orig: 205, 101
+  offset: 0, 0
+  index: -1

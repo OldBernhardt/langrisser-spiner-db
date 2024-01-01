@@ -1,0 +1,230 @@
+
+BatwingWarlock.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2, 2
+  size: 119, 49
+  orig: 119, 49
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: false
+  xy: 1159, 831
+  size: 138, 366
+  orig: 138, 366
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: true
+  xy: 886, 713
+  size: 132, 270
+  orig: 132, 270
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: true
+  xy: 929, 1199
+  size: 187, 394
+  orig: 187, 394
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 1139, 423
+  size: 143, 288
+  orig: 143, 288
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 575, 710
+  size: 309, 523
+  orig: 309, 523
+  offset: 0, 0
+  index: -1
+dangbu1
+  rotate: false
+  xy: 1678, 1689
+  size: 275, 348
+  orig: 275, 348
+  offset: 0, 0
+  index: -1
+dangbu2
+  rotate: false
+  xy: 299, 608
+  size: 274, 595
+  orig: 274, 595
+  offset: 0, 0
+  index: -1
+dangbu3
+  rotate: true
+  xy: 980, 1640
+  size: 397, 696
+  orig: 397, 696
+  offset: 0, 0
+  index: -1
+dangbu4
+  rotate: true
+  xy: 980, 1388
+  size: 250, 663
+  orig: 250, 663
+  offset: 0, 0
+  index: -1
+dangbu5
+  rotate: false
+  xy: 440, 1399
+  size: 538, 638
+  orig: 538, 638
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1284, 347
+  size: 167, 191
+  orig: 167, 191
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1955, 1880
+  size: 48, 157
+  orig: 48, 157
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1477, 348
+  size: 106, 201
+  orig: 106, 201
+  offset: 0, 0
+  index: -1
+hairinner
+  rotate: true
+  xy: 546, 46
+  size: 185, 234
+  orig: 185, 234
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 900, 421
+  size: 237, 290
+  orig: 237, 290
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 1284, 516
+  size: 189, 264
+  orig: 189, 264
+  offset: 0, 0
+  index: -1
+hatinner
+  rotate: true
+  xy: 1325, 1129
+  size: 257, 307
+  orig: 257, 307
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 575, 624
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: true
+  xy: 1475, 551
+  size: 229, 214
+  orig: 229, 214
+  offset: 0, 0
+  index: -1
+jianjiainner2
+  rotate: false
+  xy: 1158, 719
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 1299, 901
+  size: 320, 226
+  orig: 320, 226
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 440, 1235
+  size: 162, 487
+  orig: 162, 487
+  offset: 0, 0
+  index: -1
+legout
+  rotate: true
+  xy: 2, 53
+  size: 178, 542
+  orig: 178, 542
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 757, 235
+  size: 111, 139
+  orig: 111, 139
+  offset: 0, 0
+  index: -1
+winginner
+  rotate: false
+  xy: 2, 233
+  size: 295, 970
+  orig: 295, 970
+  offset: 0, 0
+  index: -1
+wingout1
+  rotate: false
+  xy: 2, 1205
+  size: 436, 832
+  orig: 436, 832
+  offset: 0, 0
+  index: -1
+wingout2
+  rotate: false
+  xy: 299, 233
+  size: 456, 373
+  orig: 456, 373
+  offset: 0, 0
+  index: -1
+wingout3
+  rotate: true
+  xy: 1645, 1152
+  size: 486, 401
+  orig: 486, 401
+  offset: 0, 0
+  index: -1
+yaojiainner
+  rotate: true
+  xy: 1299, 782
+  size: 117, 344
+  orig: 117, 344
+  offset: 0, 0
+  index: -1
+yaojiainner2
+  rotate: false
+  xy: 757, 376
+  size: 141, 332
+  orig: 141, 332
+  offset: 0, 0
+  index: -1
+yaojiaout
+  rotate: false
+  xy: 886, 847
+  size: 271, 350
+  orig: 271, 350
+  offset: 0, 0
+  index: -1

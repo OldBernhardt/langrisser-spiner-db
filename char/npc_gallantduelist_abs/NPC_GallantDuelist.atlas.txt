@@ -1,0 +1,307 @@
+
+NPC_GallantDuelist.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1059, 388
+  size: 89, 134
+  orig: 89, 134
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 785, 761
+  size: 125, 269
+  orig: 125, 269
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 768, 37
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 831, 555
+  size: 204, 242
+  orig: 204, 242
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 785, 746
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1248, 551
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 23
+  size: 309, 413
+  orig: 309, 413
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 1478, 767
+  size: 107, 29
+  orig: 107, 29
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1363, 727
+  size: 109, 38
+  orig: 109, 38
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1474, 735
+  size: 105, 30
+  orig: 105, 30
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 1363, 694
+  size: 107, 31
+  orig: 107, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1811, 806
+  size: 216, 227
+  orig: 216, 227
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1295, 769
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1478, 798
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1056, 787
+  size: 99, 237
+  orig: 99, 237
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1075, 524
+  size: 47, 171
+  orig: 47, 171
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 1069, 265
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 897, 26
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 339, 746
+  size: 444, 276
+  orig: 444, 276
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 1283, 660
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 1369, 767
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 1599, 795
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 900, 167
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 712, 391
+  size: 164, 95
+  orig: 164, 95
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 1371, 866
+  size: 156, 438
+  orig: 156, 438
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 339, 557
+  size: 187, 490
+  orig: 187, 490
+  offset: 0, 0
+  index: -1
+lingshi
+  rotate: false
+  xy: 1075, 573
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+lingzi1
+  rotate: true
+  xy: 577, 6
+  size: 101, 183
+  orig: 101, 183
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 712, 377
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 313, 420
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 313, 23
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 1069, 242
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1150, 400
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 809, 374
+  size: 248, 179
+  orig: 248, 179
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 567, 109
+  size: 199, 265
+  orig: 199, 265
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 768, 190
+  size: 130, 182
+  orig: 130, 182
+  offset: 0, 0
+  index: -1
+xiabai_1
+  rotate: true
+  xy: 339, 376
+  size: 179, 371
+  orig: 179, 371
+  offset: 0, 0
+  index: -1
+xiabai_2
+  rotate: false
+  xy: 2, 438
+  size: 335, 584
+  orig: 335, 584
+  offset: 0, 0
+  index: -1
+xiabai_3
+  rotate: true
+  xy: 785, 888
+  size: 134, 584
+  orig: 134, 584
+  offset: 0, 0
+  index: -1
+yaojia_inner_1
+  rotate: true
+  xy: 313, 43
+  size: 61, 262
+  orig: 61, 262
+  offset: 0, 0
+  index: -1
+yaojia_inner_2
+  rotate: false
+  xy: 1006, 175
+  size: 61, 197
+  orig: 61, 197
+  offset: 0, 0
+  index: -1
+yaojia_out_1
+  rotate: false
+  xy: 313, 106
+  size: 252, 268
+  orig: 252, 268
+  offset: 0, 0
+  index: -1

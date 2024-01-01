@@ -1,0 +1,139 @@
+
+NPC_Grendel.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminnerdown
+  rotate: false
+  xy: 1477, 346
+  size: 167, 676
+  orig: 167, 676
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: false
+  xy: 1646, 553
+  size: 142, 469
+  orig: 142, 469
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 1304, 336
+  size: 171, 686
+  orig: 171, 686
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: true
+  xy: 472, 2
+  size: 256, 527
+  orig: 256, 527
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 472, 260
+  size: 396, 762
+  orig: 396, 762
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1790, 571
+  size: 175, 235
+  orig: 175, 235
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 908, 260
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+eye hurt
+  rotate: false
+  xy: 944, 260
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+eye light
+  rotate: false
+  xy: 870, 260
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1790, 748
+  size: 207, 274
+  orig: 207, 274
+  offset: 0, 0
+  index: -1
+face hurt1
+  rotate: true
+  xy: 2, 14
+  size: 40, 163
+  orig: 40, 163
+  offset: 0, 0
+  index: -1
+face hurt2
+  rotate: true
+  xy: 1304, 307
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 56
+  size: 468, 966
+  orig: 468, 966
+  offset: 0, 0
+  index: -1
+leginner
+  rotate: false
+  xy: 1117, 302
+  size: 185, 720
+  orig: 185, 720
+  offset: 0, 0
+  index: -1
+legout
+  rotate: false
+  xy: 870, 301
+  size: 245, 721
+  orig: 245, 721
+  offset: 0, 0
+  index: -1
+lingziinner
+  rotate: false
+  xy: 1646, 448
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 1646, 350
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 1726, 463
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 1999, 963
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1

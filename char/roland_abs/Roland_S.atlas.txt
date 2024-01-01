@@ -1,0 +1,27 @@
+
+Roland_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 606
+  size: 1497, 1238
+  orig: 1497, 1238
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1501, 1217
+  size: 513, 627
+  orig: 513, 627
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 2, 2
+  size: 575, 602
+  orig: 575, 602
+  offset: 0, 0
+  index: -1

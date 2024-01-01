@@ -1,0 +1,286 @@
+
+OboroTheDragon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 1859, 635
+  size: 399, 157
+  orig: 399, 157
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 926, 322
+  size: 295, 145
+  orig: 295, 145
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 1597, 366
+  size: 269, 178
+  orig: 269, 178
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1809, 19
+  size: 161, 213
+  orig: 161, 213
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1825, 988
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 863, 809
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: true
+  xy: 1868, 310
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 802
+  size: 475, 1241
+  orig: 475, 1241
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 1597, 234
+  size: 242, 130
+  orig: 242, 130
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: false
+  xy: 848, 2
+  size: 239, 140
+  orig: 239, 140
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 1211, 155
+  size: 239, 137
+  orig: 239, 137
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 1223, 306
+  size: 190, 97
+  orig: 190, 97
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 1926, 1645
+  size: 201, 97
+  orig: 201, 97
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 1089, 45
+  size: 190, 97
+  orig: 190, 97
+  offset: 0, 0
+  index: -1
+eye_1_Special
+  rotate: true
+  xy: 1868, 394
+  size: 239, 140
+  orig: 239, 140
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 1400, 1596
+  size: 524, 447
+  orig: 524, 447
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 712, 264
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 1323, 294
+  size: 271, 272
+  orig: 271, 272
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1926, 1848
+  size: 111, 195
+  orig: 111, 195
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 848, 144
+  size: 176, 361
+  orig: 176, 361
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1323, 952
+  size: 318, 633
+  orig: 318, 633
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 33
+  size: 767, 471
+  orig: 767, 471
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 479, 805
+  size: 382, 780
+  orig: 382, 780
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1666, 546
+  size: 191, 427
+  orig: 191, 427
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 479, 1587
+  size: 919, 456
+  orig: 919, 456
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 863, 867
+  size: 322, 718
+  orig: 322, 718
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 475, 77
+  size: 182, 371
+  orig: 182, 371
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 926, 469
+  size: 396, 251
+  orig: 396, 251
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 475, 261
+  size: 235, 539
+  orig: 235, 539
+  offset: 0, 0
+  index: -1
+hand_inner_1
+  rotate: true
+  xy: 1323, 567
+  size: 383, 341
+  orig: 383, 341
+  offset: 0, 0
+  index: -1
+hand_out_1
+  rotate: true
+  xy: 650, 2
+  size: 73, 150
+  orig: 73, 150
+  offset: 0, 0
+  index: -1
+hand_out_2
+  rotate: true
+  xy: 475, 7
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+hand_out_3
+  rotate: false
+  xy: 1281, 24
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+hand_out_4
+  rotate: false
+  xy: 1281, 86
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+hand_out_5
+  rotate: false
+  xy: 1590, 41
+  size: 217, 191
+  orig: 217, 191
+  offset: 0, 0
+  index: -1
+huzi_1
+  rotate: false
+  xy: 712, 351
+  size: 212, 452
+  orig: 212, 452
+  offset: 0, 0
+  index: -1
+huzi_1_1
+  rotate: true
+  xy: 1187, 498
+  size: 1087, 134
+  orig: 1087, 134
+  offset: 0, 0
+  index: -1
+jiao_inner
+  rotate: true
+  xy: 1643, 975
+  size: 619, 180
+  orig: 619, 180
+  offset: 0, 0
+  index: -1
+jiao_out
+  rotate: false
+  xy: 1825, 1036
+  size: 156, 558
+  orig: 156, 558
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 1452, 53
+  size: 239, 136
+  orig: 239, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+NPC_Kaguya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianjia_inner_3
+  rotate: false
+  xy: 1855, 64
+  size: 142, 903
+  orig: 142, 903
+  offset: 0, 0
+  index: -1
+jianjia_inner_4
+  rotate: true
+  xy: 1379, 417
+  size: 143, 400
+  orig: 143, 400
+  offset: 0, 0
+  index: -1
+jianjia_out_3
+  rotate: true
+  xy: 425, 372
+  size: 188, 952
+  orig: 188, 952
+  offset: 0, 0
+  index: -1
+jianjia_out_4
+  rotate: true
+  xy: 1379, 277
+  size: 138, 415
+  orig: 138, 415
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 547, 17
+  size: 72, 502
+  orig: 72, 502
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: true
+  xy: 425, 562
+  size: 185, 1155
+  orig: 185, 1155
+  offset: 0, 0
+  index: -1
+qunbai_inner
+  rotate: true
+  xy: 945, 91
+  size: 279, 317
+  orig: 279, 317
+  offset: 0, 0
+  index: -1
+qunbai_out_1
+  rotate: false
+  xy: 1676, 970
+  size: 299, 1073
+  orig: 299, 1073
+  offset: 0, 0
+  index: -1
+qunbai_out_2
+  rotate: true
+  xy: 2, 398
+  size: 70, 339
+  orig: 70, 339
+  offset: 0, 0
+  index: -1
+qunbai_out_3
+  rotate: false
+  xy: 2, 470
+  size: 421, 287
+  orig: 421, 287
+  offset: 0, 0
+  index: -1
+qunbai_out_4
+  rotate: true
+  xy: 1676, 645
+  size: 323, 177
+  orig: 323, 177
+  offset: 0, 0
+  index: -1
+special_1
+  rotate: true
+  xy: 2, 2
+  size: 87, 543
+  orig: 87, 543
+  offset: 0, 0
+  index: -1
+special_2
+  rotate: false
+  xy: 1977, 969
+  size: 49, 434
+  orig: 49, 434
+  offset: 0, 0
+  index: -1
+special_3
+  rotate: false
+  xy: 2, 91
+  size: 941, 279
+  orig: 941, 279
+  offset: 0, 0
+  index: -1
+special_4
+  rotate: false
+  xy: 2, 759
+  size: 892, 1284
+  orig: 892, 1284
+  offset: 0, 0
+  index: -1
+special_5
+  rotate: false
+  xy: 896, 749
+  size: 778, 1294
+  orig: 778, 1294
+  offset: 0, 0
+  index: -1
+yaoshi_2
+  rotate: false
+  xy: 1977, 1405
+  size: 45, 638
+  orig: 45, 638
+  offset: 0, 0
+  index: -1
+yijie_inner_1
+  rotate: true
+  xy: 1582, 568
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+yijie_inner_2
+  rotate: false
+  xy: 1051, 6
+  size: 233, 83
+  orig: 233, 83
+  offset: 0, 0
+  index: -1
+yijie_out_1
+  rotate: false
+  xy: 1582, 643
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+yijie_out_2
+  rotate: true
+  xy: 1264, 110
+  size: 260, 74
+  orig: 260, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Pipimishadow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PipimiS
+  rotate: false
+  xy: 2, 2
+  size: 836, 1661
+  orig: 836, 1661
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 840, 2
+  size: 836, 1661
+  orig: 836, 1661
+  offset: 0, 0
+  index: -1
