@@ -1,0 +1,139 @@
+
+Nemia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 841
+  size: 773, 1204
+  orig: 773, 1204
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 54
+  size: 785, 479
+  orig: 785, 479
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 760, 30
+  size: 363, 659
+  orig: 363, 659
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 483, 590
+  size: 249, 275
+  orig: 249, 275
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1401, 112
+  size: 322, 399
+  orig: 322, 399
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1125, 44
+  size: 274, 645
+  orig: 274, 645
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1887, 1668
+  size: 152, 377
+  orig: 152, 377
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 483, 10
+  size: 209, 578
+  orig: 209, 578
+  offset: 0, 0
+  index: -1
+hair_888
+  rotate: false
+  xy: 777, 1136
+  size: 1108, 909
+  orig: 1108, 909
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1725, 182
+  size: 329, 261
+  orig: 329, 261
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: true
+  xy: 23, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: true
+  xy: 29, 26
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 40, 2
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 2, 23
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 56, 35
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+tousha_1
+  rotate: true
+  xy: 1887, 801
+  size: 865, 127
+  orig: 865, 127
+  offset: 0, 0
+  index: -1
+tousha_2
+  rotate: true
+  xy: 777, 691
+  size: 443, 1031
+  orig: 443, 1031
+  offset: 0, 0
+  index: -1
+tousha_3
+  rotate: true
+  xy: 1401, 513
+  size: 176, 589
+  orig: 176, 589
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+Listell_Rachel_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Listell/body
+  rotate: false
+  xy: 2, 1072
+  size: 1328, 974
+  orig: 1328, 974
+  offset: 0, 0
+  index: -1
+Listell/hair_1
+  rotate: true
+  xy: 1804, 803
+  size: 263, 233
+  orig: 263, 233
+  offset: 0, 0
+  index: -1
+Listell/hair_2
+  rotate: false
+  xy: 1806, 1068
+  size: 227, 415
+  orig: 227, 415
+  offset: 0, 0
+  index: -1
+Listell/hair_3
+  rotate: true
+  xy: 1620, 491
+  size: 240, 311
+  orig: 240, 311
+  offset: 0, 0
+  index: -1
+Listell/hair_4
+  rotate: false
+  xy: 1620, 733
+  size: 182, 364
+  orig: 182, 364
+  offset: 0, 0
+  index: -1
+Listell/hair_5
+  rotate: true
+  xy: 1815, 352
+  size: 137, 216
+  orig: 137, 216
+  offset: 0, 0
+  index: -1
+Listell/hair_6
+  rotate: true
+  xy: 1815, 200
+  size: 150, 176
+  orig: 150, 176
+  offset: 0, 0
+  index: -1
+Listell/highlight_left_1
+  rotate: false
+  xy: 766, 3
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Listell/highlight_left_2
+  rotate: false
+  xy: 793, 9
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Listell/highlight_left_3
+  rotate: true
+  xy: 795, 28
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Listell/highlight_left_4
+  rotate: false
+  xy: 766, 18
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Listell/highlight_right_1
+  rotate: true
+  xy: 783, 42
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Listell/highlight_right_2
+  rotate: false
+  xy: 792, 80
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Listell/highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Listell/highlight_right_4
+  rotate: true
+  xy: 783, 23
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Rachel/body
+  rotate: false
+  xy: 2, 91
+  size: 1307, 979
+  orig: 1307, 979
+  offset: 0, 0
+  index: -1
+Rachel/hair_1
+  rotate: false
+  xy: 1620, 187
+  size: 193, 302
+  orig: 193, 302
+  offset: 0, 0
+  index: -1
+Rachel/hair_2
+  rotate: true
+  xy: 1663, 7
+  size: 178, 325
+  orig: 178, 325
+  offset: 0, 0
+  index: -1
+Rachel/hair_3
+  rotate: false
+  xy: 1831, 1826
+  size: 173, 220
+  orig: 173, 220
+  offset: 0, 0
+  index: -1
+Rachel/hair_4
+  rotate: false
+  xy: 1553, 1099
+  size: 251, 384
+  orig: 251, 384
+  offset: 0, 0
+  index: -1
+Rachel/hair_5
+  rotate: true
+  xy: 1332, 1772
+  size: 274, 497
+  orig: 274, 497
+  offset: 0, 0
+  index: -1
+Rachel/hair_6
+  rotate: true
+  xy: 1311, 170
+  size: 900, 307
+  orig: 900, 307
+  offset: 0, 0
+  index: -1
+Rachel/hair_7
+  rotate: false
+  xy: 1553, 1485
+  size: 440, 285
+  orig: 440, 285
+  offset: 0, 0
+  index: -1
+Rachel/hair_8
+  rotate: true
+  xy: 1332, 1176
+  size: 594, 219
+  orig: 594, 219
+  offset: 0, 0
+  index: -1
+Rachel/hand
+  rotate: true
+  xy: 1311, 32
+  size: 136, 350
+  orig: 136, 350
+  offset: 0, 0
+  index: -1
+Rachel/highlight_1
+  rotate: false
+  xy: 766, 36
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Rachel/highlight_2
+  rotate: false
+  xy: 784, 6
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+Rachel/highlight_3
+  rotate: true
+  xy: 792, 68
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Rachel/highlight_4
+  rotate: true
+  xy: 766, 61
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Rachel/maozi
+  rotate: false
+  xy: 2, 9
+  size: 762, 80
+  orig: 762, 80
+  offset: 0, 0
+  index: -1

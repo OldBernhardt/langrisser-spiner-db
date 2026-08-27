@@ -1,0 +1,223 @@
+
+Alustriel_Yulia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alustriel/body
+  rotate: false
+  xy: 2, 1114
+  size: 1198, 932
+  orig: 1198, 932
+  offset: 0, 0
+  index: -1
+Alustriel/hair_1
+  rotate: false
+  xy: 1202, 1261
+  size: 275, 785
+  orig: 275, 785
+  offset: 0, 0
+  index: -1
+Alustriel/hair_2
+  rotate: false
+  xy: 655, 343
+  size: 255, 769
+  orig: 255, 769
+  offset: 0, 0
+  index: -1
+Alustriel/hair_3
+  rotate: false
+  xy: 912, 402
+  size: 186, 710
+  orig: 186, 710
+  offset: 0, 0
+  index: -1
+Alustriel/hair_4
+  rotate: true
+  xy: 2, 48
+  size: 221, 551
+  orig: 221, 551
+  offset: 0, 0
+  index: -1
+Alustriel/highlight_1
+  rotate: false
+  xy: 1339, 668
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Alustriel/highlight_2
+  rotate: false
+  xy: 1966, 1613
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Alustriel/highlight_3
+  rotate: false
+  xy: 1577, 806
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Yulia/body
+  rotate: false
+  xy: 2, 271
+  size: 651, 841
+  orig: 651, 841
+  offset: 0, 0
+  index: -1
+Yulia/hair_1
+  rotate: true
+  xy: 1375, 668
+  size: 136, 215
+  orig: 136, 215
+  offset: 0, 0
+  index: -1
+Yulia/hair_10
+  rotate: false
+  xy: 1100, 687
+  size: 273, 425
+  orig: 273, 425
+  offset: 0, 0
+  index: -1
+Yulia/hair_11
+  rotate: false
+  xy: 1479, 1625
+  size: 515, 421
+  orig: 515, 421
+  offset: 0, 0
+  index: -1
+Yulia/hair_12
+  rotate: false
+  xy: 1479, 1189
+  size: 485, 434
+  orig: 485, 434
+  offset: 0, 0
+  index: -1
+Yulia/hair_2
+  rotate: false
+  xy: 1445, 443
+  size: 122, 223
+  orig: 122, 223
+  offset: 0, 0
+  index: -1
+Yulia/hair_3
+  rotate: false
+  xy: 1100, 377
+  size: 205, 308
+  orig: 205, 308
+  offset: 0, 0
+  index: -1
+Yulia/hair_4
+  rotate: false
+  xy: 1307, 436
+  size: 136, 230
+  orig: 136, 230
+  offset: 0, 0
+  index: -1
+Yulia/hair_5
+  rotate: true
+  xy: 1569, 523
+  size: 122, 217
+  orig: 122, 217
+  offset: 0, 0
+  index: -1
+Yulia/hair_6
+  rotate: false
+  xy: 707, 27
+  size: 164, 314
+  orig: 164, 314
+  offset: 0, 0
+  index: -1
+Yulia/hair_7
+  rotate: false
+  xy: 555, 2
+  size: 150, 267
+  orig: 150, 267
+  offset: 0, 0
+  index: -1
+Yulia/hair_8
+  rotate: false
+  xy: 1375, 806
+  size: 200, 381
+  orig: 200, 381
+  offset: 0, 0
+  index: -1
+Yulia/hair_9
+  rotate: false
+  xy: 1577, 815
+  size: 184, 372
+  orig: 184, 372
+  offset: 0, 0
+  index: -1
+Yulia/hand_inner
+  rotate: true
+  xy: 1592, 647
+  size: 166, 183
+  orig: 166, 183
+  offset: 0, 0
+  index: -1
+Yulia/hand_out
+  rotate: false
+  xy: 1763, 951
+  size: 142, 236
+  orig: 142, 236
+  offset: 0, 0
+  index: -1
+Yulia/highlight_left_1
+  rotate: false
+  xy: 1307, 668
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Yulia/highlight_left_2
+  rotate: false
+  xy: 707, 18
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Yulia/highlight_left_3
+  rotate: false
+  xy: 2, 36
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+Yulia/highlight_left_4
+  rotate: false
+  xy: 912, 389
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Yulia/highlight_right_1
+  rotate: false
+  xy: 1996, 2020
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Yulia/highlight_right_2
+  rotate: false
+  xy: 873, 333
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Yulia/highlight_right_3
+  rotate: false
+  xy: 655, 332
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Yulia/highlight_right_4
+  rotate: true
+  xy: 1364, 675
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

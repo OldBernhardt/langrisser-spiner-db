@@ -1,0 +1,188 @@
+
+Ashi_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 296
+  size: 1757, 1685
+  orig: 1757, 1685
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 11
+  size: 222, 56
+  orig: 222, 56
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 1761, 1613
+  size: 219, 368
+  orig: 219, 368
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 1223, 118
+  size: 176, 225
+  orig: 176, 225
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 69
+  size: 525, 225
+  orig: 525, 225
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1761, 493
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1761, 684
+  size: 269, 272
+  orig: 269, 272
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1761, 958
+  size: 231, 292
+  orig: 231, 292
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 529, 87
+  size: 207, 366
+  orig: 207, 366
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1761, 1252
+  size: 202, 359
+  orig: 202, 359
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 897, 108
+  size: 186, 324
+  orig: 186, 324
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1450, 229
+  size: 65, 180
+  orig: 65, 180
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 529, 71
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 915, 103
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1223, 108
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 1965, 1596
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+highlight_left_6
+  rotate: false
+  xy: 226, 56
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+highlight_left_7
+  rotate: false
+  xy: 1761, 472
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1982, 1968
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1450, 221
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1982, 1963
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 557, 78
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 897, 88
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+highlight_right_6
+  rotate: false
+  xy: 1632, 284
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+highlight_right_7
+  rotate: false
+  xy: 1963, 664
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1

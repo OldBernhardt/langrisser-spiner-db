@@ -1,0 +1,13 @@
+
+Brightsummoner_Skin01_BG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brightsummoner_Skin01/BG
+  rotate: false
+  xy: 2, 2
+  size: 3801, 3857
+  orig: 3801, 3857
+  offset: 0, 0
+  index: -1

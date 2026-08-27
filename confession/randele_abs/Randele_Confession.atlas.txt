@@ -1,0 +1,160 @@
+
+Randele_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 666
+  size: 980, 1354
+  orig: 980, 1354
+  offset: 0, 0
+  index: -1
+glass_2
+  rotate: true
+  xy: 1295, 513
+  size: 82, 261
+  orig: 82, 261
+  offset: 0, 0
+  index: -1
+glass_3
+  rotate: true
+  xy: 2, 2
+  size: 26, 90
+  orig: 26, 90
+  offset: 0, 0
+  index: -1
+glass_4
+  rotate: false
+  xy: 1990, 1788
+  size: 56, 232
+  orig: 56, 232
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1141, 349
+  size: 152, 385
+  orig: 152, 385
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1295, 449
+  size: 62, 279
+  orig: 62, 279
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 830, 61
+  size: 165, 268
+  orig: 165, 268
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1141, 67
+  size: 280, 805
+  orig: 280, 805
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 630, 17
+  size: 198, 647
+  orig: 198, 647
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 984, 736
+  size: 1284, 759
+  orig: 1284, 759
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 1990, 1764
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1100, 215
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 984, 718
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 830, 44
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: false
+  xy: 2021, 1766
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: false
+  xy: 1295, 438
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 1558, 581
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 1693, 719
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+jiuping
+  rotate: false
+  xy: 2, 30
+  size: 626, 634
+  orig: 626, 634
+  offset: 0, 0
+  index: -1
+lazhu
+  rotate: false
+  xy: 830, 228
+  size: 309, 436
+  orig: 309, 436
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1295, 597
+  size: 396, 137
+  orig: 396, 137
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: true
+  xy: 1745, 486
+  size: 1534, 243
+  orig: 1534, 243
+  offset: 0, 0
+  index: -1

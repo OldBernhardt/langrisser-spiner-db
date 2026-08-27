@@ -1,0 +1,139 @@
+
+Rozenciel_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 673
+  size: 1633, 1369
+  orig: 1633, 1369
+  offset: 0, 0
+  index: -1
+erhuan_1
+  rotate: false
+  xy: 1439, 485
+  size: 96, 186
+  orig: 96, 186
+  offset: 0, 0
+  index: -1
+erhuan_2
+  rotate: true
+  xy: 1637, 699
+  size: 94, 139
+  orig: 94, 139
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 2, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 1080, 369
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 378, 152
+  size: 276, 215
+  orig: 276, 215
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1637, 795
+  size: 237, 267
+  orig: 237, 267
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 656, 194
+  size: 173, 304
+  orig: 173, 304
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2, 63
+  size: 304, 374
+  orig: 304, 374
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 2, 369
+  size: 302, 1076
+  orig: 302, 1076
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1637, 1064
+  size: 978, 315
+  orig: 978, 315
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1876, 1044
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 656, 183
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 962, 357
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 378, 133
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1439, 474
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1537, 665
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 1954, 1935
+  size: 32, 107
+  orig: 32, 107
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 1080, 399
+  size: 357, 272
+  orig: 357, 272
+  offset: 0, 0
+  index: -1

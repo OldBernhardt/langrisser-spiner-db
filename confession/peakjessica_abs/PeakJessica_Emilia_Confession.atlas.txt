@@ -1,0 +1,272 @@
+
+PeakJessica_Emilia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Emilia/body
+  rotate: false
+  xy: 2, 1077
+  size: 1616, 969
+  orig: 1616, 969
+  offset: 0, 0
+  index: -1
+Emilia/hair_1
+  rotate: false
+  xy: 1869, 709
+  size: 118, 249
+  orig: 118, 249
+  offset: 0, 0
+  index: -1
+Emilia/hair_2
+  rotate: true
+  xy: 1602, 189
+  size: 165, 194
+  orig: 165, 194
+  offset: 0, 0
+  index: -1
+Emilia/hair_3
+  rotate: false
+  xy: 1869, 960
+  size: 172, 223
+  orig: 172, 223
+  offset: 0, 0
+  index: -1
+Emilia/hair_4
+  rotate: false
+  xy: 1391, 295
+  size: 209, 371
+  orig: 209, 371
+  offset: 0, 0
+  index: -1
+Emilia/hair_5
+  rotate: false
+  xy: 1884, 1415
+  size: 153, 256
+  orig: 153, 256
+  offset: 0, 0
+  index: -1
+Emilia/hair_6
+  rotate: false
+  xy: 1391, 25
+  size: 180, 268
+  orig: 180, 268
+  offset: 0, 0
+  index: -1
+Emilia/hair_7
+  rotate: true
+  xy: 1573, 43
+  size: 144, 202
+  orig: 144, 202
+  offset: 0, 0
+  index: -1
+Emilia/hair_8
+  rotate: false
+  xy: 1620, 1401
+  size: 262, 645
+  orig: 262, 645
+  offset: 0, 0
+  index: -1
+Emilia/highlight_left_1
+  rotate: false
+  xy: 1307, 642
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Emilia/highlight_left_2
+  rotate: true
+  xy: 1884, 1401
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Emilia/highlight_left_3
+  rotate: true
+  xy: 1851, 1168
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Emilia/highlight_left_4
+  rotate: false
+  xy: 1869, 686
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Emilia/highlight_right_1
+  rotate: false
+  xy: 1133, 46
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Emilia/highlight_right_2
+  rotate: false
+  xy: 1900, 1401
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Emilia/highlight_right_3
+  rotate: false
+  xy: 1573, 28
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Emilia/highlight_right_4
+  rotate: false
+  xy: 1900, 686
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PeakJessica/arm_up
+  rotate: false
+  xy: 1628, 686
+  size: 239, 406
+  orig: 239, 406
+  offset: 0, 0
+  index: -1
+PeakJessica/body
+  rotate: false
+  xy: 2, 21
+  size: 1129, 1054
+  orig: 1129, 1054
+  offset: 0, 0
+  index: -1
+PeakJessica/erhuan_1
+  rotate: true
+  xy: 1798, 158
+  size: 85, 180
+  orig: 85, 180
+  offset: 0, 0
+  index: -1
+PeakJessica/erhuan_2
+  rotate: false
+  xy: 1935, 558
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_1
+  rotate: false
+  xy: 1851, 1185
+  size: 195, 214
+  orig: 195, 214
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_2
+  rotate: true
+  xy: 1620, 1094
+  size: 305, 229
+  orig: 305, 229
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_3
+  rotate: false
+  xy: 1307, 668
+  size: 319, 407
+  orig: 319, 407
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_4
+  rotate: false
+  xy: 1602, 356
+  size: 190, 310
+  orig: 190, 310
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_5
+  rotate: false
+  xy: 1133, 70
+  size: 256, 445
+  orig: 256, 445
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_6
+  rotate: true
+  xy: 1794, 428
+  size: 256, 139
+  orig: 256, 139
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_7
+  rotate: false
+  xy: 1133, 517
+  size: 172, 558
+  orig: 172, 558
+  offset: 0, 0
+  index: -1
+PeakJessica/hair_8
+  rotate: false
+  xy: 1884, 1673
+  size: 115, 373
+  orig: 115, 373
+  offset: 0, 0
+  index: -1
+PeakJessica/hand
+  rotate: true
+  xy: 1798, 245
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_left_1
+  rotate: true
+  xy: 2, 4
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_left_2
+  rotate: true
+  xy: 2039, 2038
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_left_3
+  rotate: false
+  xy: 1573, 280
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_left_4
+  rotate: false
+  xy: 2001, 2035
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_right_1
+  rotate: true
+  xy: 1628, 668
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_right_2
+  rotate: false
+  xy: 1935, 548
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_right_3
+  rotate: false
+  xy: 1912, 1401
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+PeakJessica/highlight_right_4
+  rotate: false
+  xy: 1989, 944
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

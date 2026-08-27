@@ -1,0 +1,118 @@
+
+Meteorology.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Meteorology_Sand/biaoji
+  rotate: false
+  xy: 774, 74
+  size: 169, 207
+  orig: 169, 207
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/blood
+  rotate: false
+  xy: 2, 2
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/blood
+  rotate: false
+  xy: 2, 2
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/body_1
+  rotate: false
+  xy: 590, 283
+  size: 264, 173
+  orig: 264, 173
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/body_2
+  rotate: false
+  xy: 2, 587
+  size: 293, 427
+  orig: 293, 427
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/body_3
+  rotate: false
+  xy: 297, 658
+  size: 291, 356
+  orig: 291, 356
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/body_4
+  rotate: false
+  xy: 870, 762
+  size: 117, 252
+  orig: 117, 252
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/body_4
+  rotate: false
+  xy: 870, 762
+  size: 117, 252
+  orig: 117, 252
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/body_5
+  rotate: true
+  xy: 870, 620
+  size: 140, 51
+  orig: 140, 51
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/body_5
+  rotate: true
+  xy: 870, 620
+  size: 140, 51
+  orig: 140, 51
+  offset: 0, 0
+  index: -1
+Meteorology_Sand/qiu
+  rotate: false
+  xy: 590, 737
+  size: 278, 277
+  orig: 278, 277
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/biaoji
+  rotate: true
+  xy: 563, 99
+  size: 182, 209
+  orig: 182, 209
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/body_1
+  rotate: false
+  xy: 297, 125
+  size: 264, 173
+  orig: 264, 173
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/body_2
+  rotate: false
+  xy: 2, 158
+  size: 293, 427
+  orig: 293, 427
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/body_3
+  rotate: false
+  xy: 297, 300
+  size: 291, 356
+  orig: 291, 356
+  offset: 0, 0
+  index: -1
+Meteorology_Wind/qiu
+  rotate: false
+  xy: 590, 458
+  size: 278, 277
+  orig: 278, 277
+  offset: 0, 0
+  index: -1

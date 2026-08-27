@@ -1,0 +1,139 @@
+
+Aemaesus.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down
+  rotate: true
+  xy: 1566, 339
+  size: 151, 437
+  orig: 151, 437
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1423, 66
+  size: 136, 346
+  orig: 136, 346
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 2, 12
+  size: 44, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1025, 598
+  size: 424, 636
+  orig: 424, 636
+  offset: 0, 0
+  index: -1
+dang
+  rotate: false
+  xy: 1663, 492
+  size: 310, 196
+  orig: 310, 196
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1913, 762
+  size: 133, 260
+  orig: 133, 260
+  offset: 0, 0
+  index: -1
+head1
+  rotate: true
+  xy: 588, 72
+  size: 199, 308
+  orig: 199, 308
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 1561, 74
+  size: 112, 263
+  orig: 112, 263
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 1663, 690
+  size: 248, 332
+  orig: 248, 332
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: true
+  xy: 2, 58
+  size: 213, 584
+  orig: 213, 584
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 1025, 414
+  size: 182, 539
+  orig: 182, 539
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1814, 48
+  size: 116, 153
+  orig: 116, 153
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 1814, 166
+  size: 140, 171
+  orig: 140, 171
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: false
+  xy: 935, 24
+  size: 486, 388
+  orig: 486, 388
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: true
+  xy: 2, 273
+  size: 245, 931
+  orig: 245, 931
+  offset: 0, 0
+  index: -1
+pifeng3
+  rotate: true
+  xy: 1561, 2
+  size: 70, 188
+  orig: 70, 188
+  offset: 0, 0
+  index: -1
+pifeng4
+  rotate: false
+  xy: 1675, 159
+  size: 137, 178
+  orig: 137, 178
+  offset: 0, 0
+  index: -1
+pifeng5
+  rotate: true
+  xy: 2, 520
+  size: 502, 1021
+  orig: 502, 1021
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 935, 511
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1

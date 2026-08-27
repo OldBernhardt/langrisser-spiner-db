@@ -1,0 +1,202 @@
+
+NPC_Barbaroi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: true
+  xy: 562, 442
+  size: 289, 442
+  orig: 289, 442
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: true
+  xy: 2, 2
+  size: 426, 475
+  orig: 426, 475
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 838, 242
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1438, 617
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 2034, 959
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 430
+  size: 558, 554
+  orig: 558, 554
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: true
+  xy: 776, 287
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: false
+  xy: 1438, 659
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: true
+  xy: 574, 6
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 776, 351
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 640, 103
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 870, 351
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+eye_1_Surprise
+  rotate: false
+  xy: 479, 8
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+eye_Battle_Injury
+  rotate: false
+  xy: 744, 196
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+eye_Battle_Mighty
+  rotate: false
+  xy: 878, 260
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1006, 484
+  size: 246, 245
+  orig: 246, 245
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: true
+  xy: 1821, 746
+  size: 238, 211
+  orig: 238, 211
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 1087, 731
+  size: 409, 253
+  orig: 409, 253
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: false
+  xy: 640, 194
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 964, 375
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 1137, 417
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_2
+  rotate: true
+  xy: 660, 3
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1498, 726
+  size: 321, 258
+  orig: 321, 258
+  offset: 0, 0
+  index: -1
+toujia
+  rotate: false
+  xy: 640, 306
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: false
+  xy: 562, 733
+  size: 523, 251
+  orig: 523, 251
+  offset: 0, 0
+  index: -1
+yiling_1
+  rotate: false
+  xy: 1254, 514
+  size: 182, 215
+  orig: 182, 215
+  offset: 0, 0
+  index: -1
+yiling_2
+  rotate: true
+  xy: 1006, 444
+  size: 38, 129
+  orig: 38, 129
+  offset: 0, 0
+  index: -1
+yiling_3
+  rotate: true
+  xy: 479, 99
+  size: 329, 159
+  orig: 329, 159
+  offset: 0, 0
+  index: -1

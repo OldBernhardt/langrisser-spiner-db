@@ -1,0 +1,118 @@
+
+Sanger_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 280
+  size: 1365, 1763
+  orig: 1365, 1763
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1369, 1302
+  size: 162, 741
+  orig: 162, 741
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1369, 1165
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 2
+  size: 276, 885
+  orig: 276, 885
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 889, 44
+  size: 234, 346
+  orig: 234, 346
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 889, 14
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1237, 246
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 918, 30
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1478, 1280
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 1533, 1955
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1237, 253
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1261, 273
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 889, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1369, 1149
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1644, 2025
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1533, 1974
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1

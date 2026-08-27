@@ -1,0 +1,132 @@
+
+Renata_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 625
+  size: 2023, 1421
+  orig: 2023, 1421
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 47
+  size: 279, 721
+  orig: 279, 721
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1647, 101
+  size: 102, 522
+  orig: 102, 522
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1490, 109
+  size: 155, 514
+  orig: 155, 514
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2, 328
+  size: 295, 937
+  orig: 295, 937
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1751, 293
+  size: 222, 330
+  orig: 222, 330
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 725, 59
+  size: 113, 267
+  orig: 113, 267
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: true
+  xy: 2027, 2020
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2027, 2008
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1751, 223
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1975, 602
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 840, 311
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 725, 49
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1811, 282
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 54, 30
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 941, 104
+  size: 547, 519
+  orig: 547, 519
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 2, 2
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 1751, 234
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

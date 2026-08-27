@@ -1,0 +1,104 @@
+
+Enya_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 259
+  size: 1884, 1782
+  orig: 1884, 1782
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 2, 2
+  size: 255, 282
+  orig: 255, 282
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 778, 49
+  size: 225, 208
+  orig: 225, 208
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 1888, 1825
+  size: 107, 216
+  orig: 107, 216
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 1005, 233
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: true
+  xy: 558, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 1997, 2024
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 1005, 219
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: false
+  xy: 778, 26
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: false
+  xy: 778, 14
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 1888, 1807
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 805, 32
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: false
+  xy: 558, 10
+  size: 218, 247
+  orig: 218, 247
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: false
+  xy: 286, 2
+  size: 270, 255
+  orig: 270, 255
+  offset: 0, 0
+  index: -1

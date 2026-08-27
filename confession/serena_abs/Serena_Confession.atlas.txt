@@ -1,0 +1,125 @@
+
+Serena_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1054
+  size: 924, 938
+  orig: 924, 938
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1632, 1690
+  size: 313, 302
+  orig: 313, 302
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 207
+  size: 472, 845
+  orig: 472, 845
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1190, 1443
+  size: 156, 549
+  orig: 156, 549
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 14
+  size: 258, 191
+  orig: 258, 191
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 928, 1438
+  size: 260, 554
+  orig: 260, 554
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 679, 528
+  size: 150, 524
+  orig: 150, 524
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 476, 516
+  size: 201, 536
+  orig: 201, 536
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1348, 1628
+  size: 282, 364
+  orig: 282, 364
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 928, 1417
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1348, 1616
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1947, 1985
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 679, 516
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 476, 497
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1632, 1681
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 831, 1038
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

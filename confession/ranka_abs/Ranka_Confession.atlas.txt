@@ -1,0 +1,104 @@
+
+Ranka_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 542
+  size: 977, 1502
+  orig: 977, 1502
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1409, 955
+  size: 630, 364
+  orig: 630, 364
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 23
+  size: 172, 37
+  orig: 172, 37
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 202, 80
+  size: 285, 460
+  orig: 285, 460
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 658, 138
+  size: 1346, 402
+  orig: 1346, 402
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 981, 561
+  size: 244, 758
+  orig: 244, 758
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1409, 584
+  size: 369, 197
+  orig: 369, 197
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 489, 2
+  size: 80, 221
+  orig: 80, 221
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 2, 62
+  size: 198, 478
+  orig: 198, 478
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 489, 84
+  size: 456, 167
+  orig: 456, 167
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 981, 1321
+  size: 890, 412
+  orig: 890, 412
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1227, 578
+  size: 741, 180
+  orig: 741, 180
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 981, 1735
+  size: 309, 1027
+  orig: 309, 1027
+  offset: 0, 0
+  index: -1
+lianhong
+  rotate: false
+  xy: 1873, 1323
+  size: 148, 410
+  orig: 148, 410
+  offset: 0, 0
+  index: -1

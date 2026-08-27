@@ -1,0 +1,216 @@
+
+NPC_Sipos.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 130, 40
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 379, 239
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 482, 389
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: true
+  xy: 204, 88
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 460
+  size: 689, 562
+  orig: 689, 562
+  offset: 0, 0
+  index: -1
+ershi_1
+  rotate: false
+  xy: 830, 889
+  size: 6, 133
+  orig: 6, 133
+  offset: 0, 0
+  index: -1
+ershi_2
+  rotate: false
+  xy: 693, 685
+  size: 9, 133
+  orig: 9, 133
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 132
+  size: 375, 326
+  orig: 375, 326
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 23
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 379, 345
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+jingshi
+  rotate: false
+  xy: 379, 278
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 838, 972
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 886, 997
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 482, 432
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 159, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Crazy
+  rotate: false
+  xy: 130, 87
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: true
+  xy: 157, 40
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 704, 741
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: true
+  xy: 704, 741
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Sad
+  rotate: false
+  xy: 401, 294
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: false
+  xy: 204, 106
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+mouth_1_Surprise
+  rotate: true
+  xy: 130, 2
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: false
+  xy: 750, 796
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: false
+  xy: 531, 435
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 838, 997
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: true
+  xy: 176, 40
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: false
+  xy: 252, 109
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 401, 318
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 704, 789
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 693, 820
+  size: 135, 202
+  orig: 135, 202
+  offset: 0, 0
+  index: -1

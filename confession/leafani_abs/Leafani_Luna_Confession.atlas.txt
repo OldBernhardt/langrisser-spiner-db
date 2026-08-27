@@ -1,0 +1,160 @@
+
+Leafani_Luna_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leafani/body
+  rotate: true
+  xy: 992, 952
+  size: 1065, 943
+  orig: 1065, 943
+  offset: 0, 0
+  index: -1
+Leafani/hair_1
+  rotate: false
+  xy: 2, 33
+  size: 239, 455
+  orig: 239, 455
+  offset: 0, 0
+  index: -1
+Leafani/hair_2
+  rotate: false
+  xy: 243, 128
+  size: 232, 360
+  orig: 232, 360
+  offset: 0, 0
+  index: -1
+Leafani/hair_3
+  rotate: false
+  xy: 477, 134
+  size: 241, 359
+  orig: 241, 359
+  offset: 0, 0
+  index: -1
+Leafani/highlight_left_1
+  rotate: false
+  xy: 2, 14
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Leafani/highlight_left_2
+  rotate: false
+  xy: 921, 181
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Leafani/highlight_left_3
+  rotate: false
+  xy: 720, 145
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Leafani/highlight_right_1
+  rotate: false
+  xy: 992, 934
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Leafani/highlight_right_2
+  rotate: true
+  xy: 477, 128
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+Leafani/highlight_right_3
+  rotate: false
+  xy: 1937, 1992
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Luna/body
+  rotate: false
+  xy: 2, 858
+  size: 988, 1159
+  orig: 988, 1159
+  offset: 0, 0
+  index: -1
+Luna/hair_1
+  rotate: false
+  xy: 720, 156
+  size: 199, 330
+  orig: 199, 330
+  offset: 0, 0
+  index: -1
+Luna/hair_2
+  rotate: false
+  xy: 921, 193
+  size: 163, 293
+  orig: 163, 293
+  offset: 0, 0
+  index: -1
+Luna/hair_3
+  rotate: false
+  xy: 764, 488
+  size: 250, 368
+  orig: 250, 368
+  offset: 0, 0
+  index: -1
+Luna/hair_4
+  rotate: false
+  xy: 463, 495
+  size: 299, 361
+  orig: 299, 361
+  offset: 0, 0
+  index: -1
+Luna/hair_5
+  rotate: false
+  xy: 2, 490
+  size: 459, 366
+  orig: 459, 366
+  offset: 0, 0
+  index: -1
+Luna/highlight_left_1
+  rotate: false
+  xy: 243, 114
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Luna/highlight_left_2
+  rotate: false
+  xy: 1960, 2009
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Luna/highlight_left_3
+  rotate: false
+  xy: 21, 22
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Luna/highlight_right_1
+  rotate: false
+  xy: 1937, 2003
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Luna/highlight_right_2
+  rotate: false
+  xy: 992, 925
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Luna/highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1

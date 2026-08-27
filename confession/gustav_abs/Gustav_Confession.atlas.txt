@@ -1,0 +1,125 @@
+
+Gustav_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 602
+  size: 1609, 1444
+  orig: 1609, 1444
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: true
+  xy: 1613, 1487
+  size: 559, 310
+  orig: 559, 310
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 746, 124
+  size: 466, 476
+  orig: 466, 476
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 89
+  size: 511, 742
+  orig: 511, 742
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1613, 1074
+  size: 184, 411
+  orig: 184, 411
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1214, 208
+  size: 206, 392
+  orig: 206, 392
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 1613, 1056
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1568, 588
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 2, 49
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 2, 63
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: false
+  xy: 746, 106
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: false
+  xy: 1799, 1468
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 1925, 1962
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 1422, 258
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+hongyun_1
+  rotate: true
+  xy: 1422, 280
+  size: 320, 144
+  orig: 320, 144
+  offset: 0, 0
+  index: -1
+hongyun_2
+  rotate: false
+  xy: 1214, 2
+  size: 369, 204
+  orig: 369, 204
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1925, 1977
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1

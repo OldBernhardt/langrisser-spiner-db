@@ -1,0 +1,139 @@
+
+Humbutterfly.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 430, 341
+  size: 75, 169
+  orig: 75, 169
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 218, 133
+  size: 227, 93
+  orig: 227, 93
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 264, 2
+  size: 11, 90
+  orig: 11, 90
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 365, 409
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+chibang_inner_1
+  rotate: true
+  xy: 129, 93
+  size: 267, 87
+  orig: 267, 87
+  offset: 0, 0
+  index: -1
+chibang_inner_2
+  rotate: true
+  xy: 291, 73
+  size: 57, 165
+  orig: 57, 165
+  offset: 0, 0
+  index: -1
+chibang_out_1
+  rotate: false
+  xy: 2, 362
+  size: 361, 148
+  orig: 361, 148
+  offset: 0, 0
+  index: -1
+chibang_out_2
+  rotate: false
+  xy: 2, 93
+  size: 125, 267
+  orig: 125, 267
+  offset: 0, 0
+  index: -1
+chuxu_1
+  rotate: true
+  xy: 277, 47
+  size: 24, 109
+  orig: 24, 109
+  offset: 0, 0
+  index: -1
+chuxu_2
+  rotate: true
+  xy: 277, 19
+  size: 26, 106
+  orig: 26, 106
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: true
+  xy: 2, 2
+  size: 89, 260
+  orig: 89, 260
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: false
+  xy: 372, 187
+  size: 56, 220
+  orig: 56, 220
+  offset: 0, 0
+  index: -1
+daizi_3
+  rotate: false
+  xy: 313, 132
+  size: 57, 228
+  orig: 57, 228
+  offset: 0, 0
+  index: -1
+daizi_4
+  rotate: true
+  xy: 430, 179
+  size: 160, 66
+  orig: 160, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 385, 2
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+jianjia_inner
+  rotate: false
+  xy: 403, 440
+  size: 21, 70
+  orig: 21, 70
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 218, 94
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+jianjia_out_2
+  rotate: true
+  xy: 388, 40
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+xianglian_1
+  rotate: false
+  xy: 372, 152
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Lambda_Confession.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 144
+  size: 942, 878
+  orig: 942, 878
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1201, 415
+  size: 199, 267
+  orig: 199, 267
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1201, 268
+  size: 145, 200
+  orig: 145, 200
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 946, 2
+  size: 207, 285
+  orig: 207, 285
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1635, 772
+  size: 250, 312
+  orig: 250, 312
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1294, 740
+  size: 282, 339
+  orig: 282, 339
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 946, 684
+  size: 346, 338
+  orig: 346, 338
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 2, 4
+  size: 138, 266
+  orig: 138, 266
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 946, 289
+  size: 253, 393
+  orig: 253, 393
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: true
+  xy: 1155, 268
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 468, 132
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1613, 730
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1155, 93
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 270, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1294, 726
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1635, 761
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1402, 480
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+hudiejie_1
+  rotate: false
+  xy: 1949, 881
+  size: 51, 141
+  orig: 51, 141
+  offset: 0, 0
+  index: -1
+hudiejie_2
+  rotate: true
+  xy: 1402, 491
+  size: 247, 209
+  orig: 247, 209
+  offset: 0, 0
+  index: -1
+hudiejie_3
+  rotate: true
+  xy: 270, 25
+  size: 117, 196
+  orig: 117, 196
+  offset: 0, 0
+  index: -1
+hudiejie_4
+  rotate: false
+  xy: 1155, 100
+  size: 177, 166
+  orig: 177, 166
+  offset: 0, 0
+  index: -1

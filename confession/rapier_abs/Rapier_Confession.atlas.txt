@@ -1,0 +1,139 @@
+
+Rapier_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 742
+  size: 1431, 1304
+  orig: 1431, 1304
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 55
+  size: 1031, 685
+  orig: 1031, 685
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 2
+  size: 51, 177
+  orig: 51, 177
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1742, 1438
+  size: 163, 608
+  orig: 163, 608
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1435, 657
+  size: 145, 194
+  orig: 145, 194
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1035, 71
+  size: 395, 669
+  orig: 395, 669
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1435, 804
+  size: 123, 269
+  orig: 123, 269
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1742, 979
+  size: 103, 457
+  orig: 103, 457
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1907, 1664
+  size: 108, 382
+  orig: 108, 382
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1907, 1558
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1742, 961
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1847, 1237
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1706, 910
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1035, 58
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 2017, 2028
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 181, 36
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1631, 791
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: true
+  xy: 1847, 1245
+  size: 191, 44
+  orig: 191, 44
+  offset: 0, 0
+  index: -1
+yibai
+  rotate: false
+  xy: 1435, 929
+  size: 305, 1117
+  orig: 305, 1117
+  offset: 0, 0
+  index: -1

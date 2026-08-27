@@ -1,0 +1,244 @@
+
+Ilia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 736
+  size: 1861, 1310
+  orig: 1861, 1310
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 294, 240
+  size: 438, 494
+  orig: 438, 494
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 2, 37
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 2027, 1037
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1865, 730
+  size: 160, 325
+  orig: 160, 325
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 734, 520
+  size: 214, 500
+  orig: 214, 500
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1593, 285
+  size: 232, 108
+  orig: 232, 108
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 1623, 395
+  size: 217, 339
+  orig: 217, 339
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: false
+  xy: 1865, 1755
+  size: 181, 291
+  orig: 181, 291
+  offset: 0, 0
+  index: -1
+hair_14
+  rotate: true
+  xy: 1152, 251
+  size: 208, 320
+  orig: 208, 320
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1593, 201
+  size: 224, 82
+  orig: 224, 82
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1865, 1057
+  size: 176, 328
+  orig: 176, 328
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 959, 121
+  size: 67, 148
+  orig: 67, 148
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1028, 137
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1950, 482
+  size: 79, 246
+  orig: 79, 246
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 859, 121
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 2, 56
+  size: 290, 678
+  orig: 290, 678
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1842, 421
+  size: 106, 307
+  orig: 106, 307
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 734, 271
+  size: 247, 416
+  orig: 247, 416
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 1474, 232
+  size: 117, 227
+  orig: 117, 227
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 294, 54
+  size: 362, 184
+  orig: 362, 184
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: true
+  xy: 767, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1950, 465
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 1152, 500
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 859, 104
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: true
+  xy: 795, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: true
+  xy: 1827, 377
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 1842, 402
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 1593, 445
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 767, 31
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 767, 104
+  size: 90, 165
+  orig: 90, 165
+  offset: 0, 0
+  index: -1
+tuizi_1
+  rotate: true
+  xy: 658, 25
+  size: 213, 107
+  orig: 213, 107
+  offset: 0, 0
+  index: -1
+tuizi_2
+  rotate: true
+  xy: 1236, 461
+  size: 273, 385
+  orig: 273, 385
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 1865, 1387
+  size: 366, 175
+  orig: 366, 175
+  offset: 0, 0
+  index: -1

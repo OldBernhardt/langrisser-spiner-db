@@ -1,0 +1,258 @@
+
+NPC_GylmannaBishop.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 994, 1475
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 496, 1434
+  size: 496, 610
+  orig: 496, 610
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 671, 437
+  size: 142, 56
+  orig: 142, 56
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 962, 627
+  size: 178, 198
+  orig: 178, 198
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 1375, 1545
+  size: 399, 499
+  orig: 399, 499
+  offset: 0, 0
+  index: -1
+lingzi2
+  rotate: false
+  xy: 246, 603
+  size: 217, 667
+  orig: 217, 667
+  offset: 0, 0
+  index: -1
+lingziout
+  rotate: false
+  xy: 2, 1272
+  size: 492, 772
+  orig: 492, 772
+  offset: 0, 0
+  index: -1
+maozi3
+  rotate: true
+  xy: 1032, 1116
+  size: 390, 276
+  orig: 390, 276
+  offset: 0, 0
+  index: -1
+mouth_1_Angry_A
+  rotate: false
+  xy: 851, 552
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 851, 552
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+mouth_1_Angry_B
+  rotate: false
+  xy: 1375, 1509
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Angry_C
+  rotate: false
+  xy: 296, 6
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Angry_D
+  rotate: false
+  xy: 962, 1116
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 1310, 1472
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Battlie_Mighty
+  rotate: false
+  xy: 1203, 831
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 1203, 831
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 465, 1213
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: true
+  xy: 465, 1213
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 962, 588
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 589, 142
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1203, 933
+  size: 158, 181
+  orig: 158, 181
+  offset: 0, 0
+  index: -1
+paozi1
+  rotate: false
+  xy: 2, 572
+  size: 242, 698
+  orig: 242, 698
+  offset: 0, 0
+  index: -1
+paozi2
+  rotate: false
+  xy: 605, 581
+  size: 124, 576
+  orig: 124, 576
+  offset: 0, 0
+  index: -1
+piaodai inner
+  rotate: false
+  xy: 517, 54
+  size: 70, 547
+  orig: 70, 547
+  offset: 0, 0
+  index: -1
+piaodai out
+  rotate: false
+  xy: 731, 548
+  size: 118, 609
+  orig: 118, 609
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: false
+  xy: 465, 603
+  size: 138, 554
+  orig: 138, 554
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 994, 1508
+  size: 379, 536
+  orig: 379, 536
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 589, 186
+  size: 80, 393
+  orig: 80, 393
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 1776, 1456
+  size: 243, 588
+  orig: 243, 588
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 851, 586
+  size: 109, 571
+  orig: 109, 571
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 2, 2
+  size: 292, 568
+  orig: 292, 568
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 962, 827
+  size: 239, 287
+  orig: 239, 287
+  offset: 0, 0
+  index: -1
+xiongzhen1
+  rotate: true
+  xy: 1203, 863
+  size: 68, 162
+  orig: 68, 162
+  offset: 0, 0
+  index: -1
+xiongzhen2
+  rotate: false
+  xy: 1142, 679
+  size: 46, 146
+  orig: 46, 146
+  offset: 0, 0
+  index: -1
+xiuziinner
+  rotate: false
+  xy: 296, 45
+  size: 219, 556
+  orig: 219, 556
+  offset: 0, 0
+  index: -1
+xiuziout
+  rotate: true
+  xy: 496, 1159
+  size: 273, 534
+  orig: 273, 534
+  offset: 0, 0
+  index: -1

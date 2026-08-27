@@ -1,0 +1,13 @@
+
+Gazesuccubus_BG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 3214, 3794
+  orig: 3214, 3794
+  offset: 0, 0
+  index: -1

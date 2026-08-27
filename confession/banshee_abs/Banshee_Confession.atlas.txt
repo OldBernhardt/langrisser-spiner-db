@@ -1,0 +1,153 @@
+
+Banshee_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 788
+  size: 1913, 1258
+  orig: 1913, 1258
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1917, 1443
+  size: 298, 125
+  orig: 298, 125
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 997, 110
+  size: 214, 436
+  orig: 214, 436
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 2, 139
+  size: 993, 185
+  orig: 993, 185
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1435, 2
+  size: 131, 322
+  orig: 131, 322
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1917, 1743
+  size: 129, 303
+  orig: 129, 303
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1707, 347
+  size: 439, 154
+  orig: 439, 154
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1863, 416
+  size: 161, 158
+  orig: 161, 158
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: false
+  xy: 2, 545
+  size: 1703, 241
+  orig: 1703, 241
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 2, 326
+  size: 1604, 217
+  orig: 1604, 217
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 276, 101
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1568, 276
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1608, 392
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1917, 1424
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 1568, 285
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1679, 535
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1863, 402
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 2, 25
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 2, 44
+  size: 272, 93
+  orig: 272, 93
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: true
+  xy: 1863, 579
+  size: 207, 136
+  orig: 207, 136
+  offset: 0, 0
+  index: -1
+toushi_3
+  rotate: false
+  xy: 1608, 404
+  size: 69, 139
+  orig: 69, 139
+  offset: 0, 0
+  index: -1

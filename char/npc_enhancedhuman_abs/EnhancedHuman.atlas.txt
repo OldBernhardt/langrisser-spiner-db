@@ -1,0 +1,167 @@
+
+EnhancedHuman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down_1
+  rotate: true
+  xy: 545, 252
+  size: 130, 343
+  orig: 130, 343
+  offset: 0, 0
+  index: -1
+arm_inner_down_2
+  rotate: true
+  xy: 2, 2
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 608, 646
+  size: 165, 396
+  orig: 165, 396
+  offset: 0, 0
+  index: -1
+arm_out_down_1
+  rotate: false
+  xy: 175, 175
+  size: 170, 363
+  orig: 170, 363
+  offset: 0, 0
+  index: -1
+arm_out_down_2
+  rotate: true
+  xy: 890, 311
+  size: 85, 132
+  orig: 85, 132
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 608, 813
+  size: 209, 392
+  orig: 209, 392
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 832, 219
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 287, 608
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 545, 384
+  size: 316, 260
+  orig: 316, 260
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 287, 653
+  size: 319, 369
+  orig: 319, 369
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 468, 16
+  size: 234, 258
+  orig: 234, 258
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 2, 77
+  size: 171, 461
+  orig: 171, 461
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 2, 540
+  size: 283, 482
+  orig: 283, 482
+  offset: 0, 0
+  index: -1
+lingzi_3
+  rotate: true
+  xy: 863, 398
+  size: 246, 143
+  orig: 246, 143
+  offset: 0, 0
+  index: -1
+lingzi_inner
+  rotate: true
+  xy: 175, 110
+  size: 63, 97
+  orig: 63, 97
+  offset: 0, 0
+  index: -1
+lingzi_out
+  rotate: true
+  xy: 347, 182
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 890, 285
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 468, 252
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 1002, 989
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 728, 113
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 98, 49
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 728, 138
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: true
+  xy: 347, 288
+  size: 363, 196
+  orig: 363, 196
+  offset: 0, 0
+  index: -1

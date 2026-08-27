@@ -1,0 +1,20 @@
+
+Rembert_S.png
+size: 2186,2186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rembert_R
+  rotate: false
+  xy: 1416, 1638
+  size: 356, 546
+  orig: 356, 546
+  offset: 0, 0
+  index: -1
+Rembert_S
+  rotate: false
+  xy: 2, 2
+  size: 1412, 2182
+  orig: 1412, 2182
+  offset: 0, 0
+  index: -1

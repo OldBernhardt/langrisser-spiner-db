@@ -1,0 +1,132 @@
+
+WanderingDuelist_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 447
+  size: 1855, 1599
+  orig: 1855, 1599
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 933, 200
+  size: 245, 419
+  orig: 245, 419
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1645, 289
+  size: 116, 156
+  orig: 116, 156
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: true
+  xy: 2, 28
+  size: 171, 200
+  orig: 171, 200
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1859, 1557
+  size: 142, 489
+  orig: 142, 489
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1354, 166
+  size: 289, 279
+  orig: 289, 279
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 499, 174
+  size: 271, 432
+  orig: 271, 432
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1859, 1306
+  size: 101, 249
+  orig: 101, 249
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 2, 201
+  size: 244, 495
+  orig: 244, 495
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1763, 431
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1859, 1290
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1645, 277
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 32, 20
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1962, 1540
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+shan_1
+  rotate: false
+  xy: 2, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+shan_2
+  rotate: false
+  xy: 2003, 2019
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+shan_3
+  rotate: false
+  xy: 933, 177
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shan_4
+  rotate: false
+  xy: 204, 177
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1

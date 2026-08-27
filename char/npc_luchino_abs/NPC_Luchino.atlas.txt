@@ -1,0 +1,279 @@
+
+NPC_Luchino.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner_down
+  rotate: true
+  xy: 695, 487
+  size: 185, 230
+  orig: 185, 230
+  offset: 0, 0
+  index: -1
+arminner_up
+  rotate: true
+  xy: 1279, 802
+  size: 220, 331
+  orig: 220, 331
+  offset: 0, 0
+  index: -1
+armout_down
+  rotate: false
+  xy: 996, 733
+  size: 281, 289
+  orig: 281, 289
+  offset: 0, 0
+  index: -1
+armout_up
+  rotate: false
+  xy: 2, 93
+  size: 298, 373
+  orig: 298, 373
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 2, 3
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 55, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 468
+  size: 448, 554
+  orig: 448, 554
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: true
+  xy: 424, 369
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 424, 369
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: true
+  xy: 424, 369
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 996, 686
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+eye_1_Firm
+  rotate: true
+  xy: 380, 229
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1898, 766
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 414, 284
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 1279, 736
+  size: 64, 122
+  orig: 64, 122
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 2, 26
+  size: 65, 191
+  orig: 65, 191
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 452, 453
+  size: 219, 241
+  orig: 219, 241
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1898, 780
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 996, 701
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: false
+  xy: 302, 143
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: true
+  xy: 2021, 975
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: true
+  xy: 2021, 926
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: false
+  xy: 695, 456
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: true
+  xy: 2021, 879
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: false
+  xy: 452, 424
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: true
+  xy: 424, 419
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: true
+  xy: 380, 279
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 302, 114
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 1951, 786
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 1503, 770
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 302, 330
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1
+pifenginner1
+  rotate: true
+  xy: 927, 571
+  size: 101, 79
+  orig: 101, 79
+  offset: 0, 0
+  index: -1
+pifenginner2
+  rotate: true
+  xy: 195, 4
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+pifenginner3
+  rotate: false
+  xy: 1612, 766
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1
+pifengout
+  rotate: false
+  xy: 452, 674
+  size: 542, 348
+  orig: 542, 348
+  offset: 0, 0
+  index: -1
+toujing_1
+  rotate: true
+  xy: 1898, 815
+  size: 207, 121
+  orig: 207, 121
+  offset: 0, 0
+  index: -1
+toujing_2
+  rotate: true
+  xy: 302, 176
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+toujing_3
+  rotate: false
+  xy: 1403, 745
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+toujing_4
+  rotate: false
+  xy: 927, 483
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1

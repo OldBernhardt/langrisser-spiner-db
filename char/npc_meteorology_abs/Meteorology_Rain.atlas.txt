@@ -1,0 +1,62 @@
+
+Meteorology_Rain.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Meteorology_Rain/biaoji
+  rotate: false
+  xy: 2, 2
+  size: 178, 225
+  orig: 178, 225
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/blood
+  rotate: false
+  xy: 930, 845
+  size: 76, 144
+  orig: 76, 144
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/body_1
+  rotate: false
+  xy: 648, 821
+  size: 280, 168
+  orig: 280, 168
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/body_2
+  rotate: false
+  xy: 2, 555
+  size: 365, 434
+  orig: 365, 434
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/body_3
+  rotate: false
+  xy: 2, 229
+  size: 266, 324
+  orig: 266, 324
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/body_4
+  rotate: false
+  xy: 270, 382
+  size: 89, 171
+  orig: 89, 171
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/body_5
+  rotate: false
+  xy: 369, 558
+  size: 296, 152
+  orig: 296, 152
+  offset: 0, 0
+  index: -1
+Meteorology_Rain/qiu
+  rotate: false
+  xy: 369, 712
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1

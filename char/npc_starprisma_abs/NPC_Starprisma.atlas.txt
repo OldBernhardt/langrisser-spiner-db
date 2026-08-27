@@ -1,0 +1,174 @@
+
+NPC_Starprisma.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 1771, 1320
+  size: 146, 335
+  orig: 146, 335
+  offset: 0, 0
+  index: -1
+arm_inner_up_1
+  rotate: true
+  xy: 656, 850
+  size: 139, 295
+  orig: 139, 295
+  offset: 0, 0
+  index: -1
+arm_inner_up_2
+  rotate: true
+  xy: 1919, 1394
+  size: 135, 98
+  orig: 135, 98
+  offset: 0, 0
+  index: -1
+arm_inner_up_3
+  rotate: true
+  xy: 1919, 1531
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1501, 1657
+  size: 147, 367
+  orig: 147, 367
+  offset: 0, 0
+  index: -1
+arm_out_up_1
+  rotate: false
+  xy: 895, 1086
+  size: 170, 268
+  orig: 170, 268
+  offset: 0, 0
+  index: -1
+arm_out_up_2
+  rotate: false
+  xy: 2, 5
+  size: 154, 117
+  orig: 154, 117
+  offset: 0, 0
+  index: -1
+arm_out_up_3
+  rotate: false
+  xy: 1870, 1667
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 492, 716
+  size: 49, 139
+  orig: 49, 139
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 656, 810
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 124
+  size: 400, 585
+  orig: 400, 585
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 656, 991
+  size: 337, 237
+  orig: 337, 237
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1075, 1372
+  size: 348, 309
+  orig: 348, 309
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 404, 370
+  size: 248, 339
+  orig: 248, 339
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 404, 74
+  size: 277, 294
+  orig: 277, 294
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: true
+  xy: 158, 21
+  size: 101, 162
+  orig: 101, 162
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 1075, 1683
+  size: 424, 356
+  orig: 424, 356
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 711
+  size: 488, 617
+  orig: 488, 617
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 492, 767
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+xiabai_1
+  rotate: false
+  xy: 701, 1356
+  size: 372, 683
+  orig: 372, 683
+  offset: 0, 0
+  index: -1
+xiabai_2
+  rotate: false
+  xy: 2, 1330
+  size: 697, 709
+  orig: 697, 709
+  offset: 0, 0
+  index: -1
+yaojia_1
+  rotate: true
+  xy: 1501, 1806
+  size: 233, 467
+  orig: 233, 467
+  offset: 0, 0
+  index: -1
+yaojia_2
+  rotate: false
+  xy: 492, 939
+  size: 162, 389
+  orig: 162, 389
+  offset: 0, 0
+  index: -1
+yaojia_3
+  rotate: true
+  xy: 1425, 1344
+  size: 311, 344
+  orig: 311, 344
+  offset: 0, 0
+  index: -1

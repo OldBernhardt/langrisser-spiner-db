@@ -1,0 +1,167 @@
+
+Michelle_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 513
+  size: 866, 1530
+  orig: 866, 1530
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 870, 1521
+  size: 1165, 522
+  orig: 1165, 522
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1667, 910
+  size: 150, 609
+  orig: 150, 609
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 870, 547
+  size: 226, 937
+  orig: 226, 937
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 2, 109
+  size: 1049, 402
+  orig: 1049, 402
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 870, 775
+  size: 795, 744
+  orig: 795, 744
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1819, 1157
+  size: 161, 362
+  orig: 161, 362
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 1819, 938
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 102, 16
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 2037, 2030
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: false
+  xy: 1982, 1500
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: false
+  xy: 1053, 113
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+light_6
+  rotate: false
+  xy: 2, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+light_7
+  rotate: false
+  xy: 1667, 845
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+light_8
+  rotate: false
+  xy: 870, 524
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+qipao_1
+  rotate: false
+  xy: 1707, 241
+  size: 303, 304
+  orig: 303, 304
+  offset: 0, 0
+  index: -1
+shanguang_1
+  rotate: false
+  xy: 2, 15
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+shanguang_2
+  rotate: false
+  xy: 1391, 173
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+shanguang_3
+  rotate: true
+  xy: 1819, 975
+  size: 180, 167
+  orig: 180, 167
+  offset: 0, 0
+  index: -1
+shanguang_4
+  rotate: false
+  xy: 1391, 230
+  size: 314, 315
+  orig: 314, 315
+  offset: 0, 0
+  index: -1
+shanguang_5
+  rotate: true
+  xy: 102, 28
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+shipin_1
+  rotate: true
+  xy: 1667, 860
+  size: 48, 139
+  orig: 48, 139
+  offset: 0, 0
+  index: -1
+shipin_2
+  rotate: false
+  xy: 1053, 156
+  size: 336, 389
+  orig: 336, 389
+  offset: 0, 0
+  index: -1

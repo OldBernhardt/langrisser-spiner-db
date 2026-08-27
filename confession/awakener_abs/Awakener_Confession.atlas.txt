@@ -1,0 +1,111 @@
+
+Awakener_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_01
+  rotate: true
+  xy: 2, 2
+  size: 86, 232
+  orig: 86, 232
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1274
+  size: 1171, 754
+  orig: 1171, 754
+  offset: 0, 0
+  index: -1
+front_00
+  rotate: false
+  xy: 2, 292
+  size: 781, 980
+  orig: 781, 980
+  offset: 0, 0
+  index: -1
+front_01
+  rotate: true
+  xy: 1198, 2
+  size: 197, 256
+  orig: 197, 256
+  offset: 0, 0
+  index: -1
+front_02
+  rotate: false
+  xy: 1523, 490
+  size: 282, 557
+  orig: 282, 557
+  offset: 0, 0
+  index: -1
+front_03
+  rotate: true
+  xy: 2, 90
+  size: 200, 1194
+  orig: 200, 1194
+  offset: 0, 0
+  index: -1
+front_04
+  rotate: true
+  xy: 785, 299
+  size: 973, 387
+  orig: 973, 387
+  offset: 0, 0
+  index: -1
+front_05
+  rotate: true
+  xy: 1175, 1119
+  size: 909, 517
+  orig: 909, 517
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 1174, 483
+  size: 347, 634
+  orig: 347, 634
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: true
+  xy: 1198, 201
+  size: 280, 553
+  orig: 280, 553
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 1523, 1052
+  size: 169, 65
+  orig: 169, 65
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 1753, 162
+  size: 232, 303
+  orig: 232, 303
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: false
+  xy: 1807, 467
+  size: 199, 580
+  orig: 199, 580
+  offset: 0, 0
+  index: -1
+hair_1_9
+  rotate: true
+  xy: 1970, 1870
+  size: 158, 29
+  orig: 158, 29
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1694, 1049
+  size: 274, 979
+  orig: 274, 979
+  offset: 0, 0
+  index: -1

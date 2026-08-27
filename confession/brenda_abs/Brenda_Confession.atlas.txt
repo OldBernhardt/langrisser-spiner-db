@@ -1,0 +1,132 @@
+
+Brenda_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 841
+  size: 1406, 1205
+  orig: 1406, 1205
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1410, 1328
+  size: 77, 349
+  orig: 77, 349
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1410, 1679
+  size: 169, 367
+  orig: 169, 367
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 354, 551
+  size: 182, 288
+  orig: 182, 288
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 27
+  size: 145, 176
+  orig: 145, 176
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1581, 1776
+  size: 124, 270
+  orig: 124, 270
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 210, 309
+  size: 117, 217
+  orig: 117, 217
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 2, 205
+  size: 206, 321
+  orig: 206, 321
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 2, 528
+  size: 350, 311
+  orig: 350, 311
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 538, 735
+  size: 69, 104
+  orig: 69, 104
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 354, 531
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1707, 2034
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1581, 1765
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: true
+  xy: 2, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1410, 1309
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 329, 515
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 210, 299
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1489, 1663
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

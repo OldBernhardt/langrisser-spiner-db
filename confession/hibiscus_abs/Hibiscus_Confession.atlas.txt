@@ -1,0 +1,146 @@
+
+Hibiscus_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 116
+  size: 1685, 1930
+  orig: 1685, 1930
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 1689, 1450
+  size: 596, 255
+  orig: 596, 255
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1855, 198
+  size: 45, 191
+  orig: 45, 191
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 1946, 1789
+  size: 86, 257
+  orig: 86, 257
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1689, 666
+  size: 181, 389
+  orig: 181, 389
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: true
+  xy: 1872, 731
+  size: 324, 115
+  orig: 324, 115
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: true
+  xy: 1689, 1057
+  size: 391, 296
+  orig: 391, 296
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1689, 111
+  size: 164, 221
+  orig: 164, 221
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1899, 482
+  size: 138, 247
+  orig: 138, 247
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1689, 334
+  size: 208, 330
+  orig: 208, 330
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 609, 23
+  size: 21, 91
+  orig: 21, 91
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 414, 18
+  size: 193, 96
+  orig: 193, 96
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 292, 2
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 2, 7
+  size: 107, 288
+  orig: 107, 288
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1899, 245
+  size: 235, 146
+  orig: 235, 146
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: true
+  xy: 1872, 685
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 414, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 1855, 319
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1855, 175
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1946, 1676
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1

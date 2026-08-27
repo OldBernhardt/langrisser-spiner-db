@@ -1,0 +1,139 @@
+
+Virelia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 72
+  size: 1030, 1910
+  orig: 1030, 1910
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 16
+  size: 54, 186
+  orig: 54, 186
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1034, 316
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1539, 1420
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 190, 61
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1539, 1411
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1086, 409
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 1034, 307
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+highlight_left_6
+  rotate: false
+  xy: 1872, 1965
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1377, 949
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1402, 956
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1872, 1971
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1377, 943
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+highlight_right_6
+  rotate: false
+  xy: 1560, 1428
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_right_7
+  rotate: false
+  xy: 1887, 1979
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shuimu1
+  rotate: true
+  xy: 1034, 964
+  size: 1018, 503
+  orig: 1018, 503
+  offset: 0, 0
+  index: -1
+shuimu2
+  rotate: true
+  xy: 1034, 417
+  size: 545, 341
+  orig: 545, 341
+  offset: 0, 0
+  index: -1
+shuimu3
+  rotate: true
+  xy: 1539, 1435
+  size: 547, 331
+  orig: 547, 331
+  offset: 0, 0
+  index: -1

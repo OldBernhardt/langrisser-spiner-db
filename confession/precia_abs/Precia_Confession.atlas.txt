@@ -1,0 +1,195 @@
+
+Precia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 297
+  size: 696, 476
+  orig: 696, 476
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 775
+  size: 1187, 1265
+  orig: 1187, 1265
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1524, 1483
+  size: 516, 557
+  orig: 516, 557
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 20
+  size: 84, 222
+  orig: 84, 222
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 730, 123
+  size: 215, 386
+  orig: 215, 386
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 700, 340
+  size: 457, 433
+  orig: 457, 433
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 1797, 913
+  size: 159, 382
+  orig: 159, 382
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: true
+  xy: 1440, 902
+  size: 383, 355
+  orig: 383, 355
+  offset: 0, 0
+  index: -1
+hair_14
+  rotate: true
+  xy: 1500, 207
+  size: 215, 283
+  orig: 215, 283
+  offset: 0, 0
+  index: -1
+hair_15
+  rotate: false
+  xy: 1440, 424
+  size: 336, 321
+  orig: 336, 321
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1159, 239
+  size: 182, 339
+  orig: 182, 339
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 106
+  size: 189, 726
+  orig: 189, 726
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1440, 747
+  size: 153, 360
+  orig: 153, 360
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1191, 785
+  size: 247, 500
+  orig: 247, 500
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1524, 1297
+  size: 184, 409
+  orig: 184, 409
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1935, 1323
+  size: 63, 158
+  orig: 63, 158
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1159, 423
+  size: 279, 350
+  orig: 279, 350
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1118, 58
+  size: 179, 326
+  orig: 179, 326
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1191, 1287
+  size: 331, 753
+  orig: 331, 753
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1446, 220
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1524, 1288
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1935, 1297
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1778, 724
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 730, 108
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1797, 905
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: true
+  xy: 700, 307
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1118, 319
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1

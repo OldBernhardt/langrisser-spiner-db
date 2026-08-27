@@ -1,0 +1,83 @@
+
+Safreen_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 39
+  size: 1072, 1930
+  orig: 1072, 1930
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 28, 29
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 2017, 1909
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 16
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1076, 40
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 2037, 1913
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1540, 99
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: true
+  xy: 2017, 1927
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+houfa_1
+  rotate: false
+  xy: 1076, 56
+  size: 462, 1913
+  orig: 462, 1913
+  offset: 0, 0
+  index: -1
+houfa_2
+  rotate: false
+  xy: 1540, 117
+  size: 475, 1852
+  orig: 475, 1852
+  offset: 0, 0
+  index: -1

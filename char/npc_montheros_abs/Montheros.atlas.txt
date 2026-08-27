@@ -1,0 +1,286 @@
+
+Montheros.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_eye_1_Angry_1
+  rotate: true
+  xy: 788, 570
+  size: 203, 167
+  orig: 203, 167
+  offset: 0, 0
+  index: -1
+B_eye_1_Angry_2
+  rotate: true
+  xy: 906, 11
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Injury_1
+  rotate: true
+  xy: 957, 638
+  size: 204, 170
+  orig: 204, 170
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Injury_2
+  rotate: false
+  xy: 1129, 667
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Injury_3
+  rotate: false
+  xy: 745, 114
+  size: 159, 138
+  orig: 159, 138
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Mighty_1
+  rotate: true
+  xy: 304, 109
+  size: 208, 160
+  orig: 208, 160
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Mighty_2
+  rotate: false
+  xy: 1116, 329
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_1
+  rotate: false
+  xy: 1590, 860
+  size: 214, 161
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_2
+  rotate: false
+  xy: 957, 597
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_3
+  rotate: true
+  xy: 962, 255
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_4
+  rotate: true
+  xy: 2, 4
+  size: 34, 82
+  orig: 34, 82
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_5
+  rotate: false
+  xy: 962, 307
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+B_eye_1_Battle_Weak_6
+  rotate: false
+  xy: 1129, 747
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+B_eye_1_Fear_1
+  rotate: false
+  xy: 1806, 849
+  size: 208, 172
+  orig: 208, 172
+  offset: 0, 0
+  index: -1
+B_eye_1_Fear_2
+  rotate: false
+  xy: 1205, 807
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+B_eye_1_Fear_3
+  rotate: false
+  xy: 544, 704
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+B_eye_1_Firm_1
+  rotate: false
+  xy: 944, 844
+  size: 215, 177
+  orig: 215, 177
+  offset: 0, 0
+  index: -1
+B_eye_1_Firm_2
+  rotate: false
+  xy: 837, 11
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+B_eye_1_Normal_1
+  rotate: false
+  xy: 1378, 854
+  size: 210, 167
+  orig: 210, 167
+  offset: 0, 0
+  index: -1
+B_eye_1_Normal_2
+  rotate: false
+  xy: 786, 411
+  size: 207, 157
+  orig: 207, 157
+  offset: 0, 0
+  index: -1
+B_eye_1_Normal_3
+  rotate: true
+  xy: 995, 429
+  size: 207, 157
+  orig: 207, 157
+  offset: 0, 0
+  index: -1
+B_eye_1_Sad_1
+  rotate: false
+  xy: 586, 442
+  size: 198, 146
+  orig: 198, 146
+  offset: 0, 0
+  index: -1
+B_eye_1_Sad_2
+  rotate: false
+  xy: 456, 319
+  size: 88, 145
+  orig: 88, 145
+  offset: 0, 0
+  index: -1
+B_eye_1_Sad_3
+  rotate: false
+  xy: 466, 148
+  size: 164, 141
+  orig: 164, 141
+  offset: 0, 0
+  index: -1
+B_eye_1_Shy_1
+  rotate: false
+  xy: 755, 254
+  size: 205, 155
+  orig: 205, 155
+  offset: 0, 0
+  index: -1
+B_eye_1_Shy_2
+  rotate: true
+  xy: 456, 466
+  size: 227, 128
+  orig: 227, 128
+  offset: 0, 0
+  index: -1
+B_eye_1_Shy_3
+  rotate: false
+  xy: 1018, 325
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+B_eye_1_Smile_1
+  rotate: false
+  xy: 1161, 854
+  size: 215, 167
+  orig: 215, 167
+  offset: 0, 0
+  index: -1
+B_eye_1_Smile_2
+  rotate: false
+  xy: 722, 23
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+B_eye_1_Surprise_1
+  rotate: false
+  xy: 586, 590
+  size: 200, 183
+  orig: 200, 183
+  offset: 0, 0
+  index: -1
+B_eye_1_Surprise_2
+  rotate: false
+  xy: 620, 2
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+B_eye_1_Worry_1
+  rotate: false
+  xy: 546, 291
+  size: 207, 149
+  orig: 207, 149
+  offset: 0, 0
+  index: -1
+B_eye_1_Worry_2
+  rotate: true
+  xy: 632, 131
+  size: 158, 111
+  orig: 158, 111
+  offset: 0, 0
+  index: -1
+dog_1
+  rotate: true
+  xy: 304, 6
+  size: 101, 153
+  orig: 101, 153
+  offset: 0, 0
+  index: -1
+dog_2
+  rotate: false
+  xy: 2, 695
+  size: 540, 326
+  orig: 540, 326
+  offset: 0, 0
+  index: -1
+dog_3
+  rotate: false
+  xy: 906, 110
+  size: 132, 142
+  orig: 132, 142
+  offset: 0, 0
+  index: -1
+dog_4
+  rotate: false
+  xy: 2, 319
+  size: 452, 374
+  orig: 452, 374
+  offset: 0, 0
+  index: -1
+dog_6
+  rotate: false
+  xy: 2, 40
+  size: 300, 277
+  orig: 300, 277
+  offset: 0, 0
+  index: -1
+dog_7
+  rotate: false
+  xy: 466, 10
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+dog_8
+  rotate: true
+  xy: 544, 775
+  size: 246, 398
+  orig: 246, 398
+  offset: 0, 0
+  index: -1

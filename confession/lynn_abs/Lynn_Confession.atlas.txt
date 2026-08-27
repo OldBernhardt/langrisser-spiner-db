@@ -1,0 +1,111 @@
+
+Lynn_Confession.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 289
+  size: 733, 1582
+  orig: 733, 1582
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 402, 87
+  size: 200, 359
+  orig: 200, 359
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1586, 801
+  size: 354, 221
+  orig: 354, 221
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1586, 577
+  size: 281, 222
+  orig: 281, 222
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1586, 319
+  size: 152, 256
+  orig: 152, 256
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 49
+  size: 238, 398
+  orig: 238, 398
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 763, 124
+  size: 163, 256
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 23
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 763, 106
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1021, 277
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1942, 999
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1869, 782
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1586, 308
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 402, 62
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

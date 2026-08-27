@@ -1,0 +1,181 @@
+
+Lana_Sonia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lana/body
+  rotate: false
+  xy: 2, 902
+  size: 758, 1079
+  orig: 758, 1079
+  offset: 0, 0
+  index: -1
+Lana/hair_1
+  rotate: false
+  xy: 620, 564
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+Lana/hair_2
+  rotate: false
+  xy: 357, 561
+  size: 261, 339
+  orig: 261, 339
+  offset: 0, 0
+  index: -1
+Lana/hair_3
+  rotate: false
+  xy: 1772, 1644
+  size: 229, 337
+  orig: 229, 337
+  offset: 0, 0
+  index: -1
+Lana/hair_4
+  rotate: true
+  xy: 1134, 771
+  size: 161, 276
+  orig: 161, 276
+  offset: 0, 0
+  index: -1
+Lana/hair_5
+  rotate: false
+  xy: 1481, 1354
+  size: 123, 627
+  orig: 123, 627
+  offset: 0, 0
+  index: -1
+Lana/hair_6
+  rotate: false
+  xy: 1606, 1442
+  size: 164, 539
+  orig: 164, 539
+  offset: 0, 0
+  index: -1
+Lana/highlight_left_1
+  rotate: false
+  xy: 1772, 1626
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Lana/highlight_left_2
+  rotate: false
+  xy: 205, 76
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Lana/highlight_left_3
+  rotate: false
+  xy: 832, 680
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Lana/highlight_right_1
+  rotate: false
+  xy: 2003, 1964
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Lana/highlight_right_2
+  rotate: false
+  xy: 1134, 759
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Lana/highlight_right_3
+  rotate: false
+  xy: 1412, 921
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Lana/toushi
+  rotate: false
+  xy: 832, 692
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+Sonia/body
+  rotate: false
+  xy: 762, 934
+  size: 717, 1047
+  orig: 717, 1047
+  offset: 0, 0
+  index: -1
+Sonia/hair_1
+  rotate: false
+  xy: 1481, 1049
+  size: 91, 303
+  orig: 91, 303
+  offset: 0, 0
+  index: -1
+Sonia/hair_2
+  rotate: false
+  xy: 205, 88
+  size: 165, 341
+  orig: 165, 341
+  offset: 0, 0
+  index: -1
+Sonia/hair_3
+  rotate: false
+  xy: 2, 20
+  size: 201, 409
+  orig: 201, 409
+  offset: 0, 0
+  index: -1
+Sonia/hair_4
+  rotate: false
+  xy: 2, 431
+  size: 353, 469
+  orig: 353, 469
+  offset: 0, 0
+  index: -1
+Sonia/highlight_left_1
+  rotate: false
+  xy: 1606, 1423
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Sonia/highlight_left_2
+  rotate: false
+  xy: 762, 922
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Sonia/highlight_left_3
+  rotate: false
+  xy: 1574, 1344
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Sonia/highlight_right_1
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sonia/highlight_right_2
+  rotate: false
+  xy: 357, 548
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Sonia/highlight_right_3
+  rotate: false
+  xy: 1481, 1038
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

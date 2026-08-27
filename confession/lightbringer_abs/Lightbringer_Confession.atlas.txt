@@ -1,0 +1,146 @@
+
+Lightbringer_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 346
+  size: 1738, 1649
+  orig: 1738, 1649
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1742, 1650
+  size: 191, 345
+  orig: 191, 345
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 101
+  size: 243, 426
+  orig: 243, 426
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 430, 176
+  size: 168, 294
+  orig: 168, 294
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1742, 1428
+  size: 181, 220
+  orig: 181, 220
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1935, 1792
+  size: 73, 203
+  orig: 73, 203
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 2, 29
+  size: 70, 257
+  orig: 70, 257
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1925, 1639
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 726, 305
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1742, 1401
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 430, 149
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 430, 127
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 751, 335
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 463, 160
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 2010, 1969
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 726, 321
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shan_1
+  rotate: false
+  xy: 261, 75
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+shan_2
+  rotate: false
+  xy: 2010, 1946
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+shan_3
+  rotate: false
+  xy: 1935, 1770
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Radam.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 351, 79
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 1496, 683
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 139
+  size: 456, 411
+  orig: 456, 411
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 2
+  size: 135, 187
+  orig: 135, 187
+  offset: 0, 0
+  index: -1
+chujiao_1
+  rotate: false
+  xy: 712, 578
+  size: 256, 84
+  orig: 256, 84
+  offset: 0, 0
+  index: -1
+chujiao_2
+  rotate: true
+  xy: 460, 290
+  size: 260, 45
+  orig: 260, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 552
+  size: 708, 434
+  orig: 708, 434
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 507, 441
+  size: 134, 109
+  orig: 134, 109
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 970, 605
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+qianzi_out_1
+  rotate: false
+  xy: 712, 664
+  size: 782, 322
+  orig: 782, 322
+  offset: 0, 0
+  index: -1
+qianzi_out_2
+  rotate: false
+  xy: 191, 36
+  size: 158, 101
+  orig: 158, 101
+  offset: 0, 0
+  index: -1
+qianzi_out_3
+  rotate: true
+  xy: 1496, 715
+  size: 271, 506
+  orig: 271, 506
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Light&Shadow_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 784
+  size: 1174, 1262
+  orig: 1174, 1262
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 29
+  size: 653, 753
+  orig: 653, 753
+  offset: 0, 0
+  index: -1
+hair_3a
+  rotate: false
+  xy: 657, 45
+  size: 329, 737
+  orig: 329, 737
+  offset: 0, 0
+  index: -1
+hair_6a
+  rotate: false
+  xy: 1552, 1182
+  size: 425, 864
+  orig: 425, 864
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 2, 13
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 1939, 1173
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 2, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1979, 2036
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+weijin1
+  rotate: true
+  xy: 1178, 465
+  size: 1581, 372
+  orig: 1581, 372
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: false
+  xy: 1552, 327
+  size: 385, 853
+  orig: 385, 853
+  offset: 0, 0
+  index: -1

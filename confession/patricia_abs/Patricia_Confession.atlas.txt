@@ -1,0 +1,181 @@
+
+Patricia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_out_down
+  rotate: false
+  xy: 1435, 117
+  size: 530, 150
+  orig: 530, 150
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 840, 71
+  size: 593, 196
+  orig: 593, 196
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 750
+  size: 827, 1296
+  orig: 827, 1296
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1125, 1002
+  size: 466, 240
+  orig: 466, 240
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 2, 3
+  size: 745, 455
+  orig: 745, 455
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 840, 1706
+  size: 888, 340
+  orig: 888, 340
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 840, 1244
+  size: 783, 460
+  orig: 783, 460
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1569, 856
+  size: 438, 142
+  orig: 438, 142
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 831, 766
+  size: 292, 476
+  orig: 292, 476
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1125, 700
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1569, 269
+  size: 427, 585
+  orig: 427, 585
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1593, 1000
+  size: 112, 449
+  orig: 112, 449
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 459, 81
+  size: 667, 379
+  orig: 667, 379
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1730, 1938
+  size: 108, 313
+  orig: 108, 313
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1730, 1500
+  size: 436, 306
+  orig: 436, 306
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 658, 19
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 639, 16
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: true
+  xy: 663, 8
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: true
+  xy: 639, 43
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: true
+  xy: 673, 9
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: true
+  xy: 639, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: false
+  xy: 669, 71
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 459, 3
+  size: 178, 76
+  orig: 178, 76
+  offset: 0, 0
+  index: -1
+hudiejie_1
+  rotate: true
+  xy: 1625, 1114
+  size: 384, 393
+  orig: 384, 393
+  offset: 0, 0
+  index: -1
+hudiejie_2
+  rotate: true
+  xy: 840, 369
+  size: 329, 328
+  orig: 329, 328
+  offset: 0, 0
+  index: -1

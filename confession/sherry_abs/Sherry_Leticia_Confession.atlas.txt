@@ -1,0 +1,188 @@
+
+Sherry_Leticia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leticia/body
+  rotate: false
+  xy: 2, 979
+  size: 832, 1049
+  orig: 832, 1049
+  offset: 0, 0
+  index: -1
+Leticia/face
+  rotate: true
+  xy: 1727, 1706
+  size: 322, 309
+  orig: 322, 309
+  offset: 0, 0
+  index: -1
+Leticia/hair_1
+  rotate: false
+  xy: 895, 731
+  size: 140, 246
+  orig: 140, 246
+  offset: 0, 0
+  index: -1
+Leticia/hair_2
+  rotate: false
+  xy: 1467, 1395
+  size: 118, 261
+  orig: 118, 261
+  offset: 0, 0
+  index: -1
+Leticia/hair_3
+  rotate: false
+  xy: 699, 323
+  size: 155, 253
+  orig: 155, 253
+  offset: 0, 0
+  index: -1
+Leticia/hair_4
+  rotate: false
+  xy: 836, 1253
+  size: 202, 775
+  orig: 202, 775
+  offset: 0, 0
+  index: -1
+Leticia/hair_5
+  rotate: false
+  xy: 1040, 1346
+  size: 151, 682
+  orig: 151, 682
+  offset: 0, 0
+  index: -1
+Leticia/hair_6
+  rotate: true
+  xy: 1040, 1261
+  size: 83, 152
+  orig: 83, 152
+  offset: 0, 0
+  index: -1
+Leticia/hand
+  rotate: false
+  xy: 1460, 1658
+  size: 265, 370
+  orig: 265, 370
+  offset: 0, 0
+  index: -1
+Leticia/highlight_left_1
+  rotate: false
+  xy: 699, 50
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Leticia/highlight_left_2
+  rotate: false
+  xy: 1587, 1414
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Leticia/highlight_left_3
+  rotate: true
+  xy: 2038, 2019
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Leticia/highlight_right_1
+  rotate: false
+  xy: 895, 716
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Leticia/highlight_right_2
+  rotate: false
+  xy: 1193, 1364
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Leticia/highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Sherry/body
+  rotate: false
+  xy: 2, 34
+  size: 695, 943
+  orig: 695, 943
+  offset: 0, 0
+  index: -1
+Sherry/hair_1
+  rotate: false
+  xy: 699, 65
+  size: 149, 256
+  orig: 149, 256
+  offset: 0, 0
+  index: -1
+Sherry/hair_2
+  rotate: false
+  xy: 1587, 1425
+  size: 140, 231
+  orig: 140, 231
+  offset: 0, 0
+  index: -1
+Sherry/hair_3
+  rotate: false
+  xy: 1193, 1375
+  size: 272, 280
+  orig: 272, 280
+  offset: 0, 0
+  index: -1
+Sherry/hair_4
+  rotate: false
+  xy: 699, 578
+  size: 194, 399
+  orig: 194, 399
+  offset: 0, 0
+  index: -1
+Sherry/hair_5
+  rotate: false
+  xy: 836, 979
+  size: 203, 272
+  orig: 203, 272
+  offset: 0, 0
+  index: -1
+Sherry/hand
+  rotate: false
+  xy: 1193, 1657
+  size: 265, 371
+  orig: 265, 371
+  offset: 0, 0
+  index: -1
+Sherry/highlight_left_1
+  rotate: false
+  xy: 856, 556
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Sherry/highlight_left_2
+  rotate: false
+  xy: 1467, 1380
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Sherry/highlight_right_1
+  rotate: false
+  xy: 2, 11
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Sherry/highlight_right_2
+  rotate: false
+  xy: 1727, 1692
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

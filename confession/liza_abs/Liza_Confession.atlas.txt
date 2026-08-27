@@ -1,0 +1,132 @@
+
+Liza_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 817
+  size: 1457, 1229
+  orig: 1457, 1229
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1461, 1153
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1461, 1693
+  size: 213, 353
+  orig: 213, 353
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1676, 1743
+  size: 189, 303
+  orig: 189, 303
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 439
+  size: 275, 376
+  orig: 275, 376
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 279, 489
+  size: 194, 326
+  orig: 194, 326
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 2, 99
+  size: 222, 338
+  orig: 222, 338
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1461, 1337
+  size: 160, 354
+  orig: 160, 354
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 475, 620
+  size: 257, 195
+  orig: 257, 195
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 2, 11
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 475, 607
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 734, 803
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 226, 402
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1623, 1668
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1867, 2035
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 279, 451
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1676, 1717
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1

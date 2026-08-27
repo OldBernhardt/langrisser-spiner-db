@@ -1,0 +1,125 @@
+
+Patsyr_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 2, 181
+  size: 457, 707
+  orig: 457, 707
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 640
+  size: 1695, 1348
+  orig: 1695, 1348
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1699, 1501
+  size: 305, 487
+  orig: 305, 487
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1699, 881
+  size: 274, 276
+  orig: 274, 276
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 2, 18
+  size: 220, 161
+  orig: 220, 161
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 711, 226
+  size: 412, 682
+  orig: 412, 682
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1699, 666
+  size: 111, 213
+  orig: 111, 213
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1395, 64
+  size: 486, 574
+  orig: 486, 574
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1699, 1159
+  size: 300, 340
+  orig: 300, 340
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 711, 209
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1812, 874
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1975, 1143
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 2006, 1971
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 224, 166
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2006, 1963
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1699, 653
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

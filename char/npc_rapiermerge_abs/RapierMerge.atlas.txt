@@ -1,0 +1,90 @@
+
+RapierMerge.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 2, 435
+  size: 380, 474
+  orig: 380, 474
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 911
+  size: 1066, 1124
+  orig: 1066, 1124
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 872, 861
+  size: 149, 48
+  orig: 149, 48
+  offset: 0, 0
+  index: -1
+guanzi_1
+  rotate: true
+  xy: 384, 505
+  size: 195, 458
+  orig: 195, 458
+  offset: 0, 0
+  index: -1
+guanzi_2
+  rotate: false
+  xy: 1070, 1168
+  size: 221, 454
+  orig: 221, 454
+  offset: 0, 0
+  index: -1
+guanzi_3
+  rotate: false
+  xy: 1293, 1169
+  size: 171, 453
+  orig: 171, 453
+  offset: 0, 0
+  index: -1
+guanzi_4
+  rotate: false
+  xy: 1070, 1624
+  size: 417, 411
+  orig: 417, 411
+  offset: 0, 0
+  index: -1
+guanzi_5
+  rotate: true
+  xy: 2, 2
+  size: 431, 234
+  orig: 431, 234
+  offset: 0, 0
+  index: -1
+guanzi_6
+  rotate: true
+  xy: 1489, 1805
+  size: 230, 431
+  orig: 230, 431
+  offset: 0, 0
+  index: -1
+guanzi_7
+  rotate: true
+  xy: 384, 702
+  size: 207, 486
+  orig: 207, 486
+  offset: 0, 0
+  index: -1
+guanzi_8
+  rotate: true
+  xy: 238, 65
+  size: 368, 130
+  orig: 368, 130
+  offset: 0, 0
+  index: -1
+guanzi_9
+  rotate: false
+  xy: 1489, 1611
+  size: 320, 192
+  orig: 320, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+Eshean_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 813
+  size: 1843, 1233
+  orig: 1843, 1233
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1847, 1691
+  size: 355, 144
+  orig: 355, 144
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 19
+  size: 194, 237
+  orig: 194, 237
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 714, 690
+  size: 121, 247
+  orig: 121, 247
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1847, 944
+  size: 73, 195
+  orig: 73, 195
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 336, 534
+  size: 153, 306
+  orig: 153, 306
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 215
+  size: 242, 257
+  orig: 242, 257
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 644, 650
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+highlight_10
+  rotate: true
+  xy: 2026, 2028
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 336, 520
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 246, 257
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 963, 714
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: false
+  xy: 1223, 792
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 1993, 2019
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: false
+  xy: 1847, 934
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 2, 5
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+highlight_9
+  rotate: false
+  xy: 1923, 1407
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shipin_1
+  rotate: true
+  xy: 336, 689
+  size: 122, 376
+  orig: 122, 376
+  offset: 0, 0
+  index: -1
+shipin_2
+  rotate: false
+  xy: 2, 474
+  size: 332, 337
+  orig: 332, 337
+  offset: 0, 0
+  index: -1
+shipin_3
+  rotate: false
+  xy: 1847, 1141
+  size: 74, 287
+  orig: 74, 287
+  offset: 0, 0
+  index: -1
+shipin_4
+  rotate: true
+  xy: 963, 732
+  size: 79, 258
+  orig: 79, 258
+  offset: 0, 0
+  index: -1
+shipin_5
+  rotate: false
+  xy: 246, 268
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+shipin_6
+  rotate: false
+  xy: 1847, 1430
+  size: 177, 259
+  orig: 177, 259
+  offset: 0, 0
+  index: -1
