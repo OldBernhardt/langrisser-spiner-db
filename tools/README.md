@@ -53,10 +53,5 @@ node .\tools\generate_catalog.js
 ```
 
 This writes `catalog.json` beside `data.json`, so all asset URLs remain relative
-to the catalog itself. Incomplete entries are skipped, and thumbnails default to
-`null`. To use one placeholder thumbnail for every item, pass its URL (relative
-URLs resolve from `catalog.json`):
-
-```powershell
-node .\tools\generate_catalog.js --thumbnail images/default-thumbnail.png
-```
+to the catalog itself. Incomplete entries are skipped, and the optional thumbnail
+field is omitted.

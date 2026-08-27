@@ -4,14 +4,6 @@ const path = require('path');
 const repositoryDirectory = path.resolve(__dirname, '..');
 const dataPath = path.join(repositoryDirectory, 'data.json');
 const catalogPath = path.join(repositoryDirectory, 'catalog.json');
-const thumbnailFlagIndex = process.argv.indexOf('--thumbnail');
-const defaultThumbnailUrl = thumbnailFlagIndex === -1
-  ? null
-  : process.argv[thumbnailFlagIndex + 1];
-
-if (thumbnailFlagIndex !== -1 && !defaultThumbnailUrl) {
-  throw new Error('--thumbnail requires a URL');
-}
 
 const collectionTitles = {
   char: 'Characters',
@@ -83,7 +75,6 @@ for (const [collectionName, characters] of Object.entries(data)) {
         collection: collectionTitles[collectionName] || words(collectionName),
         tags: tagsFor(collectionName, characterName, variantName),
         format: 'skel',
-        thumbnail: defaultThumbnailUrl ? { url: defaultThumbnailUrl } : null,
         bundle: {
           skeleton: { url: files.skel, format: 'auto' },
           atlas: { url: files.atlas },
