@@ -1,0 +1,13 @@
+
+Brightsummoner_BG.png
+size: 4401,4401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 311
+  size: 4397, 4088
+  orig: 4397, 4088
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Dragonslayer_Skin01_BG.png
+size: 4150,4150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 488
+  size: 4146, 3660
+  orig: 4146, 3660
+  offset: 0, 0
+  index: -1

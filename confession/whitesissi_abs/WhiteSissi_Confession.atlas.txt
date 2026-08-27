@@ -1,0 +1,181 @@
+
+WhiteSissi_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 569
+  size: 1478, 1471
+  orig: 1478, 1471
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: false
+  xy: 933, 241
+  size: 294, 326
+  orig: 294, 326
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: true
+  xy: 1229, 272
+  size: 295, 233
+  orig: 295, 233
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1899, 1413
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1687, 1343
+  size: 697, 210
+  orig: 697, 210
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1687, 1074
+  size: 267, 226
+  orig: 267, 226
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 933, 39
+  size: 200, 327
+  orig: 200, 327
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1482, 755
+  size: 346, 190
+  orig: 346, 190
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1482, 619
+  size: 146, 134
+  orig: 146, 134
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1899, 1764
+  size: 138, 276
+  orig: 138, 276
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1899, 1526
+  size: 101, 236
+  orig: 101, 236
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1482, 1103
+  size: 203, 937
+  orig: 203, 937
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1899, 1343
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1674, 842
+  size: 154, 230
+  orig: 154, 230
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: true
+  xy: 1262, 245
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1482, 598
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1630, 741
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: true
+  xy: 1464, 540
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1229, 244
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1674, 1081
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2002, 1749
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1830, 1061
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+lingdang_1
+  rotate: false
+  xy: 2, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+lingdang_2
+  rotate: false
+  xy: 1674, 759
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 40
+  size: 527, 929
+  orig: 527, 929
+  offset: 0, 0
+  index: -1

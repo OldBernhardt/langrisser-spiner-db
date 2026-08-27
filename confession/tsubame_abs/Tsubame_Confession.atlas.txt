@@ -1,0 +1,125 @@
+
+Tsubame_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 780
+  size: 1991, 1266
+  orig: 1991, 1266
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 100
+  size: 512, 678
+  orig: 512, 678
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 2, 21
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 1575, 742
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: true
+  xy: 1220, 615
+  size: 163, 353
+  orig: 163, 353
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: true
+  xy: 814, 538
+  size: 240, 404
+  orig: 240, 404
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 516, 411
+  size: 296, 367
+  orig: 296, 367
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 814, 432
+  size: 104, 231
+  orig: 104, 231
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 516, 241
+  size: 214, 168
+  orig: 214, 168
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1220, 576
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 11
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 732, 388
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1995, 2004
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 814, 422
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 516, 216
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1047, 528
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Urmar.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arios
+  rotate: false
+  xy: 1886, 395
+  size: 160, 236
+  orig: 160, 236
+  offset: 0, 0
+  index: -1
+Ulmar
+  rotate: true
+  xy: 1775, 52
+  size: 176, 235
+  orig: 176, 235
+  offset: 0, 0
+  index: -1
+Yabagh
+  rotate: true
+  xy: 1534, 66
+  size: 166, 239
+  orig: 166, 239
+  offset: 0, 0
+  index: -1
+arm_inner
+  rotate: true
+  xy: 1090, 122
+  size: 201, 442
+  orig: 201, 442
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: false
+  xy: 735, 283
+  size: 353, 719
+  orig: 353, 719
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1923, 893
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+blood_Special
+  rotate: true
+  xy: 420, 181
+  size: 47, 135
+  orig: 47, 135
+  offset: 0, 0
+  index: -1
+changpao_inner
+  rotate: true
+  xy: 2, 2
+  size: 121, 797
+  orig: 121, 797
+  offset: 0, 0
+  index: -1
+changpao_inner_1
+  rotate: false
+  xy: 420, 230
+  size: 313, 772
+  orig: 313, 772
+  offset: 0, 0
+  index: -1
+changpao_out
+  rotate: false
+  xy: 2, 125
+  size: 416, 877
+  orig: 416, 877
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 1596, 633
+  size: 325, 369
+  orig: 325, 369
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 1596, 420
+  size: 211, 288
+  orig: 211, 288
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: true
+  xy: 1090, 325
+  size: 245, 404
+  orig: 245, 404
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: false
+  xy: 1090, 572
+  size: 504, 430
+  orig: 504, 430
+  offset: 0, 0
+  index: -1
+mask_Special_1
+  rotate: true
+  xy: 1806, 230
+  size: 163, 239
+  orig: 163, 239
+  offset: 0, 0
+  index: -1
+weijing_1
+  rotate: false
+  xy: 1534, 234
+  size: 270, 184
+  orig: 270, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Humbaba_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 342
+  size: 1169, 1685
+  orig: 1169, 1685
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1651, 511
+  size: 189, 371
+  orig: 189, 371
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1651, 335
+  size: 174, 338
+  orig: 174, 338
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 1173, 639
+  size: 1388, 455
+  orig: 1388, 455
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 1630, 898
+  size: 374, 1129
+  orig: 374, 1129
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1933, 187
+  size: 43, 146
+  orig: 43, 146
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1580, 32
+  size: 253, 137
+  orig: 253, 137
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1630, 702
+  size: 402, 194
+  orig: 402, 194
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1605, 171
+  size: 162, 326
+  orig: 162, 326
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1835, 12
+  size: 157, 200
+  orig: 157, 200
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1160, 76
+  size: 154, 418
+  orig: 154, 418
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 636, 69
+  size: 271, 522
+  orig: 271, 522
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 2, 75
+  size: 632, 265
+  orig: 632, 265
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2006, 2011
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1580, 222
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: true
+  xy: 1630, 651
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 54
+  size: 179, 19
+  orig: 179, 19
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 1630, 676
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1160, 331
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1605, 380
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1933, 171
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 183, 2
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: true
+  xy: 1173, 399
+  size: 238, 476
+  orig: 238, 476
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: true
+  xy: 1173, 232
+  size: 165, 430
+  orig: 165, 430
+  offset: 0, 0
+  index: -1

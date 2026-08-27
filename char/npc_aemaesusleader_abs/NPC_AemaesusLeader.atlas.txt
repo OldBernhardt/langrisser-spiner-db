@@ -1,0 +1,223 @@
+
+NPC_AemaesusLeader.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood_1
+  rotate: true
+  xy: 2, 2
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Blood_2
+  rotate: true
+  xy: 1394, 749
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+arm_inner_down
+  rotate: false
+  xy: 418, 223
+  size: 348, 190
+  orig: 348, 190
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 768, 96
+  size: 262, 405
+  orig: 262, 405
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 819, 533
+  size: 237, 573
+  orig: 237, 573
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 1394, 394
+  size: 180, 463
+  orig: 180, 463
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 418, 415
+  size: 399, 607
+  orig: 399, 607
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 320
+  size: 414, 702
+  orig: 414, 702
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: true
+  xy: 1457, 741
+  size: 50, 586
+  orig: 50, 586
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: true
+  xy: 1370, 359
+  size: 33, 447
+  orig: 33, 447
+  offset: 0, 0
+  index: -1
+daizi_3
+  rotate: true
+  xy: 637, 17
+  size: 77, 415
+  orig: 77, 415
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: false
+  xy: 1054, 56
+  size: 119, 38
+  orig: 119, 38
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 1054, 20
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: false
+  xy: 637, 185
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 637, 149
+  size: 120, 34
+  orig: 120, 34
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: false
+  xy: 1544, 323
+  size: 122, 34
+  orig: 122, 34
+  offset: 0, 0
+  index: -1
+eye_Normal_1
+  rotate: true
+  xy: 1859, 450
+  size: 124, 36
+  orig: 124, 36
+  offset: 0, 0
+  index: -1
+eye_Normal_2
+  rotate: false
+  xy: 1175, 61
+  size: 123, 33
+  orig: 123, 33
+  offset: 0, 0
+  index: -1
+eye_Normal_3
+  rotate: true
+  xy: 1544, 198
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1175, 96
+  size: 275, 261
+  orig: 275, 261
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1452, 128
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1918, 616
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 637, 107
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2021, 690
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: true
+  xy: 2, 28
+  size: 290, 407
+  orig: 290, 407
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 411, 27
+  size: 224, 194
+  orig: 224, 194
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: true
+  xy: 819, 360
+  size: 171, 549
+  orig: 171, 549
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 1457, 793
+  size: 229, 589
+  orig: 229, 589
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 1394, 576
+  size: 163, 522
+  orig: 163, 522
+  offset: 0, 0
+  index: -1
+xiongshi
+  rotate: false
+  xy: 1452, 168
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1
+yaodai10
+  rotate: true
+  xy: 819, 772
+  size: 250, 636
+  orig: 250, 636
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+Licorice_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 932
+  size: 745, 1114
+  orig: 745, 1114
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1061, 1629
+  size: 295, 417
+  orig: 295, 417
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 1658, 1919
+  size: 187, 127
+  orig: 187, 127
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 241, 188
+  size: 236, 152
+  orig: 236, 152
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 403, 676
+  size: 257, 254
+  orig: 257, 254
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: true
+  xy: 2, 56
+  size: 874, 237
+  orig: 874, 237
+  offset: 0, 0
+  index: -1
+hair_14
+  rotate: false
+  xy: 749, 1084
+  size: 310, 962
+  orig: 310, 962
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 749, 940
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1847, 1936
+  size: 110, 199
+  orig: 110, 199
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 662, 723
+  size: 76, 207
+  orig: 76, 207
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 403, 479
+  size: 90, 195
+  orig: 90, 195
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 241, 426
+  size: 160, 504
+  orig: 160, 504
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1061, 1190
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1061, 1329
+  size: 221, 298
+  orig: 221, 298
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 241, 64
+  size: 152, 122
+  orig: 152, 122
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1658, 1891
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 662, 694
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 960, 1054
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 403, 449
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1223, 1299
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1587, 1710
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 495, 653
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1061, 1164
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hudie_1
+  rotate: false
+  xy: 1358, 1745
+  size: 298, 301
+  orig: 298, 301
+  offset: 0, 0
+  index: -1
+hudie_2
+  rotate: false
+  xy: 1284, 1564
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 1358, 1632
+  size: 227, 111
+  orig: 227, 111
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 2, 2
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1

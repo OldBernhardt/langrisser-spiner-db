@@ -1,0 +1,132 @@
+
+Clarett_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 969
+  size: 1422, 1067
+  orig: 1422, 1067
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 165, 123
+  size: 132, 229
+  orig: 132, 229
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 436, 441
+  size: 134, 269
+  orig: 134, 269
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 878, 711
+  size: 136, 256
+  orig: 136, 256
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 28
+  size: 161, 324
+  orig: 161, 324
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1426, 1154
+  size: 227, 253
+  orig: 227, 253
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1771, 1732
+  size: 171, 304
+  orig: 171, 304
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 436, 577
+  size: 440, 390
+  orig: 440, 390
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1426, 1409
+  size: 343, 627
+  orig: 343, 627
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 2, 354
+  size: 432, 613
+  orig: 432, 613
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 707, 566
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 878, 697
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1771, 1714
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1426, 1129
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1944, 2026
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 436, 426
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1655, 1386
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1

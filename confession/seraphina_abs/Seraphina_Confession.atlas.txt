@@ -1,0 +1,188 @@
+
+Seraphina_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 535
+  size: 1484, 1481
+  orig: 1484, 1481
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1488, 622
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 1301, 367
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 2, 15
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 1049, 216
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+fx_4
+  rotate: false
+  xy: 1938, 1634
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1938, 1678
+  size: 87, 338
+  orig: 87, 338
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 733, 272
+  size: 261, 566
+  orig: 261, 566
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1488, 1133
+  size: 304, 444
+  orig: 304, 444
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1488, 1579
+  size: 448, 437
+  orig: 448, 437
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 733, 17
+  size: 253, 314
+  orig: 253, 314
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1301, 396
+  size: 107, 137
+  orig: 107, 137
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1794, 1507
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 2, 67
+  size: 466, 729
+  orig: 466, 729
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1488, 719
+  size: 412, 316
+  orig: 412, 316
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1410, 505
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1794, 1489
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1086, 265
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 1830, 1564
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1607, 700
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 53, 58
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2027, 1969
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1049, 210
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1488, 604
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 2027, 1983
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1

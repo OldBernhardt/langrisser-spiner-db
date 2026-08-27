@@ -1,0 +1,111 @@
+
+Chancellor_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 648
+  size: 1627, 1398
+  orig: 1627, 1398
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: false
+  xy: 366, 191
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 324
+  size: 322, 1159
+  orig: 322, 1159
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1631, 1678
+  size: 346, 368
+  orig: 346, 368
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1163, 228
+  size: 418, 615
+  orig: 418, 615
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1631, 1462
+  size: 179, 214
+  orig: 179, 214
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2, 15
+  size: 307, 362
+  orig: 307, 362
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2008, 2042
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 449, 310
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 366, 175
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1631, 1434
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1812, 1661
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1979, 2019
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1979, 2011
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Fana_Sofia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fana/arm_out_down
+  rotate: false
+  xy: 745, 410
+  size: 274, 812
+  orig: 274, 812
+  offset: 0, 0
+  index: -1
+Fana/arm_out_up
+  rotate: true
+  xy: 1709, 486
+  size: 360, 267
+  orig: 360, 267
+  offset: 0, 0
+  index: -1
+Fana/body
+  rotate: false
+  xy: 2, 1224
+  size: 1190, 819
+  orig: 1190, 819
+  offset: 0, 0
+  index: -1
+Fana/face
+  rotate: false
+  xy: 1194, 1250
+  size: 803, 793
+  orig: 803, 793
+  offset: 0, 0
+  index: -1
+Fana/hair_1
+  rotate: true
+  xy: 1328, 848
+  size: 121, 608
+  orig: 121, 608
+  offset: 0, 0
+  index: -1
+Fana/hair_2
+  rotate: false
+  xy: 1328, 971
+  size: 644, 277
+  orig: 644, 277
+  offset: 0, 0
+  index: -1
+Fana/hair_3
+  rotate: false
+  xy: 1021, 504
+  size: 305, 718
+  orig: 305, 718
+  offset: 0, 0
+  index: -1
+Fana/hair_4
+  rotate: true
+  xy: 2, 92
+  size: 73, 698
+  orig: 73, 698
+  offset: 0, 0
+  index: -1
+Fana/highlight_left_1
+  rotate: false
+  xy: 1999, 2023
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Fana/highlight_left_2
+  rotate: false
+  xy: 126, 80
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Fana/highlight_left_3
+  rotate: false
+  xy: 1938, 960
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Fana/highlight_right_1
+  rotate: true
+  xy: 1194, 1224
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Fana/highlight_right_2
+  rotate: false
+  xy: 1399, 141
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Fana/highlight_right_3
+  rotate: false
+  xy: 1021, 494
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Sofia/body
+  rotate: false
+  xy: 2, 167
+  size: 741, 1055
+  orig: 741, 1055
+  offset: 0, 0
+  index: -1
+Sofia/hair_1
+  rotate: true
+  xy: 745, 160
+  size: 248, 332
+  orig: 248, 332
+  offset: 0, 0
+  index: -1
+Sofia/hair_2
+  rotate: true
+  xy: 1079, 138
+  size: 364, 318
+  orig: 364, 318
+  offset: 0, 0
+  index: -1
+Sofia/hair_3
+  rotate: false
+  xy: 1399, 155
+  size: 204, 350
+  orig: 204, 350
+  offset: 0, 0
+  index: -1
+Sofia/hair_4
+  rotate: true
+  xy: 1328, 507
+  size: 339, 379
+  orig: 339, 379
+  offset: 0, 0
+  index: -1
+Sofia/hair_5
+  rotate: true
+  xy: 2, 2
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+Sofia/highlight_left_1
+  rotate: false
+  xy: 1974, 1229
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Sofia/highlight_left_2
+  rotate: false
+  xy: 1605, 494
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Sofia/highlight_left_3
+  rotate: false
+  xy: 1217, 1240
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Sofia/highlight_right_1
+  rotate: false
+  xy: 702, 152
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Sofia/highlight_right_2
+  rotate: false
+  xy: 1999, 2012
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Sofia/highlight_right_3
+  rotate: false
+  xy: 2024, 2036
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

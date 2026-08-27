@@ -1,0 +1,174 @@
+
+Flakia_Freya_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flakia/arm_out_down
+  rotate: false
+  xy: 2, 328
+  size: 497, 527
+  orig: 497, 527
+  offset: 0, 0
+  index: -1
+Flakia/body
+  rotate: false
+  xy: 778, 994
+  size: 865, 975
+  orig: 865, 975
+  offset: 0, 0
+  index: -1
+Flakia/hair_1
+  rotate: true
+  xy: 1645, 939
+  size: 172, 244
+  orig: 172, 244
+  offset: 0, 0
+  index: -1
+Flakia/hair_2
+  rotate: false
+  xy: 501, 420
+  size: 271, 435
+  orig: 271, 435
+  offset: 0, 0
+  index: -1
+Flakia/hair_3
+  rotate: false
+  xy: 1486, 610
+  size: 165, 199
+  orig: 165, 199
+  offset: 0, 0
+  index: -1
+Flakia/highlight_left_1
+  rotate: false
+  xy: 1160, 612
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Flakia/highlight_left_2
+  rotate: false
+  xy: 1593, 985
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Flakia/highlight_left_3
+  rotate: false
+  xy: 444, 320
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+Freya/arm_out_down
+  rotate: true
+  xy: 778, 836
+  size: 156, 498
+  orig: 156, 498
+  offset: 0, 0
+  index: -1
+Freya/hair_1
+  rotate: true
+  xy: 1278, 811
+  size: 181, 313
+  orig: 181, 313
+  offset: 0, 0
+  index: -1
+Freya/hair_2
+  rotate: true
+  xy: 1645, 1113
+  size: 366, 305
+  orig: 366, 305
+  offset: 0, 0
+  index: -1
+Freya/hair_3
+  rotate: true
+  xy: 774, 477
+  size: 143, 384
+  orig: 143, 384
+  offset: 0, 0
+  index: -1
+Freya/hair_4
+  rotate: false
+  xy: 1645, 1481
+  size: 350, 488
+  orig: 350, 488
+  offset: 0, 0
+  index: -1
+Freya/hair_5
+  rotate: true
+  xy: 2, 22
+  size: 304, 440
+  orig: 304, 440
+  offset: 0, 0
+  index: -1
+Freya/hair_6
+  rotate: true
+  xy: 774, 622
+  size: 212, 449
+  orig: 212, 449
+  offset: 0, 0
+  index: -1
+Freya/hair_7
+  rotate: false
+  xy: 1997, 1840
+  size: 47, 129
+  orig: 47, 129
+  offset: 0, 0
+  index: -1
+Freya/hair_inner
+  rotate: false
+  xy: 2, 857
+  size: 774, 1112
+  orig: 774, 1112
+  offset: 0, 0
+  index: -1
+Freya/hand
+  rotate: false
+  xy: 1225, 609
+  size: 259, 200
+  orig: 259, 200
+  offset: 0, 0
+  index: -1
+Freya/highlight_left_1
+  rotate: false
+  xy: 501, 400
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Freya/highlight_left_2
+  rotate: false
+  xy: 1225, 819
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Freya/highlight_left_3
+  rotate: false
+  xy: 774, 462
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Freya/highlight_right_1
+  rotate: false
+  xy: 2, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Freya/highlight_right_2
+  rotate: false
+  xy: 1952, 1464
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Freya/highlight_right_3
+  rotate: false
+  xy: 1891, 1103
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1

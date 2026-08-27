@@ -1,0 +1,153 @@
+
+Azusa_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 414
+  size: 1505, 1632
+  orig: 1505, 1632
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1678, 1823
+  size: 232, 223
+  orig: 232, 223
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 74
+  size: 115, 317
+  orig: 115, 317
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1509, 1699
+  size: 167, 347
+  orig: 167, 347
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1594, 1683
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1678, 1724
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1912, 1984
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 44, 65
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 2, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1753, 1809
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1963, 2038
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 321, 181
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shan_1
+  rotate: false
+  xy: 333, 270
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+shan_2
+  rotate: false
+  xy: 571, 373
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+shan_3
+  rotate: false
+  xy: 1678, 1738
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+shan_4
+  rotate: false
+  xy: 1509, 1576
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+shan_5
+  rotate: false
+  xy: 1912, 1995
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+shan_6
+  rotate: false
+  xy: 2, 30
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+shan_7
+  rotate: false
+  xy: 1509, 1612
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 2, 191
+  size: 329, 221
+  orig: 329, 221
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: true
+  xy: 333, 310
+  size: 102, 236
+  orig: 102, 236
+  offset: 0, 0
+  index: -1

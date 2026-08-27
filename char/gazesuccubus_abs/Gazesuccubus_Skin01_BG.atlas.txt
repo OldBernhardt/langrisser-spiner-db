@@ -1,0 +1,13 @@
+
+Gazesuccubus_Skin01_BG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 4070, 3932
+  orig: 4070, 3932
+  offset: 0, 0
+  index: -1

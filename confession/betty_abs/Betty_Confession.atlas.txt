@@ -1,0 +1,146 @@
+
+Betty_Confession.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 190
+  size: 775, 1275
+  orig: 775, 1275
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1279, 466
+  size: 332, 499
+  orig: 332, 499
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1613, 542
+  size: 375, 423
+  orig: 375, 423
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 345, 40
+  size: 148, 317
+  orig: 148, 317
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 664, 82
+  size: 106, 250
+  orig: 106, 250
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 916, 86
+  size: 102, 208
+  orig: 102, 208
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 22
+  size: 166, 341
+  orig: 166, 341
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1613, 296
+  size: 244, 323
+  orig: 244, 323
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1126, 22
+  size: 127, 166
+  orig: 127, 166
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1279, 173
+  size: 291, 318
+  orig: 291, 318
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1599, 46
+  size: 275, 248
+  orig: 275, 248
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 1990, 938
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1990, 926
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1938, 526
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 664, 70
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1876, 276
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 1599, 455
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 345, 25
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1255, 179
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1

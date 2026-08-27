@@ -1,0 +1,188 @@
+
+NPC_Gregole.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminnerdown
+  rotate: true
+  xy: 1541, 329
+  size: 212, 334
+  orig: 212, 334
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: true
+  xy: 1551, 543
+  size: 234, 393
+  orig: 234, 393
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 463, 309
+  size: 380, 308
+  orig: 380, 308
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 983, 734
+  size: 566, 288
+  orig: 566, 288
+  offset: 0, 0
+  index: -1
+blood1
+  rotate: false
+  xy: 1405, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: true
+  xy: 2, 8
+  size: 31, 134
+  orig: 31, 134
+  offset: 0, 0
+  index: -1
+blood3
+  rotate: false
+  xy: 1877, 379
+  size: 24, 162
+  orig: 24, 162
+  offset: 0, 0
+  index: -1
+blood4
+  rotate: false
+  xy: 846, 236
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+blood5
+  rotate: false
+  xy: 926, 285
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 256
+  size: 459, 766
+  orig: 459, 766
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 1694, 273
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+eyehard1
+  rotate: false
+  xy: 1405, 27
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1276, 237
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 845, 348
+  size: 115, 269
+  orig: 115, 269
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 983, 483
+  size: 249, 395
+  orig: 249, 395
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 1276, 309
+  size: 97, 172
+  orig: 97, 172
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 463, 80
+  size: 381, 227
+  orig: 381, 227
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 1380, 399
+  size: 333, 159
+  orig: 333, 159
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1956, 873
+  size: 74, 149
+  orig: 74, 149
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 1146, 13
+  size: 257, 221
+  orig: 257, 221
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 1405, 91
+  size: 287, 236
+  orig: 287, 236
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: false
+  xy: 962, 236
+  size: 312, 245
+  orig: 312, 245
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 1551, 779
+  size: 243, 403
+  orig: 243, 403
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 846, 18
+  size: 298, 216
+  orig: 298, 216
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: true
+  xy: 2, 41
+  size: 213, 446
+  orig: 213, 446
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 463, 619
+  size: 518, 403
+  orig: 518, 403
+  offset: 0, 0
+  index: -1

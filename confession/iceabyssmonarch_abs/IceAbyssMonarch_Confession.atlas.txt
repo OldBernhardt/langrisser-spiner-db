@@ -1,0 +1,174 @@
+
+IceAbyssMonarch_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 837
+  size: 1142, 1209
+  orig: 1142, 1209
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1870, 1179
+  size: 363, 173
+  orig: 363, 173
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 976, 136
+  size: 61, 301
+  orig: 61, 301
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 2, 380
+  size: 455, 1057
+  orig: 455, 1057
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: true
+  xy: 1695, 1145
+  size: 472, 173
+  orig: 472, 173
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1695, 874
+  size: 210, 269
+  orig: 210, 269
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1545, 353
+  size: 460, 167
+  orig: 460, 167
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1695, 1619
+  size: 234, 427
+  orig: 234, 427
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 2, 13
+  size: 365, 740
+  orig: 365, 740
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 976, 199
+  size: 143, 337
+  orig: 143, 337
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 744, 31
+  size: 230, 347
+  orig: 230, 347
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1931, 1544
+  size: 115, 502
+  orig: 115, 502
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 1146, 815
+  size: 547, 1231
+  orig: 547, 1231
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1714, 492
+  size: 131, 380
+  orig: 131, 380
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 744, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1085, 815
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1695, 861
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1870, 1164
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1870, 1592
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1714, 479
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1545, 345
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1061, 815
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+maojing
+  rotate: false
+  xy: 1061, 344
+  size: 482, 469
+  orig: 482, 469
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: true
+  xy: 1315, 197
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1

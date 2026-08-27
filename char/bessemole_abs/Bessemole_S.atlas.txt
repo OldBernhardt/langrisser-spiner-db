@@ -1,0 +1,13 @@
+
+Bessemole_S.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiximo
+  rotate: false
+  xy: 2, 2
+  size: 1408, 1816
+  orig: 1408, 1816
+  offset: 0, 0
+  index: -1

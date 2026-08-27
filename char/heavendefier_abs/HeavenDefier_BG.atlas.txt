@@ -1,0 +1,13 @@
+
+HeavenDefier_BG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 4090, 2964
+  orig: 4090, 2964
+  offset: 0, 0
+  index: -1

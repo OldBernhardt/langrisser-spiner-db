@@ -1,0 +1,272 @@
+
+Aimeeda_Confession.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brow_left
+  rotate: false
+  xy: 1351, 557
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+brow_right
+  rotate: false
+  xy: 1138, 396
+  size: 106, 36
+  orig: 106, 36
+  offset: 0, 0
+  index: -1
+eyeball_left
+  rotate: false
+  xy: 1931, 836
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+eyeball_right
+  rotate: false
+  xy: 1991, 960
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+eyeend_left
+  rotate: false
+  xy: 57, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+eyeend_right
+  rotate: true
+  xy: 1292, 435
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+eyelash_down_left
+  rotate: false
+  xy: 158, 61
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+eyelash_down_right
+  rotate: true
+  xy: 1334, 506
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1
+eyelash_up_left
+  rotate: false
+  xy: 1448, 581
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+eyelash_up_right
+  rotate: true
+  xy: 136, 2
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+eyelid_down_left
+  rotate: false
+  xy: 1138, 330
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+eyelid_down_right
+  rotate: false
+  xy: 1448, 559
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+eyelid_up_left
+  rotate: false
+  xy: 1837, 832
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+eyelid_up_right
+  rotate: true
+  xy: 1292, 453
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+eyeline_up_left
+  rotate: false
+  xy: 1138, 355
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+eyeline_up_right
+  rotate: false
+  xy: 1837, 788
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+eyewhite_left
+  rotate: true
+  xy: 2, 2
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+eyewhite_right
+  rotate: false
+  xy: 57, 19
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 80
+  size: 932, 942
+  orig: 932, 942
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 936, 555
+  size: 413, 467
+  orig: 413, 467
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 936, 115
+  size: 200, 438
+  orig: 200, 438
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1351, 629
+  size: 484, 393
+  orig: 484, 393
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1215, 374
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1138, 321
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1609, 611
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1837, 708
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 1538, 581
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1201, 345
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 84, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1865, 777
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+lip_down
+  rotate: false
+  xy: 936, 83
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+lip_up
+  rotate: false
+  xy: 1538, 601
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+lipline_down
+  rotate: false
+  xy: 1246, 407
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1010, 91
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1837, 722
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+shy_1
+  rotate: false
+  xy: 1837, 899
+  size: 152, 123
+  orig: 152, 123
+  offset: 0, 0
+  index: -1
+shy_2
+  rotate: false
+  xy: 1138, 434
+  size: 152, 119
+  orig: 152, 119
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 1991, 937
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1

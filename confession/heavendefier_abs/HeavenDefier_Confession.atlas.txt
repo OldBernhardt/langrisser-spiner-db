@@ -1,0 +1,174 @@
+
+HeavenDefier_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodya
+  rotate: false
+  xy: 2, 255
+  size: 855, 805
+  orig: 855, 805
+  offset: 0, 0
+  index: -1
+bodyb
+  rotate: true
+  xy: 1557, 1074
+  size: 959, 390
+  orig: 959, 390
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1183, 63
+  size: 193, 287
+  orig: 193, 287
+  offset: 0, 0
+  index: -1
+erhuan_1
+  rotate: true
+  xy: 349, 27
+  size: 31, 89
+  orig: 31, 89
+  offset: 0, 0
+  index: -1
+erhuan_2
+  rotate: false
+  xy: 1378, 261
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 859, 352
+  size: 708, 549
+  orig: 708, 549
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 709, 150
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1949, 1755
+  size: 70, 278
+  orig: 70, 278
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 859, 217
+  size: 133, 322
+  orig: 133, 322
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 349, 60
+  size: 193, 358
+  orig: 193, 358
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2, 18
+  size: 235, 345
+  orig: 235, 345
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1410, 682
+  size: 302, 390
+  orig: 302, 390
+  offset: 0, 0
+  index: -1
+hair_inner_1a
+  rotate: true
+  xy: 1410, 329
+  size: 351, 275
+  orig: 351, 275
+  offset: 0, 0
+  index: -1
+hair_inner_1b
+  rotate: false
+  xy: 1019, 1147
+  size: 536, 886
+  orig: 536, 886
+  offset: 0, 0
+  index: -1
+hair_inner_2a
+  rotate: false
+  xy: 1714, 772
+  size: 233, 300
+  orig: 233, 300
+  offset: 0, 0
+  index: -1
+hair_inner_2b
+  rotate: false
+  xy: 2, 1062
+  size: 1015, 971
+  orig: 1015, 971
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1019, 1131
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2038, 2028
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1949, 1738
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1714, 754
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 2, 2
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 801, 248
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2021, 2019
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1687, 663
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1

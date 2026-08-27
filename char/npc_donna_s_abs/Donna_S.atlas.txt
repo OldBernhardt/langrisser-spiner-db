@@ -1,0 +1,20 @@
+
+Donna_S.png
+size: 2110,2110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Donna_R
+  rotate: false
+  xy: 2, 451
+  size: 1052, 1657
+  orig: 1052, 1657
+  offset: 0, 0
+  index: -1
+Donna_S
+  rotate: false
+  xy: 1056, 451
+  size: 1052, 1657
+  orig: 1052, 1657
+  offset: 0, 0
+  index: -1

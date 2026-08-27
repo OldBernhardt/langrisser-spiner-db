@@ -1,0 +1,174 @@
+
+Iris_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 312
+  size: 1039, 1732
+  orig: 1039, 1732
+  offset: 0, 0
+  index: -1
+guangban_1
+  rotate: false
+  xy: 1816, 302
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+guangban_2
+  rotate: false
+  xy: 2003, 2003
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1574, 309
+  size: 257, 222
+  orig: 257, 222
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1574, 88
+  size: 219, 240
+  orig: 219, 240
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 962, 20
+  size: 191, 263
+  orig: 191, 263
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1227, 66
+  size: 145, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1043, 1096
+  size: 355, 948
+  orig: 355, 948
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1774, 1355
+  size: 689, 227
+  orig: 689, 227
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1554, 533
+  size: 227, 398
+  orig: 227, 398
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1043, 213
+  size: 529, 299
+  orig: 529, 299
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 740, 2
+  size: 220, 308
+  orig: 220, 308
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 1774, 1327
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1227, 59
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: true
+  xy: 962, 2
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 1554, 517
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: false
+  xy: 1400, 1272
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: true
+  xy: 1565, 525
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 1833, 509
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 962, 300
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+huaquan
+  rotate: false
+  xy: 2, 3
+  size: 736, 307
+  orig: 736, 307
+  offset: 0, 0
+  index: -1
+qunzi_1
+  rotate: true
+  xy: 1400, 1301
+  size: 743, 372
+  orig: 743, 372
+  offset: 0, 0
+  index: -1
+qunzi_2
+  rotate: true
+  xy: 1554, 762
+  size: 537, 355
+  orig: 537, 355
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 1043, 514
+  size: 509, 580
+  orig: 509, 580
+  offset: 0, 0
+  index: -1

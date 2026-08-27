@@ -1,0 +1,62 @@
+
+PorterMale.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: false
+  xy: 1857, 284
+  size: 149, 731
+  orig: 149, 731
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: true
+  xy: 2, 25
+  size: 446, 811
+  orig: 446, 811
+  offset: 0, 0
+  index: -1
+changpao
+  rotate: true
+  xy: 1238, 30
+  size: 230, 444
+  orig: 230, 444
+  offset: 0, 0
+  index: -1
+changpao_inner
+  rotate: true
+  xy: 815, 262
+  size: 209, 1040
+  orig: 209, 1040
+  offset: 0, 0
+  index: -1
+changpao_out
+  rotate: true
+  xy: 2, 473
+  size: 542, 1058
+  orig: 542, 1058
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 1062, 620
+  size: 350, 395
+  orig: 350, 395
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 1414, 740
+  size: 275, 379
+  orig: 275, 379
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 815, 2
+  size: 421, 258
+  orig: 421, 258
+  offset: 0, 0
+  index: -1

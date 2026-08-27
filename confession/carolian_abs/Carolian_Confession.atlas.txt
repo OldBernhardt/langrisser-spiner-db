@@ -1,0 +1,118 @@
+
+Carolian_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 408
+  size: 1448, 1624
+  orig: 1448, 1624
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1452, 1367
+  size: 212, 341
+  orig: 212, 341
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 585, 186
+  size: 220, 416
+  orig: 220, 416
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 24
+  size: 382, 581
+  orig: 382, 581
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1003, 159
+  size: 247, 289
+  orig: 247, 289
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1452, 1281
+  size: 186, 84
+  orig: 186, 84
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1808, 1728
+  size: 113, 304
+  orig: 113, 304
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1452, 1710
+  size: 354, 322
+  orig: 354, 322
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 585, 163
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 1923, 2016
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 1452, 1270
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1666, 1679
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: false
+  xy: 2, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 1294, 390
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: false
+  xy: 1640, 1358
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 1808, 1710
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1

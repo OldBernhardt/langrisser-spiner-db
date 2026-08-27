@@ -1,0 +1,125 @@
+
+Lightborn_Confession.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 193
+  size: 818, 1371
+  orig: 818, 1371
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 2, 2
+  size: 611, 189
+  orig: 611, 189
+  offset: 0, 0
+  index: -1
+gaoguagn_1
+  rotate: false
+  xy: 615, 60
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+gaoguang_2
+  rotate: false
+  xy: 1485, 218
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+gaoguang_3
+  rotate: false
+  xy: 1070, 169
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+gaoguang_4
+  rotate: false
+  xy: 1611, 516
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+gaoguang_5
+  rotate: false
+  xy: 1606, 535
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+gaoguang_6
+  rotate: false
+  xy: 615, 37
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+gaoguang_7
+  rotate: false
+  xy: 1893, 937
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+gaoguang_8
+  rotate: false
+  xy: 1756, 828
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1606, 560
+  size: 148, 289
+  orig: 148, 289
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1375, 851
+  size: 516, 160
+  orig: 516, 160
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1375, 535
+  size: 229, 314
+  orig: 229, 314
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1485, 235
+  size: 124, 298
+  orig: 124, 298
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1893, 957
+  size: 153, 54
+  orig: 153, 54
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 615, 78
+  size: 113, 453
+  orig: 113, 453
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1375, 174
+  size: 108, 359
+  orig: 108, 359
+  offset: 0, 0
+  index: -1

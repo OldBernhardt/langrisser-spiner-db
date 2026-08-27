@@ -1,0 +1,258 @@
+
+MazeGolem.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 1192, 1270
+  size: 22, 88
+  orig: 22, 88
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1701, 94
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+body_down_1
+  rotate: false
+  xy: 2, 919
+  size: 1188, 1127
+  orig: 1188, 1127
+  offset: 0, 0
+  index: -1
+body_down_2
+  rotate: false
+  xy: 1258, 611
+  size: 442, 288
+  orig: 442, 288
+  offset: 0, 0
+  index: -1
+bozi_1
+  rotate: true
+  xy: 1701, 126
+  size: 249, 164
+  orig: 249, 164
+  offset: 0, 0
+  index: -1
+bozi_2
+  rotate: true
+  xy: 2, 10
+  size: 364, 473
+  orig: 364, 473
+  offset: 0, 0
+  index: -1
+bozi_3
+  rotate: false
+  xy: 1258, 901
+  size: 741, 457
+  orig: 741, 457
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 2015, 1912
+  size: 134, 31
+  orig: 134, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1867, 169
+  size: 168, 206
+  orig: 168, 206
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 477, 14
+  size: 373, 360
+  orig: 373, 360
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 1513, 48
+  size: 186, 311
+  orig: 186, 311
+  offset: 0, 0
+  index: -1
+hat_3
+  rotate: true
+  xy: 1702, 577
+  size: 77, 250
+  orig: 77, 250
+  offset: 0, 0
+  index: -1
+hat_4
+  rotate: true
+  xy: 1702, 656
+  size: 243, 295
+  orig: 243, 295
+  offset: 0, 0
+  index: -1
+hat_5
+  rotate: false
+  xy: 852, 15
+  size: 260, 359
+  orig: 260, 359
+  offset: 0, 0
+  index: -1
+huan_inner
+  rotate: false
+  xy: 2, 376
+  size: 1254, 541
+  orig: 1254, 541
+  offset: 0, 0
+  index: -1
+huan_out
+  rotate: false
+  xy: 1192, 1360
+  size: 821, 686
+  orig: 821, 686
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 2015, 1875
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1439, 139
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 1954, 638
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_A
+  rotate: false
+  xy: 1114, 362
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_B
+  rotate: false
+  xy: 1114, 16
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_C
+  rotate: false
+  xy: 1917, 558
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_D
+  rotate: false
+  xy: 2015, 1893
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: false
+  xy: 852, 2
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 852, 2
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 1216, 1330
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: false
+  xy: 1216, 1344
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 1867, 150
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_A
+  rotate: true
+  xy: 1247, 1333
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_B
+  rotate: false
+  xy: 1439, 123
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_C
+  rotate: false
+  xy: 2015, 1858
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_D
+  rotate: true
+  xy: 1192, 1241
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: false
+  xy: 1699, 377
+  size: 216, 198
+  orig: 216, 198
+  offset: 0, 0
+  index: -1
+neck_2
+  rotate: false
+  xy: 1114, 30
+  size: 323, 124
+  orig: 323, 124
+  offset: 0, 0
+  index: -1
+shuijing_1
+  rotate: true
+  xy: 1114, 156
+  size: 203, 397
+  orig: 203, 397
+  offset: 0, 0
+  index: -1
+shuijing_2
+  rotate: true
+  xy: 1258, 361
+  size: 248, 439
+  orig: 248, 439
+  offset: 0, 0
+  index: -1

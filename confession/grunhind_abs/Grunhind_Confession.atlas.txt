@@ -1,0 +1,181 @@
+
+Grunhind_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1611, 207
+  size: 144, 159
+  orig: 144, 159
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1948, 1448
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 368
+  size: 1535, 1653
+  orig: 1535, 1653
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1720, 833
+  size: 272, 116
+  orig: 272, 116
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 1905, 724
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: true
+  xy: 708, 59
+  size: 184, 274
+  orig: 184, 274
+  offset: 0, 0
+  index: -1
+hair_1_10
+  rotate: false
+  xy: 1275, 73
+  size: 115, 170
+  orig: 115, 170
+  offset: 0, 0
+  index: -1
+hair_1_11
+  rotate: false
+  xy: 1696, 619
+  size: 207, 212
+  orig: 207, 212
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: false
+  xy: 1539, 520
+  size: 155, 323
+  orig: 155, 323
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: true
+  xy: 2, 40
+  size: 203, 421
+  orig: 203, 421
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: true
+  xy: 1539, 368
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: true
+  xy: 425, 40
+  size: 203, 281
+  orig: 203, 281
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: true
+  xy: 984, 82
+  size: 161, 289
+  orig: 161, 289
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: false
+  xy: 1720, 951
+  size: 283, 291
+  orig: 283, 291
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: false
+  xy: 1539, 845
+  size: 179, 397
+  orig: 179, 397
+  offset: 0, 0
+  index: -1
+hair_1_9
+  rotate: true
+  xy: 1408, 207
+  size: 159, 201
+  orig: 159, 201
+  offset: 0, 0
+  index: -1
+hair_2_2
+  rotate: false
+  xy: 1539, 1244
+  size: 407, 285
+  orig: 407, 285
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1539, 1531
+  size: 495, 490
+  orig: 495, 490
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1696, 590
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1757, 347
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: true
+  xy: 1392, 231
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 2, 2
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2036, 2002
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 708, 44
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+weijin_1_1
+  rotate: false
+  xy: 2, 245
+  size: 1404, 121
+  orig: 1404, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Aka_MysteryKnight_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aka/body
+  rotate: false
+  xy: 2, 1092
+  size: 1439, 919
+  orig: 1439, 919
+  offset: 0, 0
+  index: -1
+Aka/hair_1
+  rotate: false
+  xy: 1721, 55
+  size: 168, 203
+  orig: 168, 203
+  offset: 0, 0
+  index: -1
+Aka/hair_2
+  rotate: false
+  xy: 1782, 870
+  size: 170, 294
+  orig: 170, 294
+  offset: 0, 0
+  index: -1
+Aka/hair_3
+  rotate: false
+  xy: 1760, 1353
+  size: 234, 658
+  orig: 234, 658
+  offset: 0, 0
+  index: -1
+Aka/hair_4
+  rotate: false
+  xy: 1526, 81
+  size: 193, 174
+  orig: 193, 174
+  offset: 0, 0
+  index: -1
+Aka/highlight_left_1
+  rotate: false
+  xy: 1443, 1141
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Aka/highlight_left_2
+  rotate: true
+  xy: 2034, 1155
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Aka/highlight_left_3
+  rotate: false
+  xy: 1508, 546
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Aka/highlight_left_4
+  rotate: false
+  xy: 1996, 1993
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Aka/highlight_right_1
+  rotate: false
+  xy: 1508, 558
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Aka/highlight_right_2
+  rotate: false
+  xy: 1782, 858
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Aka/highlight_right_3
+  rotate: false
+  xy: 1326, 72
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Aka/highlight_right_4
+  rotate: false
+  xy: 1760, 1340
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Aka/mianju_1
+  rotate: false
+  xy: 1077, 38
+  size: 247, 497
+  orig: 247, 497
+  offset: 0, 0
+  index: -1
+Aka/mianju_2
+  rotate: true
+  xy: 1954, 804
+  size: 360, 78
+  orig: 360, 78
+  offset: 0, 0
+  index: -1
+MysteryKnight/body
+  rotate: false
+  xy: 2, 37
+  size: 1073, 1053
+  orig: 1073, 1053
+  offset: 0, 0
+  index: -1
+MysteryKnight/erhuan
+  rotate: true
+  xy: 2, 2
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_1
+  rotate: true
+  xy: 1782, 1166
+  size: 185, 264
+  orig: 185, 264
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_2
+  rotate: false
+  xy: 1700, 260
+  size: 165, 319
+  orig: 165, 319
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_3
+  rotate: false
+  xy: 1808, 590
+  size: 154, 212
+  orig: 154, 212
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_4
+  rotate: false
+  xy: 1526, 257
+  size: 172, 322
+  orig: 172, 322
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_5
+  rotate: true
+  xy: 1508, 581
+  size: 193, 298
+  orig: 193, 298
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_6
+  rotate: false
+  xy: 1443, 1167
+  size: 315, 844
+  orig: 315, 844
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_7
+  rotate: false
+  xy: 1077, 537
+  size: 429, 553
+  orig: 429, 553
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_8
+  rotate: false
+  xy: 1326, 85
+  size: 198, 450
+  orig: 198, 450
+  offset: 0, 0
+  index: -1
+MysteryKnight/hair_9
+  rotate: false
+  xy: 1508, 776
+  size: 272, 389
+  orig: 272, 389
+  offset: 0, 0
+  index: -1

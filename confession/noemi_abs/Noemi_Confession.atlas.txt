@@ -1,0 +1,139 @@
+
+Noemi_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 679
+  size: 1959, 1367
+  orig: 1959, 1367
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 276, 467
+  size: 210, 289
+  orig: 210, 289
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1305, 526
+  size: 151, 184
+  orig: 151, 184
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 567, 471
+  size: 206, 264
+  orig: 206, 264
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 393
+  size: 272, 284
+  orig: 272, 284
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 833, 510
+  size: 167, 247
+  orig: 167, 247
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 2, 53
+  size: 180, 338
+  orig: 180, 338
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1082, 541
+  size: 136, 221
+  orig: 136, 221
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 184, 359
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 833, 488
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1082, 523
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 276, 434
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 2034, 2033
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1963, 1916
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1623, 659
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 1491, 541
+  size: 130, 136
+  orig: 130, 136
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1963, 1937
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 15
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1

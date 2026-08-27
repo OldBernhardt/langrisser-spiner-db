@@ -1,0 +1,90 @@
+
+Alpha_Confession.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 14
+  size: 651, 1008
+  orig: 651, 1008
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 935, 312
+  size: 73, 255
+  orig: 73, 255
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 655, 26
+  size: 115, 437
+  orig: 115, 437
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 655, 465
+  size: 201, 557
+  orig: 201, 557
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 772, 44
+  size: 419, 92
+  orig: 419, 92
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 858, 569
+  size: 112, 453
+  orig: 112, 453
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 866, 230
+  size: 337, 67
+  orig: 337, 67
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 772, 30
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 655, 17
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 972, 1011
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 935, 227
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1

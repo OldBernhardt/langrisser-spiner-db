@@ -1,0 +1,139 @@
+
+Vaccine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: false
+  xy: 2, 357
+  size: 341, 606
+  orig: 341, 606
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 659, 1084
+  size: 263, 385
+  orig: 263, 385
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 1409
+  size: 753, 608
+  orig: 753, 608
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 2, 965
+  size: 655, 442
+  orig: 655, 442
+  offset: 0, 0
+  index: -1
+body_up_2
+  rotate: false
+  xy: 1046, 1131
+  size: 365, 216
+  orig: 365, 216
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 73
+  size: 282, 416
+  orig: 282, 416
+  offset: 0, 0
+  index: -1
+leg_inner_1
+  rotate: true
+  xy: 757, 1349
+  size: 114, 649
+  orig: 114, 649
+  offset: 0, 0
+  index: -1
+leg_inner_2
+  rotate: true
+  xy: 659, 943
+  size: 139, 383
+  orig: 139, 383
+  offset: 0, 0
+  index: -1
+leg_inner_3
+  rotate: false
+  xy: 2, 2
+  size: 212, 69
+  orig: 212, 69
+  offset: 0, 0
+  index: -1
+leg_inner_4
+  rotate: true
+  xy: 757, 1465
+  size: 148, 618
+  orig: 148, 618
+  offset: 0, 0
+  index: -1
+leg_out_1
+  rotate: true
+  xy: 757, 1820
+  size: 197, 774
+  orig: 197, 774
+  offset: 0, 0
+  index: -1
+leg_out_2
+  rotate: true
+  xy: 1533, 1816
+  size: 201, 387
+  orig: 201, 387
+  offset: 0, 0
+  index: -1
+leg_out_3
+  rotate: false
+  xy: 1377, 1474
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+leg_out_4
+  rotate: true
+  xy: 757, 1615
+  size: 203, 724
+  orig: 203, 724
+  offset: 0, 0
+  index: -1
+leg_out_5
+  rotate: false
+  xy: 1922, 1824
+  size: 120, 193
+  orig: 120, 193
+  offset: 0, 0
+  index: -1
+leg_out_6
+  rotate: false
+  xy: 642, 389
+  size: 171, 310
+  orig: 171, 310
+  offset: 0, 0
+  index: -1
+leg_out_7
+  rotate: true
+  xy: 886, 761
+  size: 180, 57
+  orig: 180, 57
+  offset: 0, 0
+  index: -1
+leg_out_8
+  rotate: false
+  xy: 345, 388
+  size: 295, 575
+  orig: 295, 575
+  offset: 0, 0
+  index: -1
+leg_out_9
+  rotate: false
+  xy: 642, 701
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1

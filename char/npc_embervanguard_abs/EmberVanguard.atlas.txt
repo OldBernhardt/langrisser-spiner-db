@@ -1,0 +1,83 @@
+
+EmberVanguard.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: false
+  xy: 1853, 1774
+  size: 94, 257
+  orig: 94, 257
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 1100
+  size: 921, 931
+  orig: 921, 931
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 925, 1405
+  size: 572, 626
+  orig: 572, 626
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 925, 1097
+  size: 306, 306
+  orig: 306, 306
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 2, 2
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 625, 126
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 625, 260
+  size: 179, 209
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 2, 471
+  size: 831, 627
+  orig: 831, 627
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 1499, 1529
+  size: 352, 502
+  orig: 352, 502
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 2, 65
+  size: 404, 621
+  orig: 404, 621
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 1233, 1124
+  size: 273, 279
+  orig: 273, 279
+  offset: 0, 0
+  index: -1

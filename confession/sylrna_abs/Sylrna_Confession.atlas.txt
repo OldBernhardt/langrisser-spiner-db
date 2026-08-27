@@ -1,0 +1,118 @@
+
+Sylrna_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 1287
+  size: 1984, 759
+  orig: 1984, 759
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 143
+  size: 1329, 1142
+  orig: 1329, 1142
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1333, 2
+  size: 206, 603
+  orig: 206, 603
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1587, 980
+  size: 81, 305
+  orig: 81, 305
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1333, 607
+  size: 252, 678
+  orig: 252, 678
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1587, 963
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1988, 2000
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 2037, 2022
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 58
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 1541, 588
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1670, 1273
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 2037, 2029
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1541, 581
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 113, 128
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1988, 2010
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 72
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+TidalVindicator_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body22
+  rotate: false
+  xy: 2, 548
+  size: 1721, 1463
+  orig: 1721, 1463
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1889, 812
+  size: 153, 371
+  orig: 153, 371
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 783, 2
+  size: 357, 544
+  orig: 357, 544
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1725, 1185
+  size: 208, 346
+  orig: 208, 346
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 2, 130
+  size: 779, 349
+  orig: 779, 349
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1725, 768
+  size: 162, 415
+  orig: 162, 415
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1142, 24
+  size: 340, 522
+  orig: 340, 522
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1725, 1533
+  size: 240, 478
+  orig: 240, 478
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1889, 481
+  size: 329, 129
+  orig: 329, 129
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1967, 1979
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2040, 2006
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: true
+  xy: 2037, 1961
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2016, 1923
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: true
+  xy: 2015, 1909
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1967, 1931
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2040, 1999
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: true
+  xy: 2035, 1906
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 2016, 1959
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: true
+  xy: 2016, 1941
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 1484, 77
+  size: 375, 469
+  orig: 375, 469
+  offset: 0, 0
+  index: -1
+toushi_3
+  rotate: false
+  xy: 1967, 1890
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

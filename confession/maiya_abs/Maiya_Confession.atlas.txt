@@ -1,0 +1,104 @@
+
+Maiya_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 690
+  size: 1933, 1356
+  orig: 1933, 1356
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 355
+  size: 333, 1039
+  orig: 333, 1039
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1223, 452
+  size: 166, 236
+  orig: 166, 236
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1391, 479
+  size: 136, 209
+  orig: 136, 209
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1043, 409
+  size: 178, 279
+  orig: 178, 279
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 2, 2
+  size: 1012, 351
+  orig: 1012, 351
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1937, 2030
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1016, 339
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1937, 2019
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1043, 397
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1223, 436
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1391, 465
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1955, 2038
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1529, 680
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1

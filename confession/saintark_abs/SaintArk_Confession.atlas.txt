@@ -1,0 +1,125 @@
+
+SaintArk_Confession.png
+size: 2001,2001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 594
+  size: 1992, 1405
+  orig: 1992, 1405
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1229, 268
+  size: 268, 162
+  orig: 268, 162
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 32
+  size: 560, 635
+  orig: 560, 635
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1229, 432
+  size: 160, 337
+  orig: 160, 337
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1568, 415
+  size: 177, 305
+  orig: 177, 305
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 997, 279
+  size: 230, 313
+  orig: 230, 313
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 639, 178
+  size: 356, 414
+  orig: 356, 414
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 1875, 443
+  size: 149, 119
+  orig: 149, 119
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 639, 2
+  size: 259, 174
+  orig: 259, 174
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 900, 40
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 971, 160
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: true
+  xy: 2, 9
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1122, 254
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1875, 425
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1499, 382
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 900, 67
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+yaoshi_1
+  rotate: false
+  xy: 997, 165
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1

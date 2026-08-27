@@ -1,0 +1,104 @@
+
+NPC_Maskman.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arios
+  rotate: false
+  xy: 1872, 113
+  size: 160, 236
+  orig: 160, 236
+  offset: 0, 0
+  index: -1
+Ulmar
+  rotate: true
+  xy: 1588, 519
+  size: 176, 235
+  orig: 176, 235
+  offset: 0, 0
+  index: -1
+Yabagh
+  rotate: true
+  xy: 1718, 351
+  size: 166, 239
+  orig: 166, 239
+  offset: 0, 0
+  index: -1
+arm_inner
+  rotate: true
+  xy: 1207, 2
+  size: 301, 663
+  orig: 301, 663
+  offset: 0, 0
+  index: -1
+arm_out
+  rotate: false
+  xy: 801, 303
+  size: 353, 719
+  orig: 353, 719
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 735, 851
+  size: 55, 171
+  orig: 55, 171
+  offset: 0, 0
+  index: -1
+changpao_inner
+  rotate: true
+  xy: 2, 22
+  size: 121, 797
+  orig: 121, 797
+  offset: 0, 0
+  index: -1
+changpao_inner_1
+  rotate: false
+  xy: 420, 250
+  size: 313, 772
+  orig: 313, 772
+  offset: 0, 0
+  index: -1
+changpao_out
+  rotate: false
+  xy: 2, 145
+  size: 416, 877
+  orig: 416, 877
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 1588, 697
+  size: 325, 369
+  orig: 325, 369
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 1156, 305
+  size: 211, 288
+  orig: 211, 288
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: true
+  xy: 801, 56
+  size: 245, 404
+  orig: 245, 404
+  offset: 0, 0
+  index: -1
+jianjia_out_1
+  rotate: true
+  xy: 1156, 518
+  size: 504, 430
+  orig: 504, 430
+  offset: 0, 0
+  index: -1
+weijing_1
+  rotate: false
+  xy: 1446, 332
+  size: 270, 184
+  orig: 270, 184
+  offset: 0, 0
+  index: -1

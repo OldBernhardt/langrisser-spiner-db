@@ -1,0 +1,174 @@
+
+Reah_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 613
+  size: 1679, 1433
+  orig: 1679, 1433
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1683, 747
+  size: 473, 221
+  orig: 473, 221
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1683, 1222
+  size: 824, 178
+  orig: 824, 178
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1863, 1271
+  size: 403, 128
+  orig: 403, 128
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1042, 331
+  size: 460, 280
+  orig: 460, 280
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1504, 229
+  size: 382, 184
+  orig: 382, 184
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 966, 130
+  size: 199, 404
+  orig: 199, 404
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1863, 1676
+  size: 370, 181
+  orig: 370, 181
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 446, 342
+  size: 594, 269
+  orig: 594, 269
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1690, 126
+  size: 131, 320
+  orig: 131, 320
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 446, 30
+  size: 518, 310
+  orig: 518, 310
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 1690, 420
+  size: 264, 325
+  orig: 264, 325
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 2, 11
+  size: 442, 600
+  orig: 442, 600
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 1372, 63
+  size: 207, 164
+  orig: 207, 164
+  offset: 0, 0
+  index: -1
+hand_4
+  rotate: false
+  xy: 1690, 259
+  size: 312, 159
+  orig: 312, 159
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1372, 314
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1906, 894
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1581, 215
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1863, 1244
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 966, 117
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1993, 1647
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 966, 331
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 446, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+honyun
+  rotate: true
+  xy: 1906, 926
+  size: 343, 130
+  orig: 343, 130
+  offset: 0, 0
+  index: -1

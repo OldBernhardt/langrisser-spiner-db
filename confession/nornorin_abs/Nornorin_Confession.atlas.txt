@@ -1,0 +1,209 @@
+
+Nornorin_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 726
+  size: 1510, 1313
+  orig: 1510, 1313
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1245, 182
+  size: 54, 240
+  orig: 54, 240
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1856, 441
+  size: 239, 71
+  orig: 239, 71
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1761, 301
+  size: 93, 363
+  orig: 93, 363
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 1503, 332
+  size: 194, 326
+  orig: 194, 326
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: false
+  xy: 1514, 660
+  size: 244, 737
+  orig: 244, 737
+  offset: 0, 0
+  index: -1
+hair_14
+  rotate: true
+  xy: 1895, 1429
+  size: 246, 107
+  orig: 246, 107
+  offset: 0, 0
+  index: -1
+hair_15
+  rotate: true
+  xy: 1421, 87
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+hair_16
+  rotate: false
+  xy: 2, 48
+  size: 1004, 676
+  orig: 1004, 676
+  offset: 0, 0
+  index: -1
+hair_17
+  rotate: true
+  xy: 1760, 666
+  size: 731, 91
+  orig: 731, 91
+  offset: 0, 0
+  index: -1
+hair_18
+  rotate: false
+  xy: 1895, 1677
+  size: 144, 362
+  orig: 144, 362
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1699, 296
+  size: 362, 60
+  orig: 362, 60
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1503, 281
+  size: 49, 139
+  orig: 49, 139
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1008, 194
+  size: 235, 530
+  orig: 235, 530
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1245, 238
+  size: 486, 256
+  orig: 486, 256
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1853, 682
+  size: 349, 110
+  orig: 349, 110
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1206, 98
+  size: 82, 213
+  orig: 82, 213
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1856, 316
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1853, 1033
+  size: 364, 112
+  orig: 364, 112
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1514, 1399
+  size: 379, 640
+  orig: 379, 640
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 2004, 1642
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1503, 708
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 1895, 1409
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 1503, 261
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: true
+  xy: 1206, 44
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: false
+  xy: 1929, 660
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 2, 29
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 1487, 217
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 1008, 46
+  size: 146, 196
+  orig: 146, 196
+  offset: 0, 0
+  index: -1

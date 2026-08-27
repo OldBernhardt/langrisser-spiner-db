@@ -1,0 +1,167 @@
+
+Tiana_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 627
+  size: 659, 1419
+  orig: 659, 1419
+  offset: 0, 0
+  index: -1
+bowen
+  rotate: false
+  xy: 663, 871
+  size: 611, 1175
+  orig: 611, 1175
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 543, 285
+  size: 88, 340
+  orig: 88, 340
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1276, 1025
+  size: 176, 598
+  orig: 176, 598
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1276, 1203
+  size: 713, 843
+  orig: 713, 843
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1545, 2
+  size: 34, 183
+  orig: 34, 183
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1276, 874
+  size: 149, 485
+  orig: 149, 485
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1545, 515
+  size: 357, 161
+  orig: 357, 161
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1545, 187
+  size: 92, 326
+  orig: 92, 326
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1991, 1722
+  size: 53, 324
+  orig: 53, 324
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 2, 274
+  size: 539, 351
+  orig: 539, 351
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 663, 22
+  size: 847, 880
+  orig: 847, 880
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 2, 45
+  size: 227, 441
+  orig: 227, 441
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 29
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: true
+  xy: 2, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 543, 278
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1639, 500
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 633, 609
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 445, 256
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1763, 1011
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1991, 1716
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1708, 858
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 1876, 1188
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1

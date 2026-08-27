@@ -1,0 +1,146 @@
+
+Christiane_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 499
+  size: 1002, 1547
+  orig: 1002, 1547
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 1006, 588
+  size: 692, 621
+  orig: 692, 621
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 1006, 1211
+  size: 753, 835
+  orig: 753, 835
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 309, 22
+  size: 210, 258
+  orig: 210, 258
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 234
+  size: 263, 918
+  orig: 263, 918
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1006, 446
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 569, 41
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 762, 45
+  size: 110, 187
+  orig: 110, 187
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 55
+  size: 177, 305
+  orig: 177, 305
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1761, 1409
+  size: 637, 276
+  orig: 637, 276
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 29
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1157, 496
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 874, 213
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 922, 483
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1700, 1185
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1268, 574
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: true
+  xy: 569, 23
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 1157, 517
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 1761, 1128
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
