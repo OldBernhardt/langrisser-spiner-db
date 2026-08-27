@@ -1,0 +1,160 @@
+
+Chrysopelea.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminnerdown
+  rotate: false
+  xy: 1027, 866
+  size: 254, 1161
+  orig: 254, 1161
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: true
+  xy: 1122, 170
+  size: 217, 403
+  orig: 217, 403
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 2, 625
+  size: 322, 1402
+  orig: 322, 1402
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 540, 947
+  size: 485, 1080
+  orig: 485, 1080
+  offset: 0, 0
+  index: -1
+blood
+  rotate: true
+  xy: 2, 2
+  size: 102, 212
+  orig: 102, 212
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 1283, 1367
+  size: 581, 660
+  orig: 581, 660
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 1283, 870
+  size: 495, 662
+  orig: 495, 662
+  offset: 0, 0
+  index: -1
+dang_1
+  rotate: false
+  xy: 441, 149
+  size: 414, 505
+  orig: 414, 505
+  offset: 0, 0
+  index: -1
+dang_2
+  rotate: false
+  xy: 1122, 389
+  size: 414, 299
+  orig: 414, 299
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 1866, 1414
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 216, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: true
+  xy: 959, 690
+  size: 174, 1062
+  orig: 174, 1062
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 326, 658
+  size: 212, 1369
+  orig: 212, 1369
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 540, 656
+  size: 289, 417
+  orig: 289, 417
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 1866, 1735
+  size: 292, 163
+  orig: 292, 163
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 1538, 405
+  size: 260, 283
+  orig: 260, 283
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 713, 2
+  size: 197, 145
+  orig: 197, 145
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 106
+  size: 437, 517
+  orig: 437, 517
+  offset: 0, 0
+  index: -1
+shuijing_1
+  rotate: false
+  xy: 857, 167
+  size: 263, 487
+  orig: 263, 487
+  offset: 0, 0
+  index: -1
+shuijing_2
+  rotate: false
+  xy: 1866, 1459
+  size: 165, 274
+  orig: 165, 274
+  offset: 0, 0
+  index: -1
+xianglian_1
+  rotate: true
+  xy: 1800, 407
+  size: 281, 153
+  orig: 281, 153
+  offset: 0, 0
+  index: -1
+xianglian_2
+  rotate: false
+  xy: 441, 25
+  size: 270, 122
+  orig: 270, 122
+  offset: 0, 0
+  index: -1

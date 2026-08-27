@@ -1,0 +1,209 @@
+
+Mycelia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner
+  rotate: false
+  xy: 2, 12
+  size: 113, 55
+  orig: 113, 55
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 403, 245
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 379, 22
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 485, 324
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+body11
+  rotate: false
+  xy: 2, 69
+  size: 399, 441
+  orig: 399, 441
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 117, 36
+  size: 98, 31
+  orig: 98, 31
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: true
+  xy: 403, 159
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 217, 33
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: true
+  xy: 403, 73
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: true
+  xy: 477, 426
+  size: 84, 31
+  orig: 84, 31
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: true
+  xy: 448, 156
+  size: 87, 9
+  orig: 87, 9
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 403, 409
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 403, 320
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: true
+  xy: 481, 236
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 117, 5
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: true
+  xy: 481, 277
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_A
+  rotate: false
+  xy: 310, 17
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: false
+  xy: 310, 17
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_B
+  rotate: true
+  xy: 463, 252
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_C
+  rotate: false
+  xy: 242, 2
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_D
+  rotate: false
+  xy: 311, 30
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 2, 2
+  size: 58, 8
+  orig: 58, 8
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: true
+  xy: 422, 17
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 485, 371
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 441, 18
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_A
+  rotate: false
+  xy: 310, 2
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_B
+  rotate: false
+  xy: 371, 2
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_C
+  rotate: true
+  xy: 448, 96
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_D
+  rotate: false
+  xy: 185, 2
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1

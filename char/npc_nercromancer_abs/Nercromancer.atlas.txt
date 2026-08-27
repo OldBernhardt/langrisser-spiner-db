@@ -1,0 +1,237 @@
+
+Nercromancer.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armoutdown1
+  rotate: true
+  xy: 1065, 675
+  size: 178, 102
+  orig: 178, 102
+  offset: 0, 0
+  index: -1
+armoutdown2
+  rotate: true
+  xy: 346, 501
+  size: 168, 650
+  orig: 168, 650
+  offset: 0, 0
+  index: -1
+armoutdown3
+  rotate: true
+  xy: 1609, 820
+  size: 62, 277
+  orig: 62, 277
+  offset: 0, 0
+  index: -1
+armoutup1
+  rotate: false
+  xy: 607, 23
+  size: 217, 210
+  orig: 217, 210
+  offset: 0, 0
+  index: -1
+armoutup2
+  rotate: false
+  xy: 943, 306
+  size: 147, 193
+  orig: 147, 193
+  offset: 0, 0
+  index: -1
+blood_2_1
+  rotate: false
+  xy: 998, 506
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+blood_2_2
+  rotate: true
+  xy: 762, 235
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bodydown
+  rotate: true
+  xy: 346, 235
+  size: 264, 381
+  orig: 264, 381
+  offset: 0, 0
+  index: -1
+bodyup
+  rotate: true
+  xy: 2, 17
+  size: 313, 341
+  orig: 313, 341
+  offset: 0, 0
+  index: -1
+earing
+  rotate: false
+  xy: 2011, 982
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+eye_2_Battle_Weak
+  rotate: false
+  xy: 1169, 735
+  size: 115, 37
+  orig: 115, 37
+  offset: 0, 0
+  index: -1
+eye_2_Normal_1
+  rotate: false
+  xy: 1888, 841
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+eye_2_Normal_2
+  rotate: false
+  xy: 1169, 817
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+eye_2_Normal_3
+  rotate: false
+  xy: 1169, 774
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 729, 255
+  size: 212, 244
+  orig: 212, 244
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 1288, 790
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 953, 117
+  size: 128, 187
+  orig: 128, 187
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 953, 58
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 1380, 815
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hairinner
+  rotate: false
+  xy: 2, 332
+  size: 342, 690
+  orig: 342, 690
+  offset: 0, 0
+  index: -1
+hairinner1
+  rotate: false
+  xy: 345, 51
+  size: 260, 182
+  orig: 260, 182
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 998, 527
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+leginner
+  rotate: true
+  xy: 1091, 860
+  size: 162, 516
+  orig: 162, 516
+  offset: 0, 0
+  index: -1
+legout
+  rotate: true
+  xy: 346, 671
+  size: 182, 717
+  orig: 182, 717
+  offset: 0, 0
+  index: -1
+mouth_2_Hurt
+  rotate: false
+  xy: 2, 2
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 345, 33
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 729, 235
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 793, 235
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 826, 26
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1089, 572
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 1609, 884
+  size: 138, 400
+  orig: 138, 400
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: true
+  xy: 346, 855
+  size: 167, 743
+  orig: 167, 743
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 826, 48
+  size: 205, 125
+  orig: 205, 125
+  offset: 0, 0
+  index: -1

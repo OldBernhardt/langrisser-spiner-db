@@ -1,0 +1,181 @@
+
+Dullahan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_1
+  rotate: true
+  xy: 383, 388
+  size: 6, 28
+  orig: 6, 28
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 2, 2
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 746, 397
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+blood_4
+  rotate: false
+  xy: 2008, 2002
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+blood_5
+  rotate: true
+  xy: 1426, 803
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+blood_6
+  rotate: false
+  xy: 746, 555
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 696, 247
+  size: 131, 43
+  orig: 131, 43
+  offset: 0, 0
+  index: -1
+jianjia_1
+  rotate: false
+  xy: 2, 25
+  size: 379, 369
+  orig: 379, 369
+  offset: 0, 0
+  index: -1
+jianjia_2
+  rotate: true
+  xy: 894, 1607
+  size: 430, 804
+  orig: 430, 804
+  offset: 0, 0
+  index: -1
+maozi_1
+  rotate: false
+  xy: 383, 29
+  size: 311, 349
+  orig: 311, 349
+  offset: 0, 0
+  index: -1
+maozi_2
+  rotate: true
+  xy: 1700, 1448
+  size: 589, 306
+  orig: 589, 306
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: false
+  xy: 1425, 282
+  size: 265, 267
+  orig: 265, 267
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1499, 1436
+  size: 164, 169
+  orig: 164, 169
+  offset: 0, 0
+  index: -1
+pijian_1
+  rotate: false
+  xy: 2, 396
+  size: 416, 869
+  orig: 416, 869
+  offset: 0, 0
+  index: -1
+pijian_10
+  rotate: false
+  xy: 1426, 859
+  size: 95, 410
+  orig: 95, 410
+  offset: 0, 0
+  index: -1
+pijian_11
+  rotate: false
+  xy: 1499, 1342
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+pijian_2
+  rotate: false
+  xy: 746, 583
+  size: 165, 682
+  orig: 165, 682
+  offset: 0, 0
+  index: -1
+pijian_3
+  rotate: true
+  xy: 420, 380
+  size: 885, 324
+  orig: 885, 324
+  offset: 0, 0
+  index: -1
+pijian_4
+  rotate: false
+  xy: 913, 551
+  size: 740, 81
+  orig: 740, 81
+  offset: 0, 0
+  index: -1
+pijian_5
+  rotate: false
+  xy: 894, 1271
+  size: 603, 334
+  orig: 603, 334
+  offset: 0, 0
+  index: -1
+pijian_6
+  rotate: false
+  xy: 1426, 815
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+pijian_7
+  rotate: false
+  xy: 913, 803
+  size: 511, 466
+  orig: 511, 466
+  offset: 0, 0
+  index: -1
+pijian_8
+  rotate: true
+  xy: 746, 428
+  size: 121, 677
+  orig: 121, 677
+  offset: 0, 0
+  index: -1
+pijian_9
+  rotate: false
+  xy: 913, 634
+  size: 524, 167
+  orig: 524, 167
+  offset: 0, 0
+  index: -1
+xiabai
+  rotate: false
+  xy: 2, 1267
+  size: 890, 770
+  orig: 890, 770
+  offset: 0, 0
+  index: -1

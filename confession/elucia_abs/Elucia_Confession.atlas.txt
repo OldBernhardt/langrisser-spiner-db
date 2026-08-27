@@ -1,0 +1,125 @@
+
+Elucia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 724
+  size: 1905, 1318
+  orig: 1905, 1318
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 817, 269
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 763, 569
+  size: 153, 582
+  orig: 153, 582
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 763, 422
+  size: 145, 539
+  orig: 145, 539
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1347, 570
+  size: 152, 567
+  orig: 152, 567
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 652, 161
+  size: 163, 259
+  orig: 163, 259
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1909, 2028
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 971, 411
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 652, 152
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1304, 557
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 428, 60
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1909, 2019
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 652, 440
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 817, 261
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+miansha
+  rotate: true
+  xy: 2, 75
+  size: 373, 648
+  orig: 373, 648
+  offset: 0, 0
+  index: -1
+toujin_1
+  rotate: true
+  xy: 2, 2
+  size: 71, 424
+  orig: 71, 424
+  offset: 0, 0
+  index: -1
+toujin_2
+  rotate: false
+  xy: 2, 450
+  size: 759, 272
+  orig: 759, 272
+  offset: 0, 0
+  index: -1

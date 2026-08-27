@@ -1,0 +1,160 @@
+
+Angelina_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 891
+  size: 995, 1146
+  orig: 995, 1146
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1467, 1642
+  size: 124, 186
+  orig: 124, 186
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 472, 456
+  size: 306, 433
+  orig: 306, 433
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1745, 1838
+  size: 199, 231
+  orig: 199, 231
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 999, 1034
+  size: 239, 481
+  orig: 239, 481
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 999, 909
+  size: 123, 208
+  orig: 123, 208
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 780, 648
+  size: 208, 241
+  orig: 208, 241
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 2
+  size: 336, 417
+  orig: 336, 417
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 2, 340
+  size: 468, 549
+  orig: 468, 549
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 472, 365
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 999, 1517
+  size: 239, 520
+  orig: 239, 520
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1240, 1514
+  size: 225, 314
+  orig: 225, 314
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1978, 2022
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1430, 1501
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1209, 1019
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1467, 1630
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 421, 321
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 999, 892
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 780, 631
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1240, 1374
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 1240, 1389
+  size: 188, 123
+  orig: 188, 123
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 1240, 1830
+  size: 503, 207
+  orig: 503, 207
+  offset: 0, 0
+  index: -1

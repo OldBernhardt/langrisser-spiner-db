@@ -1,0 +1,209 @@
+
+Riana_Zalrahda_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/body
+  rotate: false
+  xy: 2, 146
+  size: 735, 963
+  orig: 735, 963
+  offset: 0, 0
+  index: -1
+Riana/hair_1
+  rotate: true
+  xy: 1682, 839
+  size: 233, 275
+  orig: 233, 275
+  offset: 0, 0
+  index: -1
+Riana/hair_2
+  rotate: true
+  xy: 739, 56
+  size: 145, 299
+  orig: 145, 299
+  offset: 0, 0
+  index: -1
+Riana/hair_3
+  rotate: false
+  xy: 739, 203
+  size: 299, 382
+  orig: 299, 382
+  offset: 0, 0
+  index: -1
+Riana/hair_4
+  rotate: false
+  xy: 2, 28
+  size: 172, 116
+  orig: 172, 116
+  offset: 0, 0
+  index: -1
+Riana/hair_5
+  rotate: false
+  xy: 1516, 1483
+  size: 421, 563
+  orig: 421, 563
+  offset: 0, 0
+  index: -1
+Riana/hair_6
+  rotate: true
+  xy: 1516, 1074
+  size: 407, 496
+  orig: 407, 496
+  offset: 0, 0
+  index: -1
+Riana/hair_7
+  rotate: false
+  xy: 1044, 703
+  size: 154, 476
+  orig: 154, 476
+  offset: 0, 0
+  index: -1
+Riana/hand
+  rotate: false
+  xy: 1200, 699
+  size: 165, 153
+  orig: 165, 153
+  offset: 0, 0
+  index: -1
+Riana/highlight_left_1
+  rotate: false
+  xy: 888, 1160
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Riana/highlight_left_2
+  rotate: false
+  xy: 2, 15
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Riana/highlight_left_3
+  rotate: false
+  xy: 1367, 844
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Riana/highlight_left_4
+  rotate: false
+  xy: 1939, 2013
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Riana/highlight_right_1
+  rotate: false
+  xy: 1939, 2026
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Riana/highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Riana/highlight_right_3
+  rotate: false
+  xy: 909, 1172
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Riana/highlight_right_4
+  rotate: false
+  xy: 888, 1148
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Riana/toushi
+  rotate: true
+  xy: 739, 587
+  size: 522, 303
+  orig: 522, 303
+  offset: 0, 0
+  index: -1
+Zalrahda/body
+  rotate: false
+  xy: 2, 1111
+  size: 884, 935
+  orig: 884, 935
+  offset: 0, 0
+  index: -1
+Zalrahda/hair_1
+  rotate: false
+  xy: 888, 1181
+  size: 372, 865
+  orig: 372, 865
+  offset: 0, 0
+  index: -1
+Zalrahda/hair_2
+  rotate: false
+  xy: 1200, 854
+  size: 175, 325
+  orig: 175, 325
+  offset: 0, 0
+  index: -1
+Zalrahda/hair_3
+  rotate: false
+  xy: 1262, 1227
+  size: 252, 819
+  orig: 252, 819
+  offset: 0, 0
+  index: -1
+Zalrahda/hair_4
+  rotate: true
+  xy: 1377, 871
+  size: 201, 303
+  orig: 201, 303
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_left_1
+  rotate: false
+  xy: 1262, 1207
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_left_2
+  rotate: false
+  xy: 1377, 857
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_left_3
+  rotate: false
+  xy: 176, 134
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_right_1
+  rotate: false
+  xy: 1959, 1054
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_right_2
+  rotate: false
+  xy: 1044, 690
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Zalrahda/highlight_right_3
+  rotate: false
+  xy: 1960, 2036
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1

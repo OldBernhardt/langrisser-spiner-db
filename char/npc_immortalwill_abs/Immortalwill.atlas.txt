@@ -1,0 +1,13 @@
+
+Immortalwill.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 1545, 851
+  orig: 1545, 851
+  offset: 0, 0
+  index: -1

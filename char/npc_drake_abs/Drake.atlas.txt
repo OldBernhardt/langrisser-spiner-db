@@ -1,0 +1,174 @@
+
+Drake.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 439, 619
+  size: 165, 281
+  orig: 165, 281
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: true
+  xy: 439, 453
+  size: 164, 263
+  orig: 164, 263
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1194, 1231
+  size: 274, 112
+  orig: 274, 112
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 1828, 1755
+  size: 204, 289
+  orig: 204, 289
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 1828, 1717
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1194, 1130
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: false
+  xy: 2, 1506
+  size: 777, 538
+  orig: 777, 538
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 2, 444
+  size: 435, 456
+  orig: 435, 456
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 2, 2
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 155, 2
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 308, 2
+  size: 151, 102
+  orig: 151, 102
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 781, 1658
+  size: 515, 386
+  orig: 515, 386
+  offset: 0, 0
+  index: -1
+hand_inner
+  rotate: true
+  xy: 515, 60
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: false
+  xy: 1037, 570
+  size: 202, 198
+  orig: 202, 198
+  offset: 0, 0
+  index: -1
+leg_inner_down
+  rotate: true
+  xy: 2, 106
+  size: 336, 511
+  orig: 336, 511
+  offset: 0, 0
+  index: -1
+leg_inner_up_1
+  rotate: false
+  xy: 836, 1098
+  size: 356, 407
+  orig: 356, 407
+  offset: 0, 0
+  index: -1
+leg_inner_up_2
+  rotate: true
+  xy: 515, 220
+  size: 231, 174
+  orig: 231, 174
+  offset: 0, 0
+  index: -1
+leg_out_down
+  rotate: false
+  xy: 588, 924
+  size: 246, 580
+  orig: 246, 580
+  offset: 0, 0
+  index: -1
+leg_out_up_1
+  rotate: true
+  xy: 1298, 1707
+  size: 337, 528
+  orig: 337, 528
+  offset: 0, 0
+  index: -1
+leg_out_up_2
+  rotate: false
+  xy: 823, 577
+  size: 212, 191
+  orig: 212, 191
+  offset: 0, 0
+  index: -1
+mouth_1_Normal
+  rotate: true
+  xy: 606, 689
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 836, 770
+  size: 326, 364
+  orig: 326, 364
+  offset: 0, 0
+  index: -1
+tail_1
+  rotate: false
+  xy: 2, 902
+  size: 584, 602
+  orig: 584, 602
+  offset: 0, 0
+  index: -1
+tail_2
+  rotate: true
+  xy: 781, 1507
+  size: 149, 491
+  orig: 149, 491
+  offset: 0, 0
+  index: -1

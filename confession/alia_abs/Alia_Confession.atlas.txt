@@ -1,0 +1,146 @@
+
+Alia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 313
+  size: 1732, 1733
+  orig: 1732, 1733
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 9
+  size: 40, 159
+  orig: 40, 159
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1736, 1741
+  size: 144, 305
+  orig: 144, 305
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1882, 1875
+  size: 69, 171
+  orig: 69, 171
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1736, 1529
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 399, 128
+  size: 185, 183
+  orig: 185, 183
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 51
+  size: 260, 395
+  orig: 260, 395
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1736, 1508
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: true
+  xy: 2, 2
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 808, 305
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1882, 1857
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+highlight_left_5
+  rotate: false
+  xy: 163, 34
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+highlight_left_6
+  rotate: false
+  xy: 441, 116
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 784, 285
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 586, 129
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1953, 2032
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 784, 274
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+highlight_right_5
+  rotate: false
+  xy: 399, 100
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+highlight_right_6
+  rotate: false
+  xy: 399, 87
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shuyezhedang
+  rotate: false
+  xy: 586, 141
+  size: 196, 170
+  orig: 196, 170
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Bianca_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 834
+  size: 1195, 1212
+  orig: 1195, 1212
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 114
+  size: 570, 718
+  orig: 570, 718
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1744, 1032
+  size: 182, 291
+  orig: 182, 291
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 574, 188
+  size: 145, 354
+  orig: 145, 354
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 965, 415
+  size: 211, 417
+  orig: 211, 417
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 2, 13
+  size: 99, 393
+  orig: 99, 393
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1725, 1325
+  size: 175, 721
+  orig: 175, 721
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1581, 1001
+  size: 161, 315
+  orig: 161, 315
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1902, 1702
+  size: 111, 344
+  orig: 111, 344
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 574, 335
+  size: 389, 497
+  orig: 389, 497
+  offset: 0, 0
+  index: -1
+highlight_left_ 1
+  rotate: false
+  xy: 1178, 814
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1725, 1318
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 574, 164
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: true
+  xy: 2, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1199, 882
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 397, 106
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 965, 388
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 930, 313
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 1199, 906
+  size: 380, 410
+  orig: 380, 410
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 1199, 1318
+  size: 524, 728
+  orig: 524, 728
+  offset: 0, 0
+  index: -1

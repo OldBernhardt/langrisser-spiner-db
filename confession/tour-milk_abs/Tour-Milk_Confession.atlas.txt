@@ -1,0 +1,146 @@
+
+Tour-Milk_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 319
+  size: 1909, 1727
+  orig: 1909, 1727
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 1913, 1669
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 147
+  size: 170, 541
+  orig: 170, 541
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1913, 1690
+  size: 118, 107
+  orig: 118, 107
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1839, 215
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1913, 1810
+  size: 96, 236
+  orig: 96, 236
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1358, 98
+  size: 333, 219
+  orig: 333, 219
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 288, 47
+  size: 98, 153
+  orig: 98, 153
+  offset: 0, 0
+  index: -1
+hand_out
+  rotate: true
+  xy: 545, 76
+  size: 241, 428
+  orig: 241, 428
+  offset: 0, 0
+  index: -1
+high_light_left_1
+  rotate: false
+  xy: 288, 24
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+high_light_left_2
+  rotate: false
+  xy: 1839, 200
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+high_light_left_3
+  rotate: false
+  xy: 1358, 80
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+high_light_left_4
+  rotate: false
+  xy: 1895, 307
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+high_light_right_1
+  rotate: false
+  xy: 443, 125
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+high_light_right_2
+  rotate: false
+  xy: 443, 112
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+high_light_right_3
+  rotate: false
+  xy: 2011, 2031
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+high_light_right_4
+  rotate: false
+  xy: 468, 134
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 975, 78
+  size: 239, 381
+  orig: 239, 381
+  offset: 0, 0
+  index: -1
+hudie_1
+  rotate: false
+  xy: 1693, 33
+  size: 144, 284
+  orig: 144, 284
+  offset: 0, 0
+  index: -1
+hudie_2
+  rotate: true
+  xy: 2, 2
+  size: 143, 284
+  orig: 143, 284
+  offset: 0, 0
+  index: -1

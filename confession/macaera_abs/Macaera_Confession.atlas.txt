@@ -1,0 +1,76 @@
+
+Macaera_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 2, 2
+  size: 1754, 2044
+  orig: 1754, 2044
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1758, 1950
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1758, 1915
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1758, 1908
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1784, 1935
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1840, 2034
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1815, 2034
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1784, 1928
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1815, 2019
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1758, 1928
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

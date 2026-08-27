@@ -1,0 +1,286 @@
+
+Torland2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 378, 380
+  size: 143, 394
+  orig: 143, 394
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 1684, 662
+  size: 167, 300
+  orig: 167, 300
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 648, 190
+  size: 161, 188
+  orig: 161, 188
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: false
+  xy: 563, 102
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 1621, 475
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+blood_3
+  rotate: false
+  xy: 102, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: false
+  xy: 378, 525
+  size: 346, 497
+  orig: 346, 497
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: false
+  xy: 426, 75
+  size: 135, 66
+  orig: 135, 66
+  offset: 0, 0
+  index: -1
+eye_1_Firm
+  rotate: false
+  xy: 1074, 345
+  size: 135, 66
+  orig: 135, 66
+  offset: 0, 0
+  index: -1
+eye_1_Hurt
+  rotate: false
+  xy: 811, 210
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1345, 348
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 1477, 348
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 648, 122
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+eye_1_Smile
+  rotate: false
+  xy: 1211, 348
+  size: 132, 66
+  orig: 132, 66
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 426, 143
+  size: 220, 235
+  orig: 220, 235
+  offset: 0, 0
+  index: -1
+hair_inner
+  rotate: false
+  xy: 941, 307
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+hair_inner1
+  rotate: true
+  xy: 774, 413
+  size: 113, 425
+  orig: 113, 425
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 1986, 740
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+leginner
+  rotate: true
+  xy: 726, 528
+  size: 205, 481
+  orig: 205, 481
+  offset: 0, 0
+  index: -1
+legout
+  rotate: true
+  xy: 726, 735
+  size: 287, 515
+  orig: 287, 515
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 1074, 316
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: false
+  xy: 53, 27
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Hurt
+  rotate: false
+  xy: 1986, 714
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 53, 2
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 941, 279
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 780, 141
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: true
+  xy: 1209, 686
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+mouth_1_Smile
+  rotate: true
+  xy: 1641, 630
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+mouth_Unhappy_A
+  rotate: false
+  xy: 1127, 324
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+mouth_Unhappy_B
+  rotate: true
+  xy: 1641, 578
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+mouth_Unhappy_C
+  rotate: false
+  xy: 426, 49
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+mouth_Unhappy_D
+  rotate: true
+  xy: 378, 327
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 811, 279
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 2
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+pijian_inner
+  rotate: true
+  xy: 2, 48
+  size: 265, 422
+  orig: 265, 422
+  offset: 0, 0
+  index: -1
+pijian_out
+  rotate: true
+  xy: 1243, 684
+  size: 338, 439
+  orig: 338, 439
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 315
+  size: 374, 707
+  orig: 374, 707
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 1209, 499
+  size: 183, 430
+  orig: 183, 430
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: true
+  xy: 1201, 416
+  size: 81, 418
+  orig: 81, 418
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 1684, 831
+  size: 343, 191
+  orig: 343, 191
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Towa_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhen_1
+  rotate: true
+  xy: 1464, 787
+  size: 1259, 322
+  orig: 1259, 322
+  offset: 0, 0
+  index: -1
+baozhen_2
+  rotate: false
+  xy: 2, 300
+  size: 1207, 345
+  orig: 1207, 345
+  offset: 0, 0
+  index: -1
+beizi_left
+  rotate: true
+  xy: 1132, 1069
+  size: 977, 330
+  orig: 977, 330
+  offset: 0, 0
+  index: -1
+beizi_right
+  rotate: false
+  xy: 565, 8
+  size: 1099, 290
+  orig: 1099, 290
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 1035
+  size: 1128, 1011
+  orig: 1128, 1011
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 1679, 421
+  size: 231, 95
+  orig: 231, 95
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 2, 2
+  size: 296, 561
+  orig: 296, 561
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1788, 846
+  size: 193, 1200
+  orig: 193, 1200
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1211, 323
+  size: 247, 298
+  orig: 247, 298
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1788, 731
+  size: 113, 204
+  orig: 113, 204
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1776, 532
+  size: 118, 197
+  orig: 118, 197
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1896, 515
+  size: 96, 214
+  orig: 96, 214
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1433, 654
+  size: 131, 272
+  orig: 131, 272
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1223, 623
+  size: 444, 208
+  orig: 444, 208
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 2, 647
+  size: 1219, 386
+  orig: 1219, 386
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: true
+  xy: 1433, 1034
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1433, 646
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1211, 310
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1211, 623
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: true
+  xy: 1132, 1035
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1679, 413
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: true
+  xy: 1211, 631
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1460, 381
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+lamplight1
+  rotate: true
+  xy: 1460, 390
+  size: 262, 217
+  orig: 262, 217
+  offset: 0, 0
+  index: -1

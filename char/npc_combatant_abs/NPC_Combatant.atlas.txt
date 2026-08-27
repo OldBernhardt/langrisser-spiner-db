@@ -1,0 +1,293 @@
+
+NPC_Combatant.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminnerdown
+  rotate: false
+  xy: 254, 19
+  size: 158, 261
+  orig: 158, 261
+  offset: 0, 0
+  index: -1
+arminnerdown1
+  rotate: true
+  xy: 2, 4
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: false
+  xy: 398, 289
+  size: 171, 277
+  orig: 171, 277
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 254, 282
+  size: 142, 287
+  orig: 142, 287
+  offset: 0, 0
+  index: -1
+armoutdown1
+  rotate: true
+  xy: 911, 606
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 414, 41
+  size: 178, 246
+  orig: 178, 246
+  offset: 0, 0
+  index: -1
+blood1
+  rotate: false
+  xy: 818, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1003, 646
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+blood3
+  rotate: true
+  xy: 871, 47
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+blood4
+  rotate: false
+  xy: 944, 931
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+blood5
+  rotate: false
+  xy: 818, 35
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 571
+  size: 400, 451
+  orig: 400, 451
+  offset: 0, 0
+  index: -1
+bodydown
+  rotate: false
+  xy: 404, 568
+  size: 273, 228
+  orig: 273, 228
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 594, 8
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: true
+  xy: 892, 119
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 911, 662
+  size: 134, 110
+  orig: 134, 110
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: false
+  xy: 750, 218
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+jianjiainner1
+  rotate: false
+  xy: 892, 26
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: true
+  xy: 750, 378
+  size: 199, 184
+  orig: 199, 184
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 594, 161
+  size: 181, 154
+  orig: 181, 154
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 404, 798
+  size: 224, 538
+  orig: 224, 538
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: true
+  xy: 571, 344
+  size: 222, 177
+  orig: 222, 177
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 2, 47
+  size: 250, 522
+  orig: 250, 522
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: true
+  xy: 986, 848
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 101, 11
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: true
+  xy: 944, 845
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 414, 9
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: true
+  xy: 936, 523
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: true
+  xy: 990, 37
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+mouth_1_Surprise
+  rotate: false
+  xy: 187, 18
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_A
+  rotate: false
+  xy: 498, 9
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_B
+  rotate: true
+  xy: 918, 294
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_C
+  rotate: true
+  xy: 971, 522
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_D
+  rotate: true
+  xy: 971, 438
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 985, 321
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 936, 403
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 936, 440
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: true
+  xy: 950, 320
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 750, 79
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 679, 579
+  size: 217, 230
+  orig: 217, 230
+  offset: 0, 0
+  index: -1
+toukui1
+  rotate: false
+  xy: 748, 27
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1

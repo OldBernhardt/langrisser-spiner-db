@@ -1,0 +1,13 @@
+
+Dragonslayer_BG.png
+size: 4435,4435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 449
+  size: 4431, 3984
+  orig: 4431, 3984
+  offset: 0, 0
+  index: -1

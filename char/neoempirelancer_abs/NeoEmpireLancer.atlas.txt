@@ -1,0 +1,202 @@
+
+NeoEmpireLancer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: false
+  xy: 372, 15
+  size: 120, 312
+  orig: 120, 312
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 845, 527
+  size: 114, 225
+  orig: 114, 225
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: true
+  xy: 570, 319
+  size: 173, 333
+  orig: 173, 333
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: false
+  xy: 881, 760
+  size: 140, 255
+  orig: 140, 255
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 911, 75
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 346, 145
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 568
+  size: 319, 447
+  orig: 319, 447
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 961, 608
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 570, 494
+  size: 273, 258
+  orig: 273, 258
+  offset: 0, 0
+  index: -1
+face_inner
+  rotate: false
+  xy: 905, 382
+  size: 106, 143
+  orig: 106, 143
+  offset: 0, 0
+  index: -1
+hudang
+  rotate: false
+  xy: 323, 670
+  size: 237, 345
+  orig: 237, 345
+  offset: 0, 0
+  index: -1
+jianjia_inner1
+  rotate: false
+  xy: 494, 72
+  size: 207, 245
+  orig: 207, 245
+  offset: 0, 0
+  index: -1
+jianjia_inner2
+  rotate: true
+  xy: 494, 40
+  size: 30, 93
+  orig: 30, 93
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 562, 754
+  size: 317, 261
+  orig: 317, 261
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: true
+  xy: 2, 2
+  size: 163, 342
+  orig: 163, 342
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 372, 329
+  size: 196, 339
+  orig: 196, 339
+  offset: 0, 0
+  index: -1
+lingzi_inner1
+  rotate: false
+  xy: 323, 594
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+lingzi_inner2
+  rotate: false
+  xy: 961, 689
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: true
+  xy: 961, 629
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 589, 44
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 323, 568
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 639, 45
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 961, 579
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 845, 494
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 703, 75
+  size: 206, 242
+  orig: 206, 242
+  offset: 0, 0
+  index: -1
+yaojia_inner1
+  rotate: false
+  xy: 258, 183
+  size: 112, 383
+  orig: 112, 383
+  offset: 0, 0
+  index: -1
+yaojia_inner2
+  rotate: false
+  xy: 911, 87
+  size: 80, 293
+  orig: 80, 293
+  offset: 0, 0
+  index: -1
+yaojia_out
+  rotate: false
+  xy: 2, 167
+  size: 254, 399
+  orig: 254, 399
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+NPC_Quinn.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: true
+  xy: 2, 50
+  size: 75, 284
+  orig: 75, 284
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 584, 633
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: true
+  xy: 144, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 127
+  size: 297, 454
+  orig: 297, 454
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 208, 18
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: false
+  xy: 301, 164
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: false
+  xy: 934, 791
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 301, 200
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 380, 425
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 144, 15
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 645, 775
+  size: 190, 247
+  orig: 190, 247
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 322, 590
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 645, 718
+  size: 55, 178
+  orig: 55, 178
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 9
+  size: 39, 140
+  orig: 39, 140
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 301, 235
+  size: 82, 165
+  orig: 82, 165
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 301, 402
+  size: 77, 179
+  orig: 77, 179
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 453, 657
+  size: 96, 180
+  orig: 96, 180
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 934, 822
+  size: 74, 200
+  orig: 74, 200
+  offset: 0, 0
+  index: -1
+lingzi_1
+  rotate: false
+  xy: 453, 755
+  size: 190, 267
+  orig: 190, 267
+  offset: 0, 0
+  index: -1
+lingzi_2
+  rotate: false
+  xy: 837, 794
+  size: 95, 228
+  orig: 95, 228
+  offset: 0, 0
+  index: -1
+lingzi_3
+  rotate: true
+  xy: 380, 460
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 506, 630
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 493, 603
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 545, 630
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: false
+  xy: 532, 603
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: true
+  xy: 798, 599
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: true
+  xy: 798, 678
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 444, 429
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 466, 630
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: true
+  xy: 466, 590
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: true
+  xy: 798, 638
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 301, 133
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 635, 584
+  size: 132, 161
+  orig: 132, 161
+  offset: 0, 0
+  index: -1
+yifu_1
+  rotate: false
+  xy: 2, 583
+  size: 318, 439
+  orig: 318, 439
+  offset: 0, 0
+  index: -1
+yifu_2
+  rotate: false
+  xy: 322, 652
+  size: 129, 370
+  orig: 129, 370
+  offset: 0, 0
+  index: -1

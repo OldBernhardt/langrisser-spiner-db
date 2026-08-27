@@ -1,0 +1,104 @@
+
+Kaguya_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 680
+  size: 1179, 1338
+  orig: 1179, 1338
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1485, 654
+  size: 154, 258
+  orig: 154, 258
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 2, 16
+  size: 261, 494
+  orig: 261, 494
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 453, 353
+  size: 325, 442
+  orig: 325, 442
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1183, 676
+  size: 132, 300
+  orig: 132, 300
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1183, 810
+  size: 768, 1208
+  orig: 768, 1208
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 897, 306
+  size: 223, 372
+  orig: 223, 372
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 453, 337
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1953, 1985
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1122, 663
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1953, 1998
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1745, 795
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 2, 279
+  size: 449, 399
+  orig: 449, 399
+  offset: 0, 0
+  index: -1

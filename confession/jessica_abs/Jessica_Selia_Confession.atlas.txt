@@ -1,0 +1,202 @@
+
+Jessica_Selia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jessica/body
+  rotate: false
+  xy: 1043, 1081
+  size: 719, 965
+  orig: 719, 965
+  offset: 0, 0
+  index: -1
+Jessica/erhuan_inner
+  rotate: false
+  xy: 1617, 978
+  size: 51, 101
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+Jessica/erhuan_out
+  rotate: false
+  xy: 2023, 1908
+  size: 22, 138
+  orig: 22, 138
+  offset: 0, 0
+  index: -1
+Jessica/hair_1
+  rotate: true
+  xy: 2, 12
+  size: 153, 308
+  orig: 153, 308
+  offset: 0, 0
+  index: -1
+Jessica/hair_2
+  rotate: true
+  xy: 1043, 820
+  size: 259, 376
+  orig: 259, 376
+  offset: 0, 0
+  index: -1
+Jessica/hair_3
+  rotate: false
+  xy: 1034, 304
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+Jessica/hair_4
+  rotate: true
+  xy: 1764, 1094
+  size: 132, 270
+  orig: 132, 270
+  offset: 0, 0
+  index: -1
+Jessica/hair_5
+  rotate: false
+  xy: 1312, 618
+  size: 53, 200
+  orig: 53, 200
+  offset: 0, 0
+  index: -1
+Jessica/hair_inner
+  rotate: false
+  xy: 2, 1016
+  size: 1039, 1030
+  orig: 1039, 1030
+  offset: 0, 0
+  index: -1
+Jessica/highlight_left_1
+  rotate: false
+  xy: 1421, 840
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Jessica/highlight_left_2
+  rotate: true
+  xy: 1034, 989
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Jessica/highlight_left_3
+  rotate: true
+  xy: 1034, 1002
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Jessica/highlight_right_1
+  rotate: false
+  xy: 1034, 290
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Jessica/highlight_right_2
+  rotate: false
+  xy: 1034, 979
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Jessica/highlight_right_3
+  rotate: true
+  xy: 13, 2
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+Selia/body
+  rotate: true
+  xy: 2, 167
+  size: 847, 1030
+  orig: 847, 1030
+  offset: 0, 0
+  index: -1
+Selia/hair_1
+  rotate: false
+  xy: 1764, 1607
+  size: 257, 439
+  orig: 257, 439
+  offset: 0, 0
+  index: -1
+Selia/hair_2
+  rotate: false
+  xy: 1034, 461
+  size: 276, 357
+  orig: 276, 357
+  offset: 0, 0
+  index: -1
+Selia/hair_3
+  rotate: false
+  xy: 1421, 854
+  size: 194, 225
+  orig: 194, 225
+  offset: 0, 0
+  index: -1
+Selia/hair_4
+  rotate: false
+  xy: 1764, 1228
+  size: 272, 377
+  orig: 272, 377
+  offset: 0, 0
+  index: -1
+Selia/hair_5
+  rotate: true
+  xy: 312, 30
+  size: 135, 307
+  orig: 135, 307
+  offset: 0, 0
+  index: -1
+Selia/hair_6
+  rotate: true
+  xy: 621, 79
+  size: 86, 180
+  orig: 86, 180
+  offset: 0, 0
+  index: -1
+Selia/highlight_left_1
+  rotate: false
+  xy: 1764, 1081
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Selia/highlight_left_2
+  rotate: false
+  xy: 1034, 972
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+Selia/highlight_left_3
+  rotate: false
+  xy: 1187, 450
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Selia/highlight_right_1
+  rotate: false
+  xy: 312, 14
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Selia/highlight_right_2
+  rotate: false
+  xy: 2, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Selia/highlight_right_3
+  rotate: true
+  xy: 2036, 1212
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1

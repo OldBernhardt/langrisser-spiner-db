@@ -1,0 +1,13 @@
+
+IceAbyssMonarch_BG.png
+size: 5741,5741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 731
+  size: 5737, 5008
+  orig: 5737, 5008
+  offset: 0, 0
+  index: -1

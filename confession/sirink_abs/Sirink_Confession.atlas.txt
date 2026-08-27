@@ -1,0 +1,125 @@
+
+Sirink_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 505
+  size: 1278, 1495
+  orig: 1278, 1495
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1592, 796
+  size: 452, 187
+  orig: 452, 187
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1360, 256
+  size: 327, 372
+  orig: 327, 372
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 90
+  size: 413, 964
+  orig: 413, 964
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1282, 630
+  size: 618, 308
+  orig: 618, 308
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 968, 34
+  size: 469, 390
+  orig: 469, 390
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1767, 1495
+  size: 505, 266
+  orig: 505, 266
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1282, 1250
+  size: 483, 750
+  orig: 483, 750
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2035, 1990
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 2, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 2035, 1982
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1360, 242
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1282, 614
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1592, 779
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 113, 81
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1767, 1481
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 19
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1

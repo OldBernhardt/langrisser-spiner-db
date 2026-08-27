@@ -1,0 +1,181 @@
+
+NeoEmpireArcher.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_inner_down
+  rotate: true
+  xy: 711, 660
+  size: 121, 300
+  orig: 121, 300
+  offset: 0, 0
+  index: -1
+arm_inner_up
+  rotate: false
+  xy: 905, 431
+  size: 116, 227
+  orig: 116, 227
+  offset: 0, 0
+  index: -1
+arm_out_down
+  rotate: false
+  xy: 484, 290
+  size: 177, 306
+  orig: 177, 306
+  offset: 0, 0
+  index: -1
+arm_out_up
+  rotate: true
+  xy: 663, 251
+  size: 141, 258
+  orig: 141, 258
+  offset: 0, 0
+  index: -1
+blood_1
+  rotate: true
+  xy: 486, 2
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+blood_2
+  rotate: false
+  xy: 855, 70
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 568
+  size: 339, 454
+  orig: 339, 454
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: true
+  xy: 992, 960
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 663, 394
+  size: 240, 264
+  orig: 240, 264
+  offset: 0, 0
+  index: -1
+jianjia_inner_1
+  rotate: false
+  xy: 317, 11
+  size: 167, 214
+  orig: 167, 214
+  offset: 0, 0
+  index: -1
+jianjia_inner_2
+  rotate: false
+  xy: 855, 108
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+jianjia_out
+  rotate: false
+  xy: 711, 783
+  size: 279, 239
+  orig: 279, 239
+  offset: 0, 0
+  index: -1
+jingshi_inner_1
+  rotate: false
+  xy: 513, 609
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+jingshi_inner_2
+  rotate: false
+  xy: 2, 44
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+leg_inner
+  rotate: false
+  xy: 317, 227
+  size: 165, 339
+  orig: 165, 339
+  offset: 0, 0
+  index: -1
+leg_out
+  rotate: false
+  xy: 513, 686
+  size: 196, 336
+  orig: 196, 336
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 905, 403
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: false
+  xy: 733, 44
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 486, 14
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 343, 568
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: false
+  xy: 484, 257
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 486, 41
+  size: 208, 245
+  orig: 208, 245
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 733, 70
+  size: 120, 179
+  orig: 120, 179
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 2, 115
+  size: 313, 451
+  orig: 313, 451
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 343, 598
+  size: 168, 424
+  orig: 168, 424
+  offset: 0, 0
+  index: -1

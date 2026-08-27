@@ -1,0 +1,13 @@
+
+IceAbyssMonarch_Skin02_BG.png
+size: 5573,4794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin02_bg
+  rotate: false
+  xy: 2, 2
+  size: 5569, 4790
+  orig: 5569, 4790
+  offset: 0, 0
+  index: -1

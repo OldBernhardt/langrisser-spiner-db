@@ -1,0 +1,230 @@
+
+Gazesuccubus_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 528
+  size: 960, 1518
+  orig: 960, 1518
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 964, 774
+  size: 1272, 404
+  orig: 1272, 404
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 2, 9
+  size: 517, 552
+  orig: 517, 552
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1568, 858
+  size: 86, 433
+  orig: 86, 433
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1370, 824
+  size: 196, 500
+  orig: 196, 500
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 945, 33
+  size: 107, 156
+  orig: 107, 156
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 556, 24
+  size: 201, 502
+  orig: 201, 502
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1370, 1326
+  size: 227, 720
+  orig: 227, 720
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 954, 262
+  size: 172, 256
+  orig: 172, 256
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1599, 1293
+  size: 384, 302
+  orig: 384, 302
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 1966, 1280
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 556, 19
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 2, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1568, 1305
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+honyun
+  rotate: false
+  xy: 1591, 694
+  size: 155, 146
+  orig: 155, 146
+  offset: 0, 0
+  index: -1
+hudie_0_1
+  rotate: true
+  xy: 759, 27
+  size: 164, 184
+  orig: 164, 184
+  offset: 0, 0
+  index: -1
+hudie_0_2
+  rotate: false
+  xy: 1748, 694
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+hudie_1_1
+  rotate: false
+  xy: 2012, 1864
+  size: 28, 182
+  orig: 28, 182
+  offset: 0, 0
+  index: -1
+hudie_1_2
+  rotate: true
+  xy: 954, 142
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+hudie_2
+  rotate: false
+  xy: 1656, 992
+  size: 193, 299
+  orig: 193, 299
+  offset: 0, 0
+  index: -1
+hudie_2_1
+  rotate: true
+  xy: 1128, 153
+  size: 145, 161
+  orig: 145, 161
+  offset: 0, 0
+  index: -1
+hudie_2_2
+  rotate: true
+  xy: 1591, 625
+  size: 67, 168
+  orig: 67, 168
+  offset: 0, 0
+  index: -1
+hudie_3_1
+  rotate: false
+  xy: 1851, 1045
+  size: 113, 246
+  orig: 113, 246
+  offset: 0, 0
+  index: -1
+hudie_3_2
+  rotate: true
+  xy: 1656, 842
+  size: 148, 238
+  orig: 148, 238
+  offset: 0, 0
+  index: -1
+hudie_4_1
+  rotate: false
+  xy: 1320, 563
+  size: 119, 209
+  orig: 119, 209
+  offset: 0, 0
+  index: -1
+hudie_4_2
+  rotate: false
+  xy: 1128, 300
+  size: 169, 218
+  orig: 169, 218
+  offset: 0, 0
+  index: -1
+hudie_5_2
+  rotate: false
+  xy: 1441, 619
+  size: 148, 203
+  orig: 148, 203
+  offset: 0, 0
+  index: -1
+hudie_6
+  rotate: false
+  xy: 759, 193
+  size: 193, 333
+  orig: 193, 333
+  offset: 0, 0
+  index: -1
+point
+  rotate: true
+  xy: 1818, 731
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: true
+  xy: 1599, 1597
+  size: 449, 411
+  orig: 449, 411
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 1985, 1208
+  size: 61, 387
+  orig: 61, 387
+  offset: 0, 0
+  index: -1
+yanwu_1
+  rotate: false
+  xy: 964, 520
+  size: 354, 252
+  orig: 354, 252
+  offset: 0, 0
+  index: -1

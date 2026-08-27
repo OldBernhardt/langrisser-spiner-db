@@ -1,0 +1,34 @@
+
+SagnyBird_Skin02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 2, 34
+  size: 104, 211
+  orig: 104, 211
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 359, 2
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 215, 7
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+jiqiren
+  rotate: false
+  xy: 2, 140
+  size: 439, 328
+  orig: 439, 328
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Florentia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boby
+  rotate: false
+  xy: 2, 324
+  size: 1993, 1722
+  orig: 1993, 1722
+  offset: 0, 0
+  index: -1
+erhuan_1
+  rotate: true
+  xy: 351, 45
+  size: 69, 232
+  orig: 69, 232
+  offset: 0, 0
+  index: -1
+erhuan_2
+  rotate: false
+  xy: 1079, 130
+  size: 75, 192
+  orig: 75, 192
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 1997, 1987
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 351, 116
+  size: 206, 394
+  orig: 206, 394
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 22
+  size: 347, 300
+  orig: 347, 300
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 964, 117
+  size: 113, 205
+  orig: 113, 205
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 747, 113
+  size: 209, 215
+  orig: 209, 215
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 2, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 585, 77
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 585, 87
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 1997, 1972
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 351, 23
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1079, 118
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 351, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 1156, 308
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1

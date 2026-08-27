@@ -1,0 +1,174 @@
+
+Celica_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 1856, 204
+  size: 169, 225
+  orig: 169, 225
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 772
+  size: 1661, 1274
+  orig: 1661, 1274
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1887, 431
+  size: 140, 226
+  orig: 140, 226
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: false
+  xy: 1665, 966
+  size: 381, 1080
+  orig: 381, 1080
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: true
+  xy: 693, 496
+  size: 273, 1192
+  orig: 273, 1192
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1106, 66
+  size: 191, 428
+  orig: 191, 428
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1299, 259
+  size: 235, 555
+  orig: 235, 555
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 1665, 771
+  size: 193, 342
+  orig: 193, 342
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1887, 659
+  size: 110, 144
+  orig: 110, 144
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 1817, 78
+  size: 124, 71
+  orig: 124, 71
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 870, 46
+  size: 234, 383
+  orig: 234, 383
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 693, 8
+  size: 175, 421
+  orig: 175, 421
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: true
+  xy: 1299, 34
+  size: 223, 516
+  orig: 223, 516
+  offset: 0, 0
+  index: -1
+hands
+  rotate: false
+  xy: 2, 22
+  size: 689, 748
+  orig: 689, 748
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 2009, 942
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+highlight_10
+  rotate: false
+  xy: 23, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 85, 8
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: true
+  xy: 44, 4
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: true
+  xy: 95, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: true
+  xy: 2, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 2009, 921
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: false
+  xy: 114, 11
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 61, 5
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+highlight_9
+  rotate: true
+  xy: 105, 8
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

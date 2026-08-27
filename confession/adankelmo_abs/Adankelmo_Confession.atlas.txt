@@ -1,0 +1,125 @@
+
+Adankelmo_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 756
+  size: 929, 1255
+  orig: 929, 1255
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: false
+  xy: 1211, 1459
+  size: 136, 279
+  orig: 136, 279
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 933, 1175
+  size: 276, 836
+  orig: 276, 836
+  offset: 0, 0
+  index: -1
+hair_1_2
+  rotate: true
+  xy: 2, 434
+  size: 320, 902
+  orig: 320, 902
+  offset: 0, 0
+  index: -1
+hair_1_3
+  rotate: false
+  xy: 1452, 1778
+  size: 179, 233
+  orig: 179, 233
+  offset: 0, 0
+  index: -1
+hair_1_4
+  rotate: false
+  xy: 1211, 1740
+  size: 239, 271
+  orig: 239, 271
+  offset: 0, 0
+  index: -1
+hair_1_5
+  rotate: false
+  xy: 933, 914
+  size: 267, 259
+  orig: 267, 259
+  offset: 0, 0
+  index: -1
+hair_1_6
+  rotate: false
+  xy: 578, 183
+  size: 188, 249
+  orig: 188, 249
+  offset: 0, 0
+  index: -1
+hair_1_7
+  rotate: true
+  xy: 933, 795
+  size: 117, 254
+  orig: 117, 254
+  offset: 0, 0
+  index: -1
+hair_1_8
+  rotate: false
+  xy: 2, 18
+  size: 574, 414
+  orig: 574, 414
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: true
+  xy: 906, 726
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 768, 417
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 1211, 1444
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1452, 1763
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: false
+  xy: 1349, 1727
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 2, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 578, 86
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Suzette_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 2, 47
+  size: 301, 505
+  orig: 301, 505
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 554
+  size: 1230, 1434
+  orig: 1230, 1434
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 305, 137
+  size: 272, 415
+  orig: 272, 415
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 579, 323
+  size: 136, 229
+  orig: 136, 229
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1670, 1714
+  size: 184, 274
+  orig: 184, 274
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1234, 1367
+  size: 200, 307
+  orig: 200, 307
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1234, 1676
+  size: 434, 312
+  orig: 434, 312
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 305, 105
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1670, 1698
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1856, 1971
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1436, 1648
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 717, 540
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 41, 40
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: false
+  xy: 579, 306
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+texiao_1
+  rotate: false
+  xy: 1234, 1333
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+texiao_2
+  rotate: false
+  xy: 2, 9
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

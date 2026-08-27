@@ -1,0 +1,216 @@
+
+Isolde_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 701
+  size: 1931, 1345
+  orig: 1931, 1345
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 157
+  size: 203, 411
+  orig: 203, 411
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1935, 915
+  size: 101, 334
+  orig: 101, 334
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 17
+  size: 138, 357
+  orig: 138, 357
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1935, 1251
+  size: 75, 383
+  orig: 75, 383
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 975, 304
+  size: 893, 395
+  orig: 893, 395
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1870, 396
+  size: 128, 303
+  orig: 128, 303
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1935, 1636
+  size: 76, 410
+  orig: 76, 410
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 2, 362
+  size: 337, 971
+  orig: 337, 971
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 415, 204
+  size: 411, 156
+  orig: 411, 156
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 415, 145
+  size: 279, 57
+  orig: 279, 57
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 828, 72
+  size: 355, 230
+  orig: 355, 230
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 47, 2
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+highlight_10
+  rotate: false
+  xy: 828, 336
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 1185, 111
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 2013, 2026
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 1411, 129
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: false
+  xy: 696, 188
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 2, 2
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: true
+  xy: 2037, 2025
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 2028, 897
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+highlight_9
+  rotate: false
+  xy: 2037, 2035
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: false
+  xy: 1411, 138
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: false
+  xy: 1576, 190
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+hua_3
+  rotate: false
+  xy: 1690, 198
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+hua_4
+  rotate: false
+  xy: 361, 69
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+hua_5
+  rotate: false
+  xy: 1935, 720
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+hua_6
+  rotate: true
+  xy: 1935, 810
+  size: 103, 91
+  orig: 103, 91
+  offset: 0, 0
+  index: -1
+hua_7
+  rotate: true
+  xy: 1870, 316
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+hua_8
+  rotate: false
+  xy: 1185, 121
+  size: 224, 181
+  orig: 224, 181
+  offset: 0, 0
+  index: -1

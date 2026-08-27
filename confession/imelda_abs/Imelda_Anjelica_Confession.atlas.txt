@@ -1,0 +1,216 @@
+
+Imelda_Anjelica_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anjelica/arm_out_down
+  rotate: false
+  xy: 1783, 1077
+  size: 122, 500
+  orig: 122, 500
+  offset: 0, 0
+  index: -1
+Anjelica/arm_out_up
+  rotate: false
+  xy: 2, 28
+  size: 315, 429
+  orig: 315, 429
+  offset: 0, 0
+  index: -1
+Anjelica/body
+  rotate: false
+  xy: 957, 904
+  size: 824, 1128
+  orig: 824, 1128
+  offset: 0, 0
+  index: -1
+Anjelica/face
+  rotate: false
+  xy: 358, 566
+  size: 374, 370
+  orig: 374, 370
+  offset: 0, 0
+  index: -1
+Anjelica/hair_1
+  rotate: false
+  xy: 895, 595
+  size: 290, 307
+  orig: 290, 307
+  offset: 0, 0
+  index: -1
+Anjelica/hair_2
+  rotate: true
+  xy: 1443, 692
+  size: 210, 293
+  orig: 210, 293
+  offset: 0, 0
+  index: -1
+Anjelica/hair_3
+  rotate: false
+  xy: 1187, 638
+  size: 254, 264
+  orig: 254, 264
+  offset: 0, 0
+  index: -1
+Anjelica/hair_4
+  rotate: false
+  xy: 1907, 1205
+  size: 107, 136
+  orig: 107, 136
+  offset: 0, 0
+  index: -1
+Anjelica/hair_5
+  rotate: false
+  xy: 319, 55
+  size: 148, 347
+  orig: 148, 347
+  offset: 0, 0
+  index: -1
+Anjelica/hair_6
+  rotate: false
+  xy: 714, 377
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+Anjelica/hand_out
+  rotate: true
+  xy: 1095, 385
+  size: 208, 144
+  orig: 208, 144
+  offset: 0, 0
+  index: -1
+Anjelica/high_light_left_1
+  rotate: false
+  xy: 1443, 668
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Anjelica/high_light_left_2
+  rotate: false
+  xy: 1187, 627
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Anjelica/high_light_left_3
+  rotate: false
+  xy: 469, 112
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Anjelica/neck
+  rotate: true
+  xy: 1783, 896
+  size: 179, 143
+  orig: 179, 143
+  offset: 0, 0
+  index: -1
+Imelda/body
+  rotate: false
+  xy: 2, 938
+  size: 953, 1094
+  orig: 953, 1094
+  offset: 0, 0
+  index: -1
+Imelda/erhuan
+  rotate: true
+  xy: 2, 2
+  size: 24, 119
+  orig: 24, 119
+  offset: 0, 0
+  index: -1
+Imelda/eye
+  rotate: false
+  xy: 2, 459
+  size: 354, 477
+  orig: 354, 477
+  offset: 0, 0
+  index: -1
+Imelda/hair_1
+  rotate: true
+  xy: 358, 404
+  size: 160, 354
+  orig: 160, 354
+  offset: 0, 0
+  index: -1
+Imelda/hair_2
+  rotate: false
+  xy: 1783, 1579
+  size: 257, 453
+  orig: 257, 453
+  offset: 0, 0
+  index: -1
+Imelda/hair_3
+  rotate: false
+  xy: 734, 563
+  size: 159, 373
+  orig: 159, 373
+  offset: 0, 0
+  index: -1
+Imelda/hair_4
+  rotate: false
+  xy: 1907, 1343
+  size: 87, 234
+  orig: 87, 234
+  offset: 0, 0
+  index: -1
+Imelda/hair_5
+  rotate: false
+  xy: 469, 123
+  size: 145, 279
+  orig: 145, 279
+  offset: 0, 0
+  index: -1
+Imelda/hair_6
+  rotate: false
+  xy: 900, 380
+  size: 193, 213
+  orig: 193, 213
+  offset: 0, 0
+  index: -1
+Imelda/highlight_left_1
+  rotate: false
+  xy: 319, 40
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Imelda/highlight_left_2
+  rotate: false
+  xy: 941, 926
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Imelda/highlight_left_3
+  rotate: true
+  xy: 319, 434
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Imelda/highlight_right_1
+  rotate: false
+  xy: 895, 911
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+Imelda/highlight_right_2
+  rotate: false
+  xy: 616, 394
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Imelda/highlight_right_3
+  rotate: false
+  xy: 895, 904
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1

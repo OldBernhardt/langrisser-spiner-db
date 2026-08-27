@@ -1,0 +1,27 @@
+
+Gradi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianying1
+  rotate: false
+  xy: 2, 2
+  size: 1044, 1923
+  orig: 1044, 1923
+  offset: 0, 0
+  index: -1
+jianying2
+  rotate: false
+  xy: 1048, 940
+  size: 563, 985
+  orig: 563, 985
+  offset: 0, 0
+  index: -1
+jianying3
+  rotate: false
+  xy: 1048, 544
+  size: 164, 394
+  orig: 164, 394
+  offset: 0, 0
+  index: -1

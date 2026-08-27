@@ -1,0 +1,132 @@
+
+Hilda_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 789
+  size: 1761, 1257
+  orig: 1761, 1257
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 2, 12
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 2, 444
+  size: 343, 1127
+  orig: 343, 1127
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1765, 1234
+  size: 198, 378
+  orig: 198, 378
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 580, 116
+  size: 160, 179
+  orig: 160, 179
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 580, 297
+  size: 145, 437
+  orig: 145, 437
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1530, 517
+  size: 177, 270
+  orig: 177, 270
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 60
+  size: 382, 576
+  orig: 382, 576
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1131, 487
+  size: 300, 397
+  orig: 300, 397
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: false
+  xy: 1765, 1614
+  size: 257, 432
+  orig: 257, 432
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 40, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1019, 432
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 1965, 1603
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+highlight_left_4
+  rotate: false
+  xy: 2024, 2035
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1765, 1223
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: false
+  xy: 1131, 474
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 2, 2
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+highlight_right_4
+  rotate: true
+  xy: 26, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1

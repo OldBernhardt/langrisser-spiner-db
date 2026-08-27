@@ -1,0 +1,97 @@
+
+PorterFemale.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: false
+  xy: 590, 432
+  size: 160, 577
+  orig: 160, 577
+  offset: 0, 0
+  index: -1
+armout
+  rotate: false
+  xy: 2, 463
+  size: 299, 546
+  orig: 299, 546
+  offset: 0, 0
+  index: -1
+changpao_down1
+  rotate: false
+  xy: 303, 507
+  size: 285, 502
+  orig: 285, 502
+  offset: 0, 0
+  index: -1
+changpao_down2
+  rotate: false
+  xy: 875, 10
+  size: 105, 439
+  orig: 105, 439
+  offset: 0, 0
+  index: -1
+changpao_down3
+  rotate: false
+  xy: 761, 216
+  size: 112, 233
+  orig: 112, 233
+  offset: 0, 0
+  index: -1
+changpao_down4
+  rotate: false
+  xy: 278, 27
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+changpao_up
+  rotate: false
+  xy: 752, 683
+  size: 262, 326
+  orig: 262, 326
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 311, 190
+  size: 267, 315
+  orig: 267, 315
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 752, 451
+  size: 230, 251
+  orig: 230, 251
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 2, 153
+  size: 307, 308
+  orig: 307, 308
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 2, 2
+  size: 149, 274
+  orig: 149, 274
+  offset: 0, 0
+  index: -1
+xiangquan
+  rotate: false
+  xy: 311, 134
+  size: 157, 54
+  orig: 157, 54
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 580, 211
+  size: 219, 179
+  orig: 219, 179
+  offset: 0, 0
+  index: -1

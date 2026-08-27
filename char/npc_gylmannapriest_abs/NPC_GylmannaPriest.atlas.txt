@@ -1,0 +1,300 @@
+
+NPC_GylmannaPriest.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood1
+  rotate: true
+  xy: 390, 51
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+blood2
+  rotate: false
+  xy: 1976, 826
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+body_down
+  rotate: true
+  xy: 394, 299
+  size: 392, 526
+  orig: 392, 526
+  offset: 0, 0
+  index: -1
+body_up
+  rotate: true
+  xy: 390, 81
+  size: 216, 303
+  orig: 216, 303
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: false
+  xy: 979, 268
+  size: 52, 423
+  orig: 52, 423
+  offset: 0, 0
+  index: -1
+daizi_2
+  rotate: false
+  xy: 922, 279
+  size: 55, 412
+  orig: 55, 412
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1519, 681
+  size: 182, 204
+  orig: 182, 204
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1725, 687
+  size: 69, 211
+  orig: 69, 211
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1033, 479
+  size: 40, 212
+  orig: 40, 212
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1746, 852
+  size: 170, 248
+  orig: 170, 248
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 1033, 304
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 1938, 683
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 1996, 952
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 1725, 758
+  size: 92, 249
+  orig: 92, 249
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 1082, 698
+  size: 165, 435
+  orig: 165, 435
+  offset: 0, 0
+  index: -1
+hat_3
+  rotate: true
+  xy: 695, 54
+  size: 243, 204
+  orig: 243, 204
+  offset: 0, 0
+  index: -1
+hat_4
+  rotate: true
+  xy: 2, 9
+  size: 39, 239
+  orig: 39, 239
+  offset: 0, 0
+  index: -1
+hat_5
+  rotate: false
+  xy: 901, 69
+  size: 122, 197
+  orig: 122, 197
+  offset: 0, 0
+  index: -1
+mouth_1_Angry
+  rotate: false
+  xy: 1062, 286
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: false
+  xy: 928, 54
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Mighty
+  rotate: false
+  xy: 1033, 285
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 447, 68
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: false
+  xy: 901, 54
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_A
+  rotate: false
+  xy: 243, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: false
+  xy: 243, 33
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_A
+  rotate: false
+  xy: 1996, 913
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_B
+  rotate: false
+  xy: 267, 19
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_C
+  rotate: false
+  xy: 1033, 270
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+mouth_2_Happy_D
+  rotate: false
+  xy: 1996, 933
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_A
+  rotate: true
+  xy: 1976, 799
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_B
+  rotate: false
+  xy: 278, 33
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_C
+  rotate: false
+  xy: 423, 62
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+mouth_2_Normal_D
+  rotate: true
+  xy: 901, 276
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_A
+  rotate: false
+  xy: 302, 36
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_B
+  rotate: false
+  xy: 1996, 883
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_C
+  rotate: false
+  xy: 1996, 897
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+mouth_2_Unhappy_D
+  rotate: false
+  xy: 243, 14
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 1033, 386
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 2, 50
+  size: 386, 285
+  orig: 386, 285
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 394, 693
+  size: 329, 686
+  orig: 329, 686
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: true
+  xy: 1082, 865
+  size: 157, 662
+  orig: 157, 662
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: false
+  xy: 2, 337
+  size: 390, 685
+  orig: 390, 685
+  offset: 0, 0
+  index: -1

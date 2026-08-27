@@ -1,0 +1,167 @@
+
+Lucretia_Confession.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 737
+  size: 1367, 1309
+  orig: 1367, 1309
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1696, 1761
+  size: 350, 285
+  orig: 350, 285
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 1696, 1229
+  size: 201, 267
+  orig: 201, 267
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1039, 240
+  size: 352, 495
+  orig: 352, 495
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 602, 108
+  size: 138, 165
+  orig: 138, 165
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 315, 153
+  size: 93, 285
+  orig: 93, 285
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 2, 76
+  size: 170, 311
+  orig: 170, 311
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 2, 248
+  size: 1035, 487
+  orig: 1035, 487
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 1371, 1046
+  size: 1000, 323
+  orig: 1000, 323
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1393, 283
+  size: 761, 430
+  orig: 761, 430
+  offset: 0, 0
+  index: -1
+highlight_left_1
+  rotate: false
+  xy: 1393, 252
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+highlight_left_2
+  rotate: false
+  xy: 1867, 1220
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+highlight_left_3
+  rotate: false
+  xy: 2, 59
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+highlight_right_1
+  rotate: false
+  xy: 1990, 1727
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+highlight_right_2
+  rotate: true
+  xy: 1696, 1046
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+highlight_right_3
+  rotate: false
+  xy: 1371, 1028
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+yezi_1
+  rotate: true
+  xy: 1899, 1322
+  size: 174, 85
+  orig: 174, 85
+  offset: 0, 0
+  index: -1
+yezi_2
+  rotate: false
+  xy: 1696, 1058
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+yezi_3-1
+  rotate: true
+  xy: 888, 155
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+yezi_3-2
+  rotate: false
+  xy: 1899, 1239
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+yezi_4-1
+  rotate: false
+  xy: 769, 130
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+yezi_4-2
+  rotate: true
+  xy: 315, 78
+  size: 73, 114
+  orig: 73, 114
+  offset: 0, 0
+  index: -1
+yezi_4-3
+  rotate: false
+  xy: 1696, 1498
+  size: 292, 261
+  orig: 292, 261
+  offset: 0, 0
+  index: -1

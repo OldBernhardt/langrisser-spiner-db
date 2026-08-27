@@ -1,0 +1,426 @@
+
+NPC_EIvis.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood_1
+  rotate: false
+  xy: 1966, 1867
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Blood_2
+  rotate: false
+  xy: 1737, 785
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+eye_1_Angry
+  rotate: false
+  xy: 1680, 444
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Injury
+  rotate: false
+  xy: 1966, 1895
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Mighty
+  rotate: false
+  xy: 98, 63
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+eye_1_Firm
+  rotate: false
+  xy: 98, 63
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+eye_1_Battle_Weak
+  rotate: true
+  xy: 1932, 716
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+eye_1_Normal_1
+  rotate: false
+  xy: 1674, 780
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+eye_1_Normal_2
+  rotate: false
+  xy: 780, 518
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+eye_1_Normal_3
+  rotate: false
+  xy: 781, 23
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+eye_1_Smile_1
+  rotate: false
+  xy: 2, 23
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1674, 569
+  size: 209, 256
+  orig: 209, 256
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 1680, 473
+  size: 94, 166
+  orig: 94, 166
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1460, 319
+  size: 123, 130
+  orig: 123, 130
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 1592, 335
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 994, 172
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 1674, 807
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 1454, 895
+  size: 301, 420
+  orig: 301, 420
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 456, 3
+  size: 186, 323
+  orig: 186, 323
+  offset: 0, 0
+  index: -1
+hurt_1
+  rotate: true
+  xy: 2, 48
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+hurt_2
+  rotate: false
+  xy: 1966, 1841
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+hurt_3
+  rotate: false
+  xy: 1681, 384
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+hurt_4
+  rotate: false
+  xy: 1848, 516
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+mouth_1Angry
+  rotate: false
+  xy: 1681, 424
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Injury
+  rotate: true
+  xy: 2029, 1878
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_Weak
+  rotate: false
+  xy: 887, 32
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Battle_mighty
+  rotate: false
+  xy: 780, 499
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Firm
+  rotate: false
+  xy: 1848, 476
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_A
+  rotate: true
+  xy: 1932, 671
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_B
+  rotate: false
+  xy: 781, 2
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_C
+  rotate: false
+  xy: 994, 150
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Happy_D
+  rotate: false
+  xy: 1848, 494
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_1
+  rotate: false
+  xy: 2, 5
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_A
+  rotate: false
+  xy: 2, 5
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_B
+  rotate: false
+  xy: 161, 71
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_C
+  rotate: true
+  xy: 1900, 522
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Normal_D
+  rotate: false
+  xy: 1747, 453
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+mouth_1_Smile_1
+  rotate: false
+  xy: 825, 499
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_A
+  rotate: false
+  xy: 843, 527
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_B
+  rotate: false
+  xy: 1793, 456
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_C
+  rotate: true
+  xy: 994, 104
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+mouth_1_Unhappy_D
+  rotate: false
+  xy: 844, 27
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1470, 444
+  size: 111, 208
+  orig: 111, 208
+  offset: 0, 0
+  index: -1
+pifeng_1
+  rotate: false
+  xy: 1470, 557
+  size: 202, 336
+  orig: 202, 336
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: false
+  xy: 2, 505
+  size: 776, 1541
+  orig: 776, 1541
+  offset: 0, 0
+  index: -1
+pifeng_3
+  rotate: false
+  xy: 1454, 1317
+  size: 510, 729
+  orig: 510, 729
+  offset: 0, 0
+  index: -1
+pifeng_4
+  rotate: false
+  xy: 2, 88
+  size: 452, 415
+  orig: 452, 415
+  offset: 0, 0
+  index: -1
+pifeng_5
+  rotate: false
+  xy: 1757, 780
+  size: 198, 535
+  orig: 198, 535
+  offset: 0, 0
+  index: -1
+pifeng_6
+  rotate: false
+  xy: 956, 519
+  size: 264, 278
+  orig: 264, 278
+  offset: 0, 0
+  index: -1
+pifeng_7
+  rotate: false
+  xy: 780, 545
+  size: 174, 1501
+  orig: 174, 1501
+  offset: 0, 0
+  index: -1
+pifeng_8
+  rotate: false
+  xy: 456, 191
+  size: 311, 312
+  orig: 311, 312
+  offset: 0, 0
+  index: -1
+pijian_1
+  rotate: true
+  xy: 1067, 208
+  size: 147, 202
+  orig: 147, 202
+  offset: 0, 0
+  index: -1
+pijian_2
+  rotate: false
+  xy: 1212, 811
+  size: 240, 1235
+  orig: 240, 1235
+  offset: 0, 0
+  index: -1
+pijian_3
+  rotate: true
+  xy: 769, 357
+  size: 140, 689
+  orig: 140, 689
+  offset: 0, 0
+  index: -1
+pijian_4
+  rotate: false
+  xy: 769, 227
+  size: 296, 128
+  orig: 296, 128
+  offset: 0, 0
+  index: -1
+shirt    _1
+  rotate: true
+  xy: 1271, 184
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+shirt    _2
+  rotate: true
+  xy: 1966, 1921
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+shirt    _3
+  rotate: false
+  xy: 956, 799
+  size: 254, 1247
+  orig: 254, 1247
+  offset: 0, 0
+  index: -1
+toushi_1
+  rotate: false
+  xy: 1222, 499
+  size: 246, 310
+  orig: 246, 310
+  offset: 0, 0
+  index: -1
+toushi_2
+  rotate: false
+  xy: 781, 50
+  size: 211, 175
+  orig: 211, 175
+  offset: 0, 0
+  index: -1
